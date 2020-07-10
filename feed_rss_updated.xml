@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Thu, 09 Jul 2020 22:22:19 -0000</pubDate>
-    <lastBuildDate>Thu, 09 Jul 2020 22:22:19 -0000</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2020 13:34:12 -0000</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2020 13:34:12 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -27,6 +27,24 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Cataloguer vos données géographiques en .NET</title>
+      <description>Catalogue vos données géographiques avec Isogeo (GeoSIK)</description>
+      <link>https://static.geotribu.fr/articles/2012/art_2012-07-02/</link>
+      <pubDate>Fri, 10 Jul 2020 13:33:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 10 juillet 2020</title>
+      <description>Revue de presse géomatique du 10 juillet 2020 : éditeur OSM en Python, flux RSS Geotribu, Landsat dans le cloud, vision sur le futur du SIG open source, 16è conférence gvSIG</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-07-10/</link>
+      <pubDate>Fri, 10 Jul 2020 13:33:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
     
     <item>
       <title>Allégez votre librairie OpenLayers avec openlayerer</title>
@@ -718,32 +736,6 @@ Bon cette semaine c&#39;est un vis ma vie à Terre Neuve. Pour l&#39;anecdote, j
 
 **Mots-clés :** Open Source | Database | Licen</description>
       <link>https://static.geotribu.fr/articles/2009/art_2009-08-10/</link>
-      <pubDate>Tue, 30 Jun 2020 09:13:15 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>PuzzleGis en version 0.4</title>
-      <description># PuzzleGis en version 0.4
-
-
-:calendar: Date de publication initiale : 17 août 2009
-
-**Mots-clés :** Puzzle Gis | Java | Open Source
-
-
-![avatar7268_13</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-08-17/</link>
-      <pubDate>Tue, 30 Jun 2020 09:13:15 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Walking papers, ou comment disposer d'OpenStreetMap sur papier</title>
-      <description>Walking papers, ou comment disposer d&#39;OpenStreetMap sur papier</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-08-19/</link>
       <pubDate>Tue, 30 Jun 2020 09:13:15 -0000</pubDate>
       <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
       
