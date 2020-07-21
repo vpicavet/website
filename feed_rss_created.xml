@@ -7,7 +7,7 @@
     <title>Geotribu</title>
     <description>Veille libre sur la géomatique</description>
     <link>https://static.geotribu.fr/</link>
-    <atom:link href="https://static.geotribu.fr//feed_rss_created.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://static.geotribu.fr/feed_rss_created.xml" rel="self" type="application/rss+xml" />
 
     <!-- Optional elements -->
     <managingEditor>Geotribu</managingEditor>
@@ -16,12 +16,12 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Sat, 11 Jul 2020 07:37:13 -0000</pubDate>
-    <lastBuildDate>Sat, 11 Jul 2020 07:37:13 -0000</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2020 16:08:13 -0000</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2020 16:08:13 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
-    <generator>MkDocs RSS plugin - v0.2.0</generator>
+    <generator>MkDocs RSS plugin - v0.3.0</generator>
 
     <!-- Feed illustration -->
     
@@ -33,7 +33,7 @@
       <description>Revue de presse géomatique du 10 juillet 2020 : éditeur OSM en Python, flux RSS Geotribu, Landsat dans le cloud, vision sur le futur du SIG open source, 16è conférence gvSIG</description>
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-07-10/</link>
       <pubDate>Fri, 10 Jul 2020 13:33:18 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -42,7 +42,7 @@
       <description>Comment déployer QGIS sur Windows avec Powershell, via chocolatey ou un script.</description>
       <link>https://static.geotribu.fr/articles/2020/2020-07-03_deploy_qgis_windows/</link>
       <pubDate>Wed, 01 Jul 2020 07:06:07 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -51,7 +51,7 @@
       <description>Revue de presse du 6 Mars</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-03-06/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -60,7 +60,7 @@
       <description>Revue de presse du 13 Mars</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-03-13/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -69,7 +69,7 @@
       <description>Revue de presse du 20 mars</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-03-16/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -78,7 +78,7 @@
       <description>Revue de presse du 27 mars</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-03-27/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -87,7 +87,7 @@
       <description>Revue de presse du 7 avril</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-04-07/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -96,7 +96,7 @@
       <description>Revue de presse du 10 Avril</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-04-10/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -105,7 +105,7 @@
       <description>Revue de presse du 17 avril</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-04-20/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -114,7 +114,7 @@
       <description>Revue de presse du 24 avril</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-04-24/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -123,7 +123,7 @@
       <description>Revue de presse du 1 Mai</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-05-01/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -132,7 +132,7 @@
       <description>Revue de presse du 15 mai</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-05-16/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -141,7 +141,7 @@
       <description>Revue de presse du 29 mai</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-05-29/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -150,7 +150,7 @@
       <description>Revue de presse du 36 mai</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-06-05/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -159,7 +159,7 @@
       <description>Revue de presse du 12 Juin</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-06-12/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -168,7 +168,7 @@
       <description>Revue de presse du 19 juin</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-06-19/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -177,7 +177,7 @@
       <description>Revue de presse du 3 Juillet</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-07-03/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -186,7 +186,7 @@
       <description>Revue de presse du 17 juillet</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-07-17/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -195,7 +195,7 @@
       <description>Revue de presse du... retour des vacances</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-09-01/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -204,7 +204,7 @@
       <description>Revue de presse du 18 septembre</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-09-18/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -213,7 +213,7 @@
       <description>Revue de presse du 25 Septembre</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-09-21/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -222,7 +222,7 @@
       <description>Revue de presse du 2 Octobre</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-10-02/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -231,7 +231,7 @@
       <description>Revue de presse du 16 Octobre</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-10-16/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -240,7 +240,7 @@
       <description>Revue de presse du 13 Novembre</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-11-13/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -249,7 +249,7 @@
       <description>Revue de presse du 11 décembre</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-11-30/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -258,7 +258,7 @@
       <description>Revue de presse du 18 décembre</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-12-21/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -267,7 +267,7 @@
       <description>Revue de presse du 15 janvier</description>
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-01-15/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -276,7 +276,7 @@
       <description>Revue de presse du 5 Février</description>
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-02-05/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -285,7 +285,7 @@
       <description>Revue de presse du 12 Février</description>
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-02-12/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -294,7 +294,7 @@
       <description>Revue de presse du 19 février</description>
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-02-19/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -303,7 +303,7 @@
       <description>Revue de presse du 4 mars</description>
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-03-04/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -312,7 +312,7 @@
       <description>Revue de presse du 11 Mars</description>
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-03-11/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -321,7 +321,7 @@
       <description>Revue de presse du 15 Avril</description>
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-04-22/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -330,7 +330,7 @@
       <description>Revue de presse du 24 juin</description>
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-06-24/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -339,7 +339,7 @@
       <description>Revue de presse du 1 juillet</description>
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-07-01/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -348,7 +348,7 @@
       <description>Revue de presse du 7 octobre</description>
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-10-07/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -357,7 +357,7 @@
       <description>Revue de presse du 28 octobre</description>
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-10-14/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -366,7 +366,7 @@
       <description>Revue de Presse du 16 Décembre</description>
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-12-05/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -375,7 +375,7 @@
       <description>Revue de presse du 27 janvier</description>
       <link>https://static.geotribu.fr/rdp/2017/rdp_2017-01-27/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -384,7 +384,7 @@
       <description>Ma configuration et mon outillage pour Python en 2020.</description>
       <link>https://static.geotribu.fr/articles/2020/2020-06-19_setup_python/</link>
       <pubDate>Tue, 16 Jun 2020 13:36:17 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -393,7 +393,7 @@
       <description>Description pour le SEO.</description>
       <link>https://static.geotribu.fr/articles/templates/template_article/</link>
       <pubDate>Tue, 16 Jun 2020 09:54:05 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -402,7 +402,7 @@
       <description>Revue de presse géomatique du 26 juin 2020 : QGIS 3.14, Mapillary rachetée par Facebook, webinaires Isogeo, certaes du confinement de Bloomberg</description>
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-06-26/</link>
       <pubDate>Tue, 16 Jun 2020 08:11:16 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -411,7 +411,7 @@
       <description>Revue de presse du 12 juin 2020</description>
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-06-12/</link>
       <pubDate>Fri, 05 Jun 2020 19:33:22 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -425,7 +425,7 @@
 Tuto GeoTribu d&#39;introduction à MongoDB pou</description>
       <link>https://static.geotribu.fr/articles/2013/art_2013-06-05_mongo_spatial/</link>
       <pubDate>Fri, 05 Jun 2020 10:30:16 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -436,7 +436,7 @@ Tuto GeoTribu d&#39;introduction à MongoDB pou</description>
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/_n-Rkciulfs&#34; frameborder=&#34;0&#34; allow=&#34;acceler</description>
       <link>https://static.geotribu.fr/articles/2013/art_2013-06-13_itw_davidjonglez/</link>
       <pubDate>Fri, 05 Jun 2020 10:30:16 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -447,7 +447,7 @@ Tuto GeoTribu d&#39;introduction à MongoDB pou</description>
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/H2sxUHeqB8g&#34; frameborder=&#34;0&#34; allow=&#34;acceler</description>
       <link>https://static.geotribu.fr/articles/2014/art_2014-08-29_itw_drones_crisis/</link>
       <pubDate>Fri, 05 Jun 2020 10:30:16 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -456,7 +456,7 @@ Tuto GeoTribu d&#39;introduction à MongoDB pou</description>
       <description>DicoGIS, utilitaire pour générer automatiquement un dictionnaire de métadonnées sur une base SIG.</description>
       <link>https://static.geotribu.fr/articles/2014/art_2014-09-25_dicogis/</link>
       <pubDate>Fri, 05 Jun 2020 10:30:16 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -470,7 +470,7 @@ Tuto GeoTribu d&#39;introduction à MongoDB pou</description>
 **Mots-clé</description>
       <link>https://static.geotribu.fr/articles/2014/art_2014-11-13/</link>
       <pubDate>Fri, 05 Jun 2020 10:30:16 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -486,7 +486,7 @@ Les articles sont regroupés par année de publication. On y toruve :
 * de simples br</description>
       <link>https://static.geotribu.fr/articles/</link>
       <pubDate>Mon, 01 Jun 2020 10:03:24 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     
@@ -495,7 +495,7 @@ Les articles sont regroupés par année de publication. On y toruve :
       <description>Lancement du blog de Geotribu</description>
       <link>https://static.geotribu.fr/articles/2008/art_2008-11-03/</link>
       <pubDate>Sun, 31 May 2020 22:33:13 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_created.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
     </item>
     

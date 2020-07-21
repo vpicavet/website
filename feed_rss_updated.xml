@@ -7,7 +7,7 @@
     <title>Geotribu</title>
     <description>Veille libre sur la géomatique</description>
     <link>https://static.geotribu.fr/</link>
-    <atom:link href="https://static.geotribu.fr//feed_rss_updated.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://static.geotribu.fr/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
 
     <!-- Optional elements -->
     <managingEditor>Geotribu</managingEditor>
@@ -16,17 +16,52 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Sat, 11 Jul 2020 07:37:13 -0000</pubDate>
-    <lastBuildDate>Sat, 11 Jul 2020 07:37:13 -0000</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2020 16:08:13 -0000</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2020 16:08:13 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
-    <generator>MkDocs RSS plugin - v0.2.0</generator>
+    <generator>MkDocs RSS plugin - v0.3.0</generator>
 
     <!-- Feed illustration -->
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Qui sommes nous ?</title>
+      <description>Contributeurs actifs de Geotribu et remerciements aux personnes et projets libres qui rendent l&#39;aventure possible.</description>
+      <link>https://static.geotribu.fr/acknowledgements/</link>
+      <pubDate>Tue, 21 Jul 2020 16:01:16 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 10 juillet 2020</title>
+      <description>Revue de presse géomatique du 10 juillet 2020 : éditeur OSM en Python, flux RSS Geotribu, Landsat dans le cloud, vision sur le futur du SIG open source, 16è conférence gvSIG</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-07-10/</link>
+      <pubDate>Tue, 21 Jul 2020 15:07:33 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Accueil</title>
+      <description># Accueil
+
+Bienvenue sur Geotribu !
+
+![Bannière Géotribu](https://cdn.geotribu.fr/images/internal/charte/geotribu_banner.jpg)
+
+----
+
+## S&#39;abonner aux </description>
+      <link>https://static.geotribu.fr/</link>
+      <pubDate>Tue, 21 Jul 2020 15:07:04 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
     
     <item>
       <title>Les crimes et incendies s'affichent en WebMapping</title>
@@ -41,7 +76,7 @@
 ![icône glo</description>
       <link>https://static.geotribu.fr/articles/2009/art_2009-08-03/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -58,7 +93,7 @@
 ![icône globe](http://geotribu.net/sites</description>
       <link>https://static.geotribu.fr/articles/2009/art_2009-08-06/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -75,7 +110,7 @@
 ![icône globe]</description>
       <link>https://static.geotribu.fr/articles/2009/art_2009-09-15/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -89,7 +124,7 @@
 **Mots-clés :** JavaScript | </description>
       <link>https://static.geotribu.fr/articles/2009/art_2009-09-27/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -106,7 +141,7 @@
 ![](https://cdn.g</description>
       <link>https://static.geotribu.fr/articles/2009/art_2009-11-23/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -123,7 +158,7 @@
 ![ic</description>
       <link>https://static.geotribu.fr/articles/2009/art_2009-12-11/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -140,7 +175,7 @@
 ![icône globe](http:/</description>
       <link>https://static.geotribu.fr/articles/2010/art_2010-01-12/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -154,7 +189,7 @@
 **Mots-clés :** GeoExt | OpenLayers | Google Maps | OpenStreetMap | Yahoo</description>
       <link>https://static.geotribu.fr/articles/2010/art_2010-01-25/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -168,7 +203,7 @@
 **Mots-clés :** Go</description>
       <link>https://static.geotribu.fr/articles/2010/art_2010-02-11/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -185,7 +220,7 @@
 ![icône globe](http://geo</description>
       <link>https://static.geotribu.fr/articles/2010/art_2010-02-12/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -202,7 +237,7 @@
 ![icône glo</description>
       <link>https://static.geotribu.fr/articles/2010/art_2010-03-11/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -216,7 +251,7 @@
 **Mots-clés :** GeoExt | JavaScript | WebMappin</description>
       <link>https://static.geotribu.fr/articles/2010/art_2010-03-12/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -232,7 +267,7 @@
 </description>
       <link>https://static.geotribu.fr/articles/2010/art_2010-03-15/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -249,7 +284,7 @@
 ![thes</description>
       <link>https://static.geotribu.fr/articles/2010/art_2010-03-31/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -266,7 +301,7 @@
 ![icône globe](http://geotribu.net/sites/defa</description>
       <link>https://static.geotribu.fr/articles/2010/art_2010-04-23/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -280,7 +315,7 @@
 **Mots</description>
       <link>https://static.geotribu.fr/articles/2010/art_2010-06-24/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -294,7 +329,7 @@
 **Mots-clés :** GeoBI | S</description>
       <link>https://static.geotribu.fr/articles/2010/art_2010-10-18/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -308,7 +343,7 @@
 **Mots-clés :** SIG | Conférence | gé</description>
       <link>https://static.geotribu.fr/articles/2010/art_2010-11-10/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -325,7 +360,7 @@
 !</description>
       <link>https://static.geotribu.fr/articles/2010/art_2010-11-18/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -342,7 +377,7 @@
 </description>
       <link>https://static.geotribu.fr/articles/2010/art_2010-11-19/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -359,7 +394,7 @@
 </description>
       <link>https://static.geotribu.fr/articles/2010/art_2010-11-20/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -373,7 +408,7 @@
 **Mots-clés :** Open</description>
       <link>https://static.geotribu.fr/articles/2010/art_2010-11-29/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -387,7 +422,7 @@
 **Mots-clés :** GeoExt | OpenLayers | Google Maps | Yahoo! Maps</description>
       <link>https://static.geotribu.fr/articles/2010/art_2010-12-13/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -404,7 +439,7 @@
 ![these.png]</description>
       <link>https://static.geotribu.fr/articles/2011/art_2011-01-18/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -418,7 +453,7 @@
 **Mots-clés :** OpenS</description>
       <link>https://static.geotribu.fr/articles/2011/art_2011-02-09/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -432,7 +467,7 @@
 **Mots-clés :** Open</description>
       <link>https://static.geotribu.fr/articles/2011/art_2011-03-10/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -449,7 +484,7 @@
 ![icône globe](</description>
       <link>https://static.geotribu.fr/articles/2011/art_2011-04-05/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -466,7 +501,7 @@
 ![</description>
       <link>https://static.geotribu.fr/articles/2011/art_2011-04-13/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -480,7 +515,7 @@
 **Mots-clé</description>
       <link>https://static.geotribu.fr/articles/2011/art_2011-06-01/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -495,7 +530,7 @@
 ![icône globe](h</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-01-07/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -510,7 +545,7 @@
 ![News.png](htt</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-01-14/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -527,7 +562,7 @@
 ![News.png](https://cdn.geo</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-01-21/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -544,7 +579,7 @@
 ![News.png](ht</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-01-28/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -561,7 +596,7 @@
 ![News.png](https://cdn.geo</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-02-04/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -575,7 +610,7 @@
 **Mots-clés :** OpenStreetMap | OrbisGis | Spatialit</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-02-11/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -589,7 +624,7 @@
 **Mots-clés :** OpenStreetMap | Python | GDAL | Esri</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-02-18/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -603,7 +638,7 @@
 **Mots-clés :** Google Earth | MapServer | Open Source </description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-03-11/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -617,7 +652,7 @@
 **Mots-clés :** OpenLayers | Google Maps | OpenStreetMa</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-03-18/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -631,7 +666,7 @@
 **Mots-clés :** JavaScript | OpenStreetMap | Open Sourc</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-03-25/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -645,7 +680,7 @@
 **Mots-clés :** OpenLayers | MapServer | OpenStreetMap</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-01/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -662,7 +697,7 @@
 ![News.png](https://cdn.geotr</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-08/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -678,7 +713,7 @@
 </description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-15/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -695,7 +730,7 @@
 ![News.png](https://cdn.geotr</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-22/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -712,7 +747,7 @@
 ![News.png](https://cdn.geotr</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-29/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -729,7 +764,7 @@
 ![News.png](https://cdn.geotrib</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-13/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -746,7 +781,7 @@
 ![N</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-27/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
@@ -763,51 +798,7 @@
 ![htt</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-06-10/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 17 juin 2011
-
-**Mots-clés :** OGC | Presse | openaerialmap | kothic |</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-06-17/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 24 juin</title>
-      <description># Revue de presse du 24 juin 2011
-
-
-:calendar: Date de publication initiale : 24 juin 2011
-
-**Mots-clés :** GeoServer | MapFish | QGIS | OSGeo | Leafl</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-06-24/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 01 juillet 2011
-
-**Mots-clés :** OpenLayers | OGC | Mapnik | Presse
-
-</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-07-01/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr//feed_rss_updated.xml">Geotribu</source>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
