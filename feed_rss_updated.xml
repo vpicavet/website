@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Tue, 21 Jul 2020 16:08:13 -0000</pubDate>
-    <lastBuildDate>Tue, 21 Jul 2020 16:08:13 -0000</lastBuildDate>
+    <pubDate>Thu, 23 Jul 2020 11:16:14 -0000</pubDate>
+    <lastBuildDate>Thu, 23 Jul 2020 11:16:14 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -27,6 +27,19 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Configurer l'environnement pour l'édition locale des contenus de Geotribu</title>
+      <description># Installation pour l&#39;édition locale
+
+!!! tip
+    Remplir d&#39;abord [les prérequis](../../requirements).
+    Les chemins de fichiers et répertoires sont</description>
+      <link>https://static.geotribu.fr/contribuer/local/local_edition_setup/</link>
+      <pubDate>Thu, 23 Jul 2020 11:11:44 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
     
     <item>
       <title>Qui sommes nous ?</title>
@@ -780,23 +793,6 @@ Bienvenue sur Geotribu !
 
 ![N</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-27/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 10 juin 2011
-
-**Mots-clés :** OpenLayers | GeoServer | Presse
-
-
-![htt</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-06-10/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
