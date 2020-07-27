@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Thu, 23 Jul 2020 11:16:14 -0000</pubDate>
-    <lastBuildDate>Thu, 23 Jul 2020 11:16:14 -0000</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2020 10:30:56 -0000</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2020 10:30:56 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -27,6 +27,15 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Revue de presse du 24 juillet 2020</title>
+      <description>Revue de presse géomatique du 24 juillet 2020 : API QGIS unifiée, carte de l&#39;univers, néologismes, animation 3D avec R stats, GeoDataDays, Uber et Google Maps, valeur économique de l&#39;information géographique, présentation de Kalisio</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-07-24/</link>
+      <pubDate>Mon, 27 Jul 2020 10:26:21 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
     
     <item>
       <title>Configurer l'environnement pour l'édition locale des contenus de Geotribu</title>
@@ -776,23 +785,6 @@ Bienvenue sur Geotribu !
 
 ![News.png](https://cdn.geotrib</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-13/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 27 mai 2011
-
-**Mots-clés :** OpenLayers | OSM | Presse | GeoAPI
-
-
-![N</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-27/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
