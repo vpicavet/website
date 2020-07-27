@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Mon, 27 Jul 2020 13:07:20 -0000</pubDate>
-    <lastBuildDate>Mon, 27 Jul 2020 13:07:20 -0000</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2020 13:51:06 -0000</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2020 13:51:06 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -32,7 +32,7 @@
       <title>Revue de presse du 24 juillet 2020</title>
       <description>Revue de presse géomatique du 24 juillet 2020 : API QGIS unifiée, carte de l&#39;univers, néologismes, animation 3D avec R stats, GeoDataDays, Uber et Google Maps, valeur économique de l&#39;information géographique, présentation de Kalisio</description>
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-07-24/</link>
-      <pubDate>Mon, 27 Jul 2020 13:02:26 -0000</pubDate>
+      <pubDate>Mon, 27 Jul 2020 13:38:28 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
