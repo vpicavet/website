@@ -1864,10 +1864,6 @@
      <lastmod>2020-08-04</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://static.geotribu.fr/team/archives/art_2012-12-29_lequipe/</loc>
-     <lastmod>2020-08-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
      <loc>https://static.geotribu.fr/team/avdc/</loc>
      <lastmod>2020-08-04</lastmod>
      <changefreq>daily</changefreq>
@@ -1920,6 +1916,10 @@
      <lastmod>2020-08-04</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
+     <loc>https://static.geotribu.fr/team/archives/art_2012-12-29_lequipe/</loc>
+     <lastmod>2020-08-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
      <loc>https://static.geotribu.fr/contribuer/introduction/</loc>
      <lastmod>2020-08-04</lastmod>
      <changefreq>daily</changefreq>
@@ -1929,6 +1929,10 @@
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://static.geotribu.fr/contribuer/contribution_guide/</loc>
+     <lastmod>2020-08-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://static.geotribu.fr/contribuer/guides/authoring/</loc>
      <lastmod>2020-08-04</lastmod>
      <changefreq>daily</changefreq>
     </url><url>

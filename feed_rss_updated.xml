@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Tue, 04 Aug 2020 10:06:21 -0000</pubDate>
-    <lastBuildDate>Tue, 04 Aug 2020 10:06:21 -0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2020 12:17:24 -0000</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2020 12:17:24 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,50 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Signer ses contributions</title>
+      <description>Contribuer à Geotribu : comment signer ses contributions au site.</description>
+      <link>https://static.geotribu.fr/contribuer/guides/authoring/</link>
+      <pubDate>Tue, 04 Aug 2020 12:16:37 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Intégrer une vidéo</title>
+      <description># Intégrer une vidéo
+
+## Vidéo hébergée hors plateforme
+
+Pour les vidéos qui ne sont pas hébergées sur une plateforme en particulier, il est toujours possible de les intégrer en utilisant [la balise dédiée de HTML 5](https://www.w3schools.com/tags/tag_video.asp).
+
+Prenons cette vidéo pour exemple : &lt;https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_1280_10MG.mp4&gt;
+
+=== &#34;Markdown&#34;
+
+    ```html
+    Une **vidéo** d&#39;illustration de cette _webmap_ :
+
+    &lt;video width=&#34;700&#34; controls&gt;</description>
+      <link>https://static.geotribu.fr/contribuer/guides/video/</link>
+      <pubDate>Tue, 04 Aug 2020 12:16:37 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Julien Moura</title>
+      <description># Julien Moura
+
+![Portrait Julien Moura](https://cdn.geotribu.fr/images/internal/contributeurs/jmou.jfif &#34;Portrait Julien Moura&#34;){: .img-rdp-news-thumb }
+
+Géographe &#34;sigiste&#34; de formation, j&#39;ai commencé à travailler dans la zone Océan Indien. A Madagascar, puis surtout à l&#39;Etablissement Public Foncier de La Réunion où j&#39;ai également animé le Club Géomatique. Après un petit tour sac au dos en Amérique du Sud, je pose mes valises 2 ans durant auprès de l&#39;IRD (à la suite de [Pierre](/team/pver)). D</description>
+      <link>https://static.geotribu.fr/team/jmou/</link>
+      <pubDate>Tue, 04 Aug 2020 12:16:37 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
     
     <item>
       <title>Utiliser des emojis</title>
@@ -853,61 +897,6 @@ Au menu de cette revue de presse de la semaine, un petit tour du côté [d&#39;O
 ![News.png](https://cdn.geotribu.fr/images/internal/icons-rdp-news/news.png){: .img-rdp-news-thumb }
  Cette semaine des nouvelles de [MapServer](#mapserver) et un rapprochement avec TinyOWS et mod-geocache. Le souhait de la communauté [OSM-fr](#osm) de s&#39;émanciper de l&#39;OSGEO. Le développement d&#39;OpenLayers sur mobi</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-01/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 08 avril 2011
-
-**Mots-clés :** Presse
-
-
-![News.png](https://cdn.geotribu.fr/images/internal/icons-rdp-news/news.png){: .img-rdp-news-thumb }
- C&#39;est avec une revue de presse riche en actualité que nous clôturons cette semaine. Beaucoup, beaucoup de nouveautés avec notamment, des rumeurs concernant la [fermeture du site data.gov](#datagov), la [sortie de Mapfish 2.1](#mapfish) ou encore [l&#39;ajout d&#39;un driver Google Fus</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-08/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 15 avril 2011
-
-**Mots-clés :** Google Maps | OpenStreetMap | Presse
-
-
-![News.png](https://cdn.geotribu.fr/images/internal/icons-rdp-news/news.png){: .img-rdp-news-thumb }
- Et c&#39;est reparti cette semaine. A croire qu&#39;il n&#39;y a pas de pause dans la technologie web carto - toujours des nouveaux trucs à voir. Et c&#39;est pas pour nous déplaire, ça note une certaine activité et un marché qui bouge. Donc cette semaine, du OSM</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-15/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 22 avril 2011
-
-**Mots-clés :** Presse
-
-
-![News.png](https://cdn.geotribu.fr/images/internal/icons-rdp-news/news.png){: .img-rdp-news-thumb }
- Aujourd&#39;hui c&#39;est le jour de la Terre, ça n&#39;a rien à voir avec le GeoWeb - quoi que ? Cette semaine, en vrac OpenGeo, GvSIG, Grass, Qgis, OpenLite, Google, Bing, OSM, Opendata, OVI Maps et de jolies cartes.  
- Je ne me suis pas foulé pour cette introduction, mais bon j&#39;ai une </description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-22/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
