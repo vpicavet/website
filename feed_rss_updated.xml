@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Tue, 04 Aug 2020 09:39:42 -0000</pubDate>
-    <lastBuildDate>Tue, 04 Aug 2020 09:39:42 -0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2020 10:06:21 -0000</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2020 10:06:21 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,22 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Utiliser des emojis</title>
+      <description># Utiliser des émojis
+
+Web 2020 oblige, il est possible d&#39;insérer des [émojis](https://fr.wikipedia.org/wiki/%C3%89moji) directement dans le texte en Markdown.
+
+On utilise [l&#39;extension dédiée de PyMdown](https://facelessuser.github.io/pymdown-extensions/extensions/emoji/) et en particulier l&#39;index `Twemoji` :
+
+- consulter [les informations spécifiques sur cet index dans la doc de l&#39;extension](https://facelessuser.github.io/pymdown-extensions/extensions/emoji/#default-emoji-indexes)
+- consulter l</description>
+      <link>https://static.geotribu.fr/contribuer/guides/emoji/</link>
+      <pubDate>Tue, 04 Aug 2020 10:02:16 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
     
     <item>
       <title>Intégrer une image</title>
@@ -892,24 +908,6 @@ Au menu de cette revue de presse de la semaine, un petit tour du côté [d&#39;O
  Aujourd&#39;hui c&#39;est le jour de la Terre, ça n&#39;a rien à voir avec le GeoWeb - quoi que ? Cette semaine, en vrac OpenGeo, GvSIG, Grass, Qgis, OpenLite, Google, Bing, OSM, Opendata, OVI Maps et de jolies cartes.  
  Je ne me suis pas foulé pour cette introduction, mais bon j&#39;ai une </description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-22/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 29 avril 2011
-
-**Mots-clés :** Presse
-
-
-![News.png](https://cdn.geotribu.fr/images/internal/icons-rdp-news/news.png){: .img-rdp-news-thumb }
- Les revues de presse de GéoTribu s’allongent. A croire que dans le GeoWeb il n&#39;y a jamais de temps mort. Au menu cette semaine, le lancement du nouveau [blog d&#39;Intelli3](#intelli3), une [version cloud](#opengeo) d&#39;opengeo, les futures nouveautés de [PostGis](#postgis) ou encor</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-29/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
