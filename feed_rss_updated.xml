@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Wed, 29 Jul 2020 20:16:59 -0000</pubDate>
-    <lastBuildDate>Wed, 29 Jul 2020 20:16:59 -0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2020 09:39:42 -0000</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2020 09:39:42 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,20 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Intégrer une image</title>
+      <description># Intégrer une image
+
+Prenons deux exemples :
+
+- une image _externe_, c&#39;est-à-dire hébergée ailleurs que sur le [CDN de Geotribu] : &lt;https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Coronelli_globe_terrestre.jpg/360px-Coronelli_globe_terrestre.jpg&gt; du **globe terrestre** de Coronelli, issue de cette page Wikipedia &lt;https://fr.wikipedia.org/wiki/Globes_de_Coronelli&gt;
+- une image _interne_, hébergée sur le [CDN de Geotribu] : &lt;https://cdn.geotribu.fr/images/internal/contribution/embed_imag</description>
+      <link>https://static.geotribu.fr/contribuer/guides/image/</link>
+      <pubDate>Tue, 04 Aug 2020 09:35:36 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
     
     <item>
       <title>Revue de presse du 24 juillet 2020</title>
@@ -896,24 +910,6 @@ Au menu de cette revue de presse de la semaine, un petit tour du côté [d&#39;O
 ![News.png](https://cdn.geotribu.fr/images/internal/icons-rdp-news/news.png){: .img-rdp-news-thumb }
  Les revues de presse de GéoTribu s’allongent. A croire que dans le GeoWeb il n&#39;y a jamais de temps mort. Au menu cette semaine, le lancement du nouveau [blog d&#39;Intelli3](#intelli3), une [version cloud](#opengeo) d&#39;opengeo, les futures nouveautés de [PostGis](#postgis) ou encor</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-29/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 13 mai 2011
-
-**Mots-clés :** Presse
-
-
-![News.png](https://cdn.geotribu.fr/images/internal/icons-rdp-news/news.png){: .img-rdp-news-thumb }
- On vous disait que les technologies et notamment celles relatives aux SIG et au web ne s&#39;arrêtent jamais. Et bien nous en avons encore la confirmation cette semaine avec au programme l&#39;OSGEO, Mapserver et Geoserver, Shapely, le Geoportail, jQuery, le nouveau blog Geomatys, Googl</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-13/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
