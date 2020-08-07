@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Tue, 04 Aug 2020 12:17:24 -0000</pubDate>
-    <lastBuildDate>Tue, 04 Aug 2020 12:17:24 -0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2020 13:08:13 -0000</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2020 13:08:13 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,32 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Revue de presse du 7 août 2020</title>
+      <description>Revue de presse géomatique du 7 août 2020 (#GeoRDP) : OpenLayers 6.4, pgRouting 3.1, nouveau site GRASS, impact des météorites sur Terre, le Dessus des Cartes, OSM a 16 ans, SAGEO 2021</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-08-07/</link>
+      <pubDate>Fri, 07 Aug 2020 13:02:51 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>SAGEO 2010, résumé de la première journée de colloque</title>
+      <description># SAGEO 2010, résumé de cette 1ère journée de colloque
+
+:calendar: Date de publication initiale : 18 novembre 2010
+
+**Mots-clés :** GIS | Colloque
+
+![these.png](https://cdn.geotribu.fr/img/logos-icones/divers/these.png){: .img-rdp-news-thumb }
+
+Le [SAGEO 2010](http://sageo10.univ-toulouse.fr/) a officiellement ouvert ses portes aujourd&#39;hui. Cette cinquième édition, de ce rendez-vous désormais devenu incontournable, se propose d&#39;aborder les différentes problématiques liées à la Géomatique et l&#39;an</description>
+      <link>https://static.geotribu.fr/articles/2010/art_2010-11-18/</link>
+      <pubDate>Thu, 06 Aug 2020 09:11:27 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
     
     <item>
       <title>Signer ses contributions</title>
@@ -104,6 +130,15 @@ Prenons deux exemples :
 - une image _interne_, hébergée sur le [CDN de Geotribu] : &lt;https://cdn.geotribu.fr/images/internal/contribution/embed_imag</description>
       <link>https://static.geotribu.fr/contribuer/guides/image/</link>
       <pubDate>Tue, 04 Aug 2020 09:35:36 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>GeoRDP du 9 mai 2020</title>
+      <description>Revue de presse géomatique du 9 mai 2020</description>
+      <link>https://static.geotribu.fr/rdp/templates/template_rdp/</link>
+      <pubDate>Tue, 28 Jul 2020 12:47:26 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
@@ -504,23 +539,6 @@ De ce fait, cel</description>
     </item>
     
     <item>
-      <title>SAGEO 2010, résumé de cette 1er journée de colloque</title>
-      <description># SAGEO 2010, résumé de cette 1er journée de colloque
-
-
-:calendar: Date de publication initiale : 18 novembre 2010
-
-**Mots-clés :** GIS | Colloque
-
-
-![these.png](https://cdn.geotribu.fr/img/logos-icones/divers/these.png)Le [SAGEO 2010](http://sageo10.univ-toulouse.fr/) a officiellement ouvert ses portes aujourd&#39;hui. Cette cinquième édition, de ce rendez-vous désormais devenu incontournable, se propose d&#39;aborder les différentes problématiques liées à la Géomatique et l&#39;analyse spatiale. Après le </description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-11-18/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
       <title>SAGEO 2010, résumé de cette 2éme journée de colloque</title>
       <description># SAGEO 2010, résumé de cette 2éme journée de colloque
 
@@ -861,42 +879,6 @@ Il y a 5 ans naissait l&#39;OSGEO - voir l&#39;[acte de fondation](http://www.os
 ![News.png](https://cdn.geotribu.fr/images/internal/icons-rdp-news/news.png){: .img-rdp-news-thumb }
 Fidèle à notre revue de presse, venez découvrir avec nous les nouvelles qui ont marqué notre semaine. Nous parlerons notamment de [l&#39;ajout d&#39;une vue à 45° à Google Maps](#gmaps), du prochain [OpenMapCamp](#omc) ou encore de la prochaine sortie d</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-03-18/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 25 mars 2011
-
-**Mots-clés :** JavaScript | OpenStreetMap | Open Source
-
-
-![News.png](https://cdn.geotribu.fr/images/internal/icons-rdp-news/news.png){: .img-rdp-news-thumb }
-Au menu de cette revue de presse de la semaine, un petit tour du côté [d&#39;OpenStreetMap en 3D](#osm), quelques bonnes nouvelles du [dernier code sprint](#codeSprint) qui a eu lieu au Québec ou encore la sortie de la dernier [application cartograp</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-03-25/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 01 avril 2011
-
-**Mots-clés :** OpenLayers | MapServer | OpenStreetMap | TinyOWS | Presse | smartphone
-
-
-![News.png](https://cdn.geotribu.fr/images/internal/icons-rdp-news/news.png){: .img-rdp-news-thumb }
- Cette semaine des nouvelles de [MapServer](#mapserver) et un rapprochement avec TinyOWS et mod-geocache. Le souhait de la communauté [OSM-fr](#osm) de s&#39;émanciper de l&#39;OSGEO. Le développement d&#39;OpenLayers sur mobi</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-01/</link>
       <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
