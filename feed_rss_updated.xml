@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Fri, 07 Aug 2020 13:08:13 -0000</pubDate>
-    <lastBuildDate>Fri, 07 Aug 2020 13:08:13 -0000</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2020 11:31:27 -0000</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2020 11:31:27 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -35,743 +35,35 @@
     <!-- Entries -->
     
     <item>
-      <title>Revue de presse du 7 août 2020</title>
-      <description>Revue de presse géomatique du 7 août 2020 (#GeoRDP) : OpenLayers 6.4, pgRouting 3.1, nouveau site GRASS, impact des météorites sur Terre, le Dessus des Cartes, OSM a 16 ans, SAGEO 2021</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-08-07/</link>
-      <pubDate>Fri, 07 Aug 2020 13:02:51 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>SAGEO 2010, résumé de la première journée de colloque</title>
-      <description># SAGEO 2010, résumé de cette 1ère journée de colloque
+      <title>OGR2GUI passe en version 0.6</title>
+      <description># OGR2GUI passe en version 0.6
 
-:calendar: Date de publication initiale : 18 novembre 2010
 
-**Mots-clés :** GIS | Colloque
-
-![these.png](https://cdn.geotribu.fr/img/logos-icones/divers/these.png){: .img-rdp-news-thumb }
-
-Le [SAGEO 2010](http://sageo10.univ-toulouse.fr/) a officiellement ouvert ses portes aujourd&#39;hui. Cette cinquième édition, de ce rendez-vous désormais devenu incontournable, se propose d&#39;aborder les différentes problématiques liées à la Géomatique et l&#39;an</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-11-18/</link>
-      <pubDate>Thu, 06 Aug 2020 09:11:27 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Signer ses contributions</title>
-      <description>Contribuer à Geotribu : comment signer ses contributions au site.</description>
-      <link>https://static.geotribu.fr/contribuer/guides/authoring/</link>
-      <pubDate>Tue, 04 Aug 2020 12:16:37 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Intégrer une vidéo</title>
-      <description># Intégrer une vidéo
-
-## Vidéo hébergée hors plateforme
-
-Pour les vidéos qui ne sont pas hébergées sur une plateforme en particulier, il est toujours possible de les intégrer en utilisant [la balise dédiée de HTML 5](https://www.w3schools.com/tags/tag_video.asp).
-
-Prenons cette vidéo pour exemple : &lt;https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_1280_10MG.mp4&gt;
-
-=== &#34;Markdown&#34;
-
-    ```html
-    Une **vidéo** d&#39;illustration de cette _webmap_ :
-
-    &lt;video width=&#34;700&#34; controls&gt;</description>
-      <link>https://static.geotribu.fr/contribuer/guides/video/</link>
-      <pubDate>Tue, 04 Aug 2020 12:16:37 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Julien Moura</title>
-      <description># Julien Moura
-
-![Portrait Julien Moura](https://cdn.geotribu.fr/images/internal/contributeurs/jmou.jfif &#34;Portrait Julien Moura&#34;){: .img-rdp-news-thumb }
-
-Géographe &#34;sigiste&#34; de formation, j&#39;ai commencé à travailler dans la zone Océan Indien. A Madagascar, puis surtout à l&#39;Etablissement Public Foncier de La Réunion où j&#39;ai également animé le Club Géomatique. Après un petit tour sac au dos en Amérique du Sud, je pose mes valises 2 ans durant auprès de l&#39;IRD (à la suite de [Pierre](/team/pver)). D</description>
-      <link>https://static.geotribu.fr/team/jmou/</link>
-      <pubDate>Tue, 04 Aug 2020 12:16:37 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Utiliser des emojis</title>
-      <description># Utiliser des émojis
-
-Web 2020 oblige, il est possible d&#39;insérer des [émojis](https://fr.wikipedia.org/wiki/%C3%89moji) directement dans le texte en Markdown.
-
-On utilise [l&#39;extension dédiée de PyMdown](https://facelessuser.github.io/pymdown-extensions/extensions/emoji/) et en particulier l&#39;index `Twemoji` :
-
-- consulter [les informations spécifiques sur cet index dans la doc de l&#39;extension](https://facelessuser.github.io/pymdown-extensions/extensions/emoji/#default-emoji-indexes)
-- consulter l</description>
-      <link>https://static.geotribu.fr/contribuer/guides/emoji/</link>
-      <pubDate>Tue, 04 Aug 2020 10:02:16 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Intégrer une image</title>
-      <description># Intégrer une image
-
-Prenons deux exemples :
-
-- une image _externe_, c&#39;est-à-dire hébergée ailleurs que sur le [CDN de Geotribu] : &lt;https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Coronelli_globe_terrestre.jpg/360px-Coronelli_globe_terrestre.jpg&gt; du **globe terrestre** de Coronelli, issue de cette page Wikipedia &lt;https://fr.wikipedia.org/wiki/Globes_de_Coronelli&gt;
-- une image _interne_, hébergée sur le [CDN de Geotribu] : &lt;https://cdn.geotribu.fr/images/internal/contribution/embed_imag</description>
-      <link>https://static.geotribu.fr/contribuer/guides/image/</link>
-      <pubDate>Tue, 04 Aug 2020 09:35:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>GeoRDP du 9 mai 2020</title>
-      <description>Revue de presse géomatique du 9 mai 2020</description>
-      <link>https://static.geotribu.fr/rdp/templates/template_rdp/</link>
-      <pubDate>Tue, 28 Jul 2020 12:47:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 24 juillet 2020</title>
-      <description>Revue de presse géomatique du 24 juillet 2020 : API QGIS unifiée, carte de l&#39;univers, néologismes, animation 3D avec R stats, GeoDataDays, Uber et Google Maps, valeur économique de l&#39;information géographique, présentation de Kalisio</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-07-24/</link>
-      <pubDate>Mon, 27 Jul 2020 13:38:28 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Configurer l'environnement pour l'édition locale des contenus de Geotribu</title>
-      <description># Installation pour l&#39;édition locale
-
-!!! tip
-    Remplir d&#39;abord [les prérequis](../../requirements).
-    Les chemins de fichiers et répertoires sont à adapter à votre environnement.
-
-## Git
-
-La mise en ligne du contenu se fait via [Git]. Si vous n&#39;êtes pas à l&#39;aise avec la ligne de commande, il est possible d&#39;utiliser [GitHub Desktop].
-
-Cloner le dépôt, soit avec la commande ci-dessous, soit via [le bouton vert sur le dépôt avec GitHub Desktop](https://github.com/geotribu/website) :
-
-```bash
-c</description>
-      <link>https://static.geotribu.fr/contribuer/local/local_edition_setup/</link>
-      <pubDate>Thu, 23 Jul 2020 11:11:44 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Qui sommes nous ?</title>
-      <description>Contributeurs actifs de Geotribu et remerciements aux personnes et projets libres qui rendent l&#39;aventure possible.</description>
-      <link>https://static.geotribu.fr/acknowledgements/</link>
-      <pubDate>Tue, 21 Jul 2020 16:01:16 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 10 juillet 2020</title>
-      <description>Revue de presse géomatique du 10 juillet 2020 : éditeur OSM en Python, flux RSS Geotribu, Landsat dans le cloud, vision sur le futur du SIG open source, 16è conférence gvSIG</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-07-10/</link>
-      <pubDate>Tue, 21 Jul 2020 15:07:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Accueil</title>
-      <description># Accueil
-
-Bienvenue sur Geotribu !
-
-![Bannière Géotribu](https://cdn.geotribu.fr/images/internal/charte/geotribu_banner.jpg)
-
-----
-
-## S&#39;abonner aux contenus
-
-### RSS
-
-![logo globe RSS](https://cdn.geotribu.fr/img/logos-icones/divers/worldRSS.png){: .img-rdp-news-thumb }
-
-Il est possible de suivre l&#39;évolution de nos contenus via les deux flux RSS qui sont générés avec le [plugin RSS pour MkDocs](https://guts.github.io/mkdocs-rss-plugin/) à partir de l&#39;historique Git :
-
-- [l&#39;un pour les derniers</description>
-      <link>https://static.geotribu.fr/</link>
-      <pubDate>Tue, 21 Jul 2020 15:07:04 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Les crimes et incendies s'affichent en WebMapping</title>
-      <description># Les crimes et incendies s&#39;affichent en WebMapping
-
-
-:calendar: Date de publication initiale : 03 août 2009
-
-**Mots-clés :** WebMapping
-
-
-![icône globe](http://geotribu.net/sites/default/files/Tuto/img/Blog/world.png) J&#39;ai récemment découvert deux applications cartographiques qui m&#39;ont interpellées tant par leur contenu que par le choix de leur architecture. Ainsi, au-delà de la découverte de chacune d&#39;entre elles, j&#39;effectuerai un rapide comparatif en privilégiant une approche technique..
-
-La </description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-08-03/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Êtes-vous fortiche en SIG ?</title>
-      <description># Êtes-vous fortiche en SIG ?
-
-
-:calendar: Date de publication initiale : 06 août 2009
-
-**Mots-clés :** SIG
-
-
-![icône globe](http://geotribu.net/sites/default/files/Tuto/img/Blog/world.png) Vous êtes incollable sur les SIG? Vous connaissez par coeur les différents formats et programmes? Alors venez tester votre niveau de connaissance en remplissant le [quizz](http://www.journaldunet.com/solutions/questionnaire/fiche/10343/d/f/1/) proposé par le [Journal du Net](http://www.journaldunet.com/).
-
-Je</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-08-06/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Les évolutions du Web de demain, HTML 5 et CSS 3</title>
-      <description># Les évolutions du Web de demain, HTML 5 et CSS 3
-
-
-:calendar: Date de publication initiale : 15 septembre 2009
-
-**Mots-clés :** Web
-
-
-![icône globe](http://geotribu.net/sites/default/files/Tuto/img/Blog/world.png) Il est impossible de s&#39;intéresser au WebMapping, sans suivre de prés les évolutions du Web. Ce dernier avec l&#39;arrivée du HTML 5 et du CSS 3 risque de subir, dans les années à venir, de profondes modifications.
-
-De nombreux articles mettant en avant la puissance jumelée de ces nouvell</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-09-15/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>GlobeRacers, un nouveau jeu pour geomaticien écologique</title>
-      <description># GlobeRacers, un nouveau jeu pour geomaticien écologique
-
-
-:calendar: Date de publication initiale : 27 septembre 2009
-
-**Mots-clés :** JavaScript | Google
-
-
-![icône globe](http://geotribu.net/sites/default/files/Tuto/img/Blog/world.png) Quand le ludique s&#39;allie au jeu cela forme [globeracers](http://www.globeracers.net/index.php?option=com_frontpage&amp;Itemid=1). Le but de ce dernier est de parcourir le monde, le plus rapidement possible, afin de récupérer des statuettes disposées dans 10 métropo</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-09-27/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Panel de mashups Google Maps</title>
-      <description># Panel de mashups Google Maps
-
-
-:calendar: Date de publication initiale : 23 novembre 2009
-
-**Mots-clés :** Google Maps | mashups
-
-
-![](https://cdn.geotribu.fr/img/logos-icones/entreprises_association/google/google_maps.png) Est-il encore besoin de préciser ce que permet l&#39;API Google Maps? Comme vous avez pu le découvrir au travers de nos [tutoriels](http://geotribu.net/node/22), cette dernière permet d&#39;intégrer rapidement et facilement des cartes dans une page Internet. Néanmoins si habituelle</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-11-23/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Google Gears est mort longue vie au HTML5</title>
-      <description># Google Gears est mort longue vie au HTML5
-
-
-:calendar: Date de publication initiale : 11 décembre 2009
-
-**Mots-clés :** Google | Web | HTML 5
-
-
-![icône globe](http://geotribu.net/sites/default/files/Tuto/img/Blog/world.png)N&#39;enterrons pas trop vite Google Gears (que nous abrégerons par GGears) mais il semble bien que la firme du même nom ait décidé de lui préférer le futur standard HTML 5. Cette information abondamment relayée ([clubic](http://www.clubic.com/actualite-313674-google-abandonne-g</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-12-11/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>HeatMap</title>
-      <description># HeatMap
-
-
-:calendar: Date de publication initiale : 12 janvier 2010
-
-**Mots-clés :** Google Maps | nuage de points | heatmap
-
-
-![icône globe](http://geotribu.net/sites/default/files/Tuto/img/Blog/world.png) La visualisation de données sur une carte nécessite toujours une phase de réflexion afin de trouver les bons outils pour disposer les points de façon intelligente et compréhensible. La [clusterisation](http://geotribu.net/node/125) est une méthode parmi d&#39;autres. Il existe également des API</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-01-12/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Imagimap Road</title>
-      <description># Imagimap Road
-
-
-:calendar: Date de publication initiale : 25 janvier 2010
-
-**Mots-clés :** GeoExt | OpenLayers | Google Maps | OpenStreetMap | Yahoo! Maps | ExtJS
-
-
-![icône globe](http://geotribu.net/sites/default/files/Tuto/img/Blog/world.png) A force de publier des tutoriaux et des articles sur des technologies qui nous tiennent à coeur, nous avons voulu les mettre en application : c&#39;est ainsi que nous sortons Imagimap Road. Il s&#39;agit d&#39;un comparateur des données &#39;route&#39; des différents fourn</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-01-25/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Quel développement cartographique pour des plateformes différentes ?</title>
-      <description># Quel développement cartographique pour des plateformes différentes ?
-
-
-:calendar: Date de publication initiale : 11 février 2010
-
-**Mots-clés :** Google Maps | Android | iPhone | Carte | internet | device
-
-
-![icône globe](http://geotribu.net/sites/default/files/Tuto/img/Blog/world.png) En tant que développeur d&#39;applications cartographiques, je suis souvent confronté au problème de portage sur différentes plateformes. Le succès actuel des smartphones - iPhone et Android en tête - oblige à revoi</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-02-11/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Comment détruire une communauté</title>
-      <description># Comment détruire une communauté
-
-
-:calendar: Date de publication initiale : 12 février 2010
+:calendar: Date de publication initiale : 09 novembre 2009
 
 **Mots-clés :** Open Source
 
 
-![icône globe](http://geotribu.net/sites/default/files/Tuto/img/Blog/world.png)Je suis tombé ce matin sur un [billet](http://www.framablog.org/index.php/post/2010/02/08/comment-detruire-votre-communaute) satyrique et volontairement insolent qui expose en 10 points comment détruire la communauté qui gravite autour de votre/vos projet(s) OpenSource. Je ne résiste pas à l&#39;env</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-02-12/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
+![logo OpenSource](https://cdn.geotribu.fr/img/logos-icones/opensource.png &#34;Logo Open Source Foundation&#34;){: .img-rdp-news-thumb } [GDAL-OGR](http://www.gdal.org/index.html) est l&#39;une voir **LA** bibliothèque de conversion de formats géographiques. Malheureusement, du fait de son utilisation en ligne de commande, celle-ci peut décourager certains géomaticiens un peu allergiqu</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-11-09/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
     
     <item>
-      <title>Linux sans contrainte grace à VirtualBox</title>
-      <description># Linux sans contrainte grace à VirtualBox
+      <title>Une carte du WebMapping OpenSource</title>
+      <description># Une carte du WebMapping OpenSource
 
 
-:calendar: Date de publication initiale : 11 mars 2010
+:calendar: Date de publication initiale : 15 novembre 2009
 
-**Mots-clés :** Open Source | Linux
+**Mots-clés :** Open Source | WebMapping
 
 
-![icône globe](http://geotribu.net/sites/default/files/Tuto/img/Blog/world.png)Il peut être agréable, quand vous testez de nouvelles applications, de ne pas avoir à les installer sur votre environnement de travail. En effet, il peut arriver que celles-ci ne soient pas encore complètement stables ou bien qu&#39;il soit nécessaire de les compiler.  
-De ce fait, cel</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-03-11/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>GeoJQuery, une future alternative à GeoExt</title>
-      <description># GeoJQuery, une future alternative à GeoExt
-
-
-:calendar: Date de publication initiale : 12 mars 2010
-
-**Mots-clés :** GeoExt | JavaScript | WebMapping | jQuery | Librairie | GeoJQuery
-
-
-![icône globe](http://geotribu.net/sites/default/files/Tuto/img/Blog/world.png)Existera-t-il bientôt une alternative à [GeoExt](http://www.geoext.org/) ? C&#39;est ce que semble indiquer en tout cas le &#34;buzz&#34; créé autour du projet [GeoJQuery](http://geojquery.org/wiki/doku.php). Loin d&#39;être complètement nouveau, cel</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-03-12/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>YQL Geo Library, la localisation facilement</title>
-      <description># YQL Geo Library, la localisation facilement
-
-
-:calendar: Date de publication initiale : 15 mars 2010
-
-**Mots-clés :** JavaScript | géolocalisation
-
-
-![icône globe](http://geotribu.net/sites/default/files/Tuto/img/Blog/world.png)Les librairies javascript orientées cartographie et localisation fleurissent sur le web. Mais, si cette richesse est bénéfique, passer de l&#39;une à l&#39;autre nécessite toujours un temps d&#39;adaptation. En effet, il faut se réhabituer à l&#39;API, aux différents objets et méthodes</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-03-15/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Thèse : Géographie de la Science</title>
-      <description># Thèse : Géographie de la Science
-
-
-:calendar: Date de publication initiale : 31 mars 2010
-
-**Mots-clés :** thèse | geosciences | université
-
-
-![these.png](https://cdn.geotribu.fr/img/logos-icones/divers/these.png)Le Laboratoire Interdisciplinaire Solidarités, Sociétés, Territoires (LISST), équipe CIEU (UMR5193), à l&#39;Université du Mirail Toulouse propose un contrat doctoral Géographie de la Science.  
-
-
-
-
-
-* **Thème de recherche** : La géographie de l’activité scientifique saisie à partir des d</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-03-31/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>GeoScript</title>
-      <description># GeoScript
-
-
-:calendar: Date de publication initiale : 23 avril 2010
-
-**Mots-clés :** API | GeoScript
-
-
-![icône globe](http://geotribu.net/sites/default/files/Tuto/img/Blog/world.png)[GeoScript](http://geoscript.org/) a pour objectif de faciliter les manipulations géographiques dans des environnements de script. L&#39;objectif est le support de 4 langages : Javascript, Python, Scala et Groovy. Cette bibliothèque permet de manipuler facilement des objets géométriques - création et manipulation d&#39;obj</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-04-23/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Offre de thèse : Contribution d’un système géo-décisionnel à la sauvegarde maritime</title>
-      <description># Offre de thèse : Contribution d’un système géo-décisionnel à la sauvegarde maritime
-
-
-:calendar: Date de publication initiale : 24 juin 2010
-
-**Mots-clés :** thèse | SOLAP | géodécisionnel
-
-
-![these.png](https://cdn.geotribu.fr/img/logos-icones/divers/these.png)L&#39;Ecole des Mines de Paris, propose une [thèse](http://www.abg.asso.fr/offre_voir.php?offre=84266&amp;lg=fr) portant sur la Contribution d’un système géo-décisionnel à la sauvegarde maritime. N&#39;hésitez pas à postuler si ce domaine vous inté</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-06-24/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Conférence Qualité des données géospatiales et géodécisionnel</title>
-      <description># Conférence Qualité des données géospatiales et géodécisionnel
-
-
-:calendar: Date de publication initiale : 18 octobre 2010
-
-**Mots-clés :** GeoBI | SOLAP | géodécisionnel | Conférence
-
-
-![these.png](https://cdn.geotribu.fr/img/logos-icones/divers/these.png)Le Vendredi 29 octobre 2010 à 14h le Pr. Yvan Bédard, de l&#39;Université Laval (Département des Sciences Géomatiques - Québec), animera une Conférence ouverte à tous portant sur la &#34;Qualité des données géospatiales et géodécisionnel&#34;. Celle-ci a</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-10-18/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Le SAGEO 2010, c'est dans une semaine à Toulouse</title>
-      <description># Le SAGEO 2010, c&#39;est dans une semaine à Toulouse
-
-
-:calendar: Date de publication initiale : 10 novembre 2010
-
-**Mots-clés :** SIG | Conférence | géomatique
-
-
-
-
-![these.png](https://cdn.geotribu.fr/img/logos-icones/divers/these.png)La sixième édition du [SAGEO](http://sageo10.univ-toulouse.fr/) se tiendra à Toulouse du 17 au 19 Novembre. Trois jours durant lesquels le [programme](http://sageo10.univ-toulouse.fr/spip.php?rubrique11) prévoit notamment 4 sessions et 3 ateliers. Les sujets aborden</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-11-10/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>SAGEO 2010, résumé de cette 2éme journée de colloque</title>
-      <description># SAGEO 2010, résumé de cette 2éme journée de colloque
-
-
-:calendar: Date de publication initiale : 19 novembre 2010
-
-**Mots-clés :** GIS | Colloque
-
-
-![these.png](https://cdn.geotribu.fr/img/logos-icones/divers/these.png)Deuxième journée de ce colloque [SAGEO 2010](http://sageo10.univ-toulouse.fr/). La matinée était réservée à la question de la fouille de données et l&#39;après-midi était composée de plusieurs ateliers thématiques.
-
-### Fouille de données
-
-![wpe959373a.png](/sites/default/files/Tuto</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-11-19/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>SAGEO 2010, résumé de cette 3éme journée de colloque</title>
-      <description># SAGEO 2010, résumé de cette 3éme journée de colloque
-
-
-:calendar: Date de publication initiale : 20 novembre 2010
-
-**Mots-clés :** GIS | Colloque
-
-
-![these.png](https://cdn.geotribu.fr/img/logos-icones/divers/these.png)Dernière journée du [Sageo2010](http://sageo10.univ-toulouse.fr/). La présentation étant programmée un peu plus tôt, associée à la soirée de gala de la veille et la fatigue de ces trois jours font que j&#39;arrive un peu ensommeillé au colloque.
-
-Heureusement, l&#39;invité, R.G. Pontius</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-11-20/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>La Géomatique Open Source : de la cartographie à la néogéographie</title>
-      <description># La Géomatique Open Source : de la cartographie à la néogéographie
-
-
-:calendar: Date de publication initiale : 29 novembre 2010
-
-**Mots-clés :** OpenStreetMap | Open Source | Conférence | géomatique | NéoGéographie
-
-
-![these.png](https://cdn.geotribu.fr/img/logos-icones/divers/these.png)Lors des Journées Méditerranéennes du Logiciel Libre ([JM2L](http://jm2l.linux-azur.org/)) organisées par Linux Azur et l&#39;école Polytech’Nice-Sophia Antipolis, j&#39;ai eu l&#39;occasion d&#39;animer une conférence intitulé</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-11-29/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Imagimap Baselayers v2</title>
-      <description># Imagimap Baselayers v2
-
-
-:calendar: Date de publication initiale : 13 décembre 2010
-
-**Mots-clés :** GeoExt | OpenLayers | Google Maps | Yahoo! Maps | OSM | MapQuest | GeoTribu | Bing Maps | ExtJS
-
-
-![icône globe](http://geotribu.net/sites/default/files/Tuto/img/Blog/world.png)L&#39;annonce de [Microsoft](http://www.bing.com/community/site_blogs/b/maps/archive/2010/11/23/bing-engages-open-maps-community.aspx) en fin d&#39;année et celle de [MapQuest](http://blog.mapquest.com/) durant l&#39;été auront des </description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-12-13/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Data mining spatial appliqué aux risques maritimes</title>
-      <description># Data mining spatial appliqué aux risques maritimes
-
-
-:calendar: Date de publication initiale : 18 janvier 2011
-
-**Mots-clés :** stage
-
-
-![these.png](https://cdn.geotribu.fr/img/logos-icones/divers/these.png)Dans le cadre de nos travaux de recherche sur les risques maritime, nous disposons d&#39;une importante base de données spatio-temporelle recensant la position des bateaux à travers le monde. L&#39;objectif de ce stage est, à partir de cette base, d&#39;utiliser les différents outils et méthodes issus </description>
-      <link>https://static.geotribu.fr/articles/2011/art_2011-01-18/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Participez à OpenStreetMap en offrant un peu de puissance machine</title>
-      <description># Participez à OpenStreetMap en offrant un peu de puissance machine
-
-
-:calendar: Date de publication initiale : 09 février 2011
-
-**Mots-clés :** OpenSource | OpenStreetMap | Tiles@Home
-
-
-![OSM_logo.png](https://cdn.geotribu.fr/img/logos-icones/OpenStreetMap/Openstreetmap.png)Participer au projet OpenStreetMap peut revêtir différentes formes. Si pour la plus grande majorité des contributeurs, cela consiste à uploader des fichiers GPX ou à digitaliser les données, sachez qu&#39;il existe d&#39;autres moye</description>
-      <link>https://static.geotribu.fr/articles/2011/art_2011-02-09/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Potentialités et limites d'OSM pour les administrations territoriales</title>
-      <description># Potentialités et limites d&#39;OSM pour les administrations territoriales
-
-
-:calendar: Date de publication initiale : 10 mars 2011
-
-**Mots-clés :** OpenStreetMap | Open Source | Open Data
-
-
-![OSM_logo.png](https://cdn.geotribu.fr/img/logos-icones/OpenStreetMap/Openstreetmap.png)Cette année, je me suis offert le luxe de prendre 3 semaines de vacances à la Réunion. Mais ce n&#39;est pas pour autant que je reste les doigts de pieds en éventail à siroter un ti-punch. Preuve en est, mon tout premier jour d</description>
-      <link>https://static.geotribu.fr/articles/2011/art_2011-03-10/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>A la découverte de WebGL Earth</title>
-      <description># A la découverte de WebGL Earth
-
-
-:calendar: Date de publication initiale : 05 avril 2011
-
-**Mots-clés :** JavaScript | Open Source
-
-
-![icône globe](http://geotribu.net/sites/default/files/Tuto/img/Blog/world.png)Depuis quelques mois déjà nos billets font de plus en plus référence à l&#39;utilisation de la 3D au sein de l&#39;univers du Web. L&#39;intégration de la librairie [WebGL](https://fr.wikipedia.org/wiki/WebGL), par les navigateurs les plus récents, montre bien que cette composante fera partie inté</description>
-      <link>https://static.geotribu.fr/articles/2011/art_2011-04-05/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Intégrer facilement et rapidement une carte à votre site</title>
-      <description># Intégrer facilement et rapidement une carte à votre site
-
-
-:calendar: Date de publication initiale : 13 avril 2011
-
-**Mots-clés :** Open Source
-
-
-![icône globe](http://geotribu.net/sites/default/files/Tuto/img/Blog/world.png) Même si des API de plus en plus puissantes et faciles d&#39;utilisation sont disponibles, l&#39;intégration d&#39;une carte au sein d&#39;un site Internet requiert quelques compétences. Paradoxalement, les besoins des utilisateurs sont souvent limités à l&#39;affichage de points et d&#39;infobul</description>
-      <link>https://static.geotribu.fr/articles/2011/art_2011-04-13/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Offre de thèse : Contribution de la géovisualisation à la surveillance maritime</title>
-      <description># Offre de thèse : Contribution de la géovisualisation à la surveillance maritime
-
-
-:calendar: Date de publication initiale : 01 juin 2011
-
-**Mots-clés :** thèse | GeoVisualisation
-
-
-![these.png](https://cdn.geotribu.fr/img/logos-icones/divers/these.png)La recherche vous intéresse, vous aimez les SIG et la géovisualisation alors n&#39;hésitez pas, postulez pour l&#39;offre de thèse portant sur la &#34;Contribution de la géovisualisation à la surveillance maritime&#34;.
-
-
-
-
-**Laboratoire d’accueil**
-
-L&#39;organisme</description>
-      <link>https://static.geotribu.fr/articles/2011/art_2011-06-01/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine du 3 janvier 2011
-
-:calendar: Date de publication initiale : 07 janvier 2011
-
-**Mots-clés :** GeoRDP
-
-![icône globe](https://cdn.geotribu.fr/img/internal/icons-rdp-news/world.png)
-
-La nouvelle année commence et avec elle son lot de nouveautés. Rassurez-vous, c&#39;est tout de même plutôt calme. Commençons immédiatement notre revue de presse :
-
-![logo Drupal](https://cdn.geotribu.fr/img/logos-icones/programmation/drupal.png)
-
-Tout d&#39;abord, et même si cette nouvelle ne </description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-01-07/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 14 janvier</title>
-      <description># Revue de presse de la semaine du 10 janvier 2011
-
-:calendar: Date de publication initiale : 14 janvier 2011
-
-**Mots-clés :** GeoRDP
-
-![News.png](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png){: .img-rdp-news-thumb }
-
-Malgré ce début d&#39;année, la revue de presse de la semaine est particulièrement chargée avec notamment quelques news d&#39;[OSM](#osm), [l&#39;import de shapefiles](#gmaps-shp) dans Google Maps, une présentation des différents outils labellisés [Inspire](#inspire) ou encore </description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-01-14/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 21 janvier 2011
-
-**Mots-clés :** GeoRDP
-
-
-![News.png](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png) Cette semaine au programme : un [code Sprint](#openlayers-mobile) à Lausanne pour OpenLayers ; un [générateur aléatoire](#geoipsum) de GeoJSON ; plein de [tutoriaux](#opengeo) chez OpenGeo ; une [jolie application](#osminterest) sur les points d&#39;intérêts OSM ; une introduction au [WebGL](#webgl) ; une </description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-01-21/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
+![logo OpenSource](https://cdn.geotribu.fr/img/logos-icones/opensource.png &#34;Logo Open Source Foundation&#34;){: .img-rdp-news-thumb } Le monde du GeoWeb regorge d&#39;un nombre important de librairies OpenSource. De ce fait, il peut être parfois difficile de s&#39;y retrouver et surtout de comprendre leur interconnexion. D&#39;autant plus que la tendance est à la spéciali</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-11-15/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
@@ -786,10 +78,10 @@ Malgré ce début d&#39;année, la revue de presse de la semaine est particuliè
 **Mots-clés :** QGIS | OSM | GeoRDP
 
 
-![News.png](https://cdn.geotribu.fr/images/internal/icons-rdp-news/news.png){: .img-rdp-news-thumb }
-Au menu de cette revue de presse hebdomadaire, la sortie en version papier du manuel utilisateur de [Qgis](#qgis), une tonne de nouveautés chez [MapQuest](#mapquest), la mise en ligne du [géoportail russe](#russe), l&#39;utilisation d&#39;un [globe 3D](#webgl), la nouvel</description>
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+Au menu de cette revue de presse hebdomadaire, la sortie en version papier du manuel utilisateur de [Qgis](#qgis), une tonne de nouveautés chez [MapQuest](#mapquest), la mise en ligne du [géoportail russe](#russe), l&#39;utilisation d&#39;un [globe 3D](#w</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-01-28/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
@@ -804,10 +96,10 @@ Au menu de cette revue de presse hebdomadaire, la sortie en version papier du ma
 **Mots-clés :** Presse
 
 
-![News.png](https://cdn.geotribu.fr/images/internal/icons-rdp-news/news.png){: .img-rdp-news-thumb }
-Il y a 5 ans naissait l&#39;OSGEO - voir l&#39;[acte de fondation](http://www.osgeo.org/content/news/news_archive/open_source_geospatial_foundation_initial_press_release.html.html). Que de chemin parcouru depuis ! La [liste](http://osgeo.org) des projets soutenus est assez impression</description>
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+Il y a 5 ans naissait l&#39;OSGEO - voir l&#39;[acte de fondation](http://www.osgeo.org/content/news/news_archive/open_source_geospatial_foundation_initial_press_release.html.html). Que de chemin parcouru depuis ! La [liste](http://osgeo.org) des projets soutenus est </description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-02-04/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
@@ -822,10 +114,10 @@ Il y a 5 ans naissait l&#39;OSGEO - voir l&#39;[acte de fondation](http://www.os
 **Mots-clés :** OpenStreetMap | OrbisGis | Spatialite
 
 
-![News.png](https://cdn.geotribu.fr/images/internal/icons-rdp-news/news.png){: .img-rdp-news-thumb }
- Vous allez nous dire, quoi encore OpenStreetMap, après un [article](http://geotribu.net/node/342) cette semaine sur la génération de tuiles Osmarender pour la communauté, cette fois-ci c&#39;est [WheelMap](#osm). Et bien force est de constater que </description>
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+ Vous allez nous dire, quoi encore OpenStreetMap, après un [article](http://geotribu.net/node/342) cette semaine sur la génération de tuiles Osmarender pour la communauté, cette fois-ci c&#39;est [WheelMap](#osm). Et bien force est d</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-02-11/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
@@ -840,11 +132,29 @@ Il y a 5 ans naissait l&#39;OSGEO - voir l&#39;[acte de fondation](http://www.os
 **Mots-clés :** OpenStreetMap | Python | GDAL | Esri
 
 
-![News.png](https://cdn.geotribu.fr/images/internal/icons-rdp-news/news.png){: .img-rdp-news-thumb }
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
  Comme chaque vendredi - une nouvelle revue de presse. Vous êtes toujours de plus en plus nombreux à nous lire. Et ça franchement, c&#39;est sympa :slightly_smiling_face: Merci à vous !  
- Donc cette semaine : la documentation Python de [GDAL](#gdal)</description>
+ Donc cette semaine : la documentation Python </description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-02-18/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 25 février</title>
+      <description># Revue de presse du 25 février 2011
+
+
+:calendar: Date de publication initiale : 25 février 2011
+
+**Mots-clés :** GeoRDP | OpenLayers | PhilGL
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+Finis les revues de presse avec plus d&#39;une dizaine de nouveautés. Cette semaine fut pauvre en annonce, mais je vous rassure riche en émotion. Le [code sprint d&#39;OpenLayers](#ol) vient tout juste de se terminer et je peux vous assurer que l</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-02-25/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
@@ -853,15 +163,14 @@ Il y a 5 ans naissait l&#39;OSGEO - voir l&#39;[acte de fondation](http://www.os
       <title>Revue de presse de la semaine</title>
       <description># Revue de presse de la semaine 2011
 
+:calendar: Date de publication initiale : 04 mars 2011
 
-:calendar: Date de publication initiale : 11 mars 2011
+**Mots-clés :** Presse
 
-**Mots-clés :** Google Earth | MapServer | Open Source | MapProxy
-
-
-![icône globe](https://cdn.geotribu.fr/img/internal/icons-rdp-news/world.png)L&#39;édition d&#39;un MapFile pour [Mapserver](http://mapserver.org/) n&#39;est jamais une partie de plaisir. Il y a la syntaxe à retenir, les couleurs à définir etc. Tout ça ne serait pas plus simple avec un éditeur ? C&#39;est maintenant chose faite avec la [première relea</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-03-11/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+Cette revue de presse est digne des plus grands studio de cinéma hollywoodien. La remise des oscars et des césars vient de se terminer et nous avons décidé nous aussi d&#39;organiser notre propre festival en sélectionnant les vidéos et animations que nous avons aimé. A</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-03-04/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
@@ -876,10 +185,756 @@ Il y a 5 ans naissait l&#39;OSGEO - voir l&#39;[acte de fondation](http://www.os
 **Mots-clés :** OpenLayers | Google Maps | OpenStreetMap
 
 
-![News.png](https://cdn.geotribu.fr/images/internal/icons-rdp-news/news.png){: .img-rdp-news-thumb }
-Fidèle à notre revue de presse, venez découvrir avec nous les nouvelles qui ont marqué notre semaine. Nous parlerons notamment de [l&#39;ajout d&#39;une vue à 45° à Google Maps](#gmaps), du prochain [OpenMapCamp](#omc) ou encore de la prochaine sortie d</description>
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+Fidèle à notre revue de presse, venez découvrir avec nous les nouvelles qui ont marqué notre semaine. Nous parlerons notamment de [l&#39;ajout d&#39;une vue à 45° à Google Maps](#gmaps), du prochain [OpenMapCamp](#omc) ou encore de la pr</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-03-18/</link>
-      <pubDate>Sat, 11 Jul 2020 07:32:26 -0000</pubDate>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine</title>
+      <description># Revue de presse de la semaine 2011
+
+
+:calendar: Date de publication initiale : 25 mars 2011
+
+**Mots-clés :** JavaScript | OpenStreetMap | Open Source
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+Au menu de cette revue de presse de la semaine, un petit tour du côté [d&#39;OpenStreetMap en 3D](#osm), quelques bonnes nouvelles du [dernier code sprint](#codeSprint) qui a eu lieu au Québec ou encore la sortie de la dernier [appli</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-03-25/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine</title>
+      <description># Revue de presse de la semaine 2011
+
+
+:calendar: Date de publication initiale : 01 avril 2011
+
+**Mots-clés :** OpenLayers | MapServer | OpenStreetMap | TinyOWS | Presse | smartphone
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+ Cette semaine des nouvelles de [MapServer](#mapserver) et un rapprochement avec TinyOWS et mod-geocache. Le souhait de la communauté [OSM-fr](#osm) de s&#39;émanciper de l&#39;OSGEO. Le développement d&#39;Ope</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-01/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine</title>
+      <description># Revue de presse de la semaine 2011
+
+
+:calendar: Date de publication initiale : 08 avril 2011
+
+**Mots-clés :** Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+ C&#39;est avec une revue de presse riche en actualité que nous clôturons cette semaine. Beaucoup, beaucoup de nouveautés avec notamment, des rumeurs concernant la [fermeture du site data.gov](#datagov), la [sortie de Mapfish 2.1](#mapfish) ou encore [l&#39;ajout d&#39;un d</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-08/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine</title>
+      <description># Revue de presse de la semaine 2011
+
+
+:calendar: Date de publication initiale : 15 avril 2011
+
+**Mots-clés :** Google Maps | OpenStreetMap | Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+ Et c&#39;est reparti cette semaine. A croire qu&#39;il n&#39;y a pas de pause dans la technologie web carto - toujours des nouveaux trucs à voir. Et c&#39;est pas pour nous déplaire, ça note une certaine activité et un marché qui bouge. Donc cette</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-15/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine</title>
+      <description># Revue de presse de la semaine 2011
+
+
+:calendar: Date de publication initiale : 22 avril 2011
+
+**Mots-clés :** Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+ Aujourd&#39;hui c&#39;est le jour de la Terre, ça n&#39;a rien à voir avec le GeoWeb - quoi que ? Cette semaine, en vrac OpenGeo, GvSIG, Grass, Qgis, OpenLite, Google, Bing, OSM, Opendata, OVI Maps et de jolies cartes.  
+ Je ne me suis pas foulé pour cette introduction, ma</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-22/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine</title>
+      <description># Revue de presse de la semaine 2011
+
+
+:calendar: Date de publication initiale : 29 avril 2011
+
+**Mots-clés :** Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+ Les revues de presse de GéoTribu s’allongent. A croire que dans le GeoWeb il n&#39;y a jamais de temps mort. Au menu cette semaine, le lancement du nouveau [blog d&#39;Intelli3](#intelli3), une [version cloud](#opengeo) d&#39;opengeo, les futures nouveautés de [PostGis](#p</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-29/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine</title>
+      <description># Revue de presse de la semaine 2011
+
+
+:calendar: Date de publication initiale : 06 mai 2011
+
+**Mots-clés :** OpenStreetMap | Presse | INSPIRE
+
+
+![Logo OpenStreetMap](https://cdn.geotribu.fr/images/logos-icones/OpenStreetMap/Openstreetmap.png){: .img-rdp-news-thumb }
+
+### OpenStreetMap
+
+ Comme d&#39;habitude l&#39;effervescence autour du projet OpenStreetMap occupe une grande place au sein de ce blog.  
+ Commençons tout d&#39;abord par [OSMembrane](http://osmembrane.de/) qui permet la manipulation des fonct</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-06/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine</title>
+      <description># Revue de presse de la semaine 2011
+
+
+:calendar: Date de publication initiale : 13 mai 2011
+
+**Mots-clés :** Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+ On vous disait que les technologies et notamment celles relatives aux SIG et au web ne s&#39;arrêtent jamais. Et bien nous en avons encore la confirmation cette semaine avec au programme l&#39;OSGEO, Mapserver et Geoserver, Shapely, le Geoportail, jQuery, le nouveau blog</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-13/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine</title>
+      <description># Revue de presse de la semaine 2011
+
+
+:calendar: Date de publication initiale : 21 mai 2011
+
+**Mots-clés :** Google | Presse | Leaflet | JTS
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+ Cette semaine au menu, des librairies javascript pour la [visualisation](#visu) et pour le [traitement](#traitement), ou bien encore des [sorties logicielles](#mapguide). Retrouvez aussi des nouvelles de [Google](#google) ou bien encore u</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-21/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine</title>
+      <description># Revue de presse de la semaine 2011
+
+
+:calendar: Date de publication initiale : 27 mai 2011
+
+**Mots-clés :** OpenLayers | OSM | Presse | GeoAPI
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+ Comme tous les vendredis, continuons notre exploration du monde GeoWeb. Cette semaine : une [thèse](#these) à Lausanne, une nouvelle version [RC1](#openlayers) d&#39;OpenLayers , les débuts de [GeoExt](#geoext) dans le mobile, l&#39;[eG8](#eg8</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-27/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine</title>
+      <description># Revue de presse de la semaine 2011
+
+
+:calendar: Date de publication initiale : 03 juin 2011
+
+**Mots-clés :** OpenLayers | MapServer | Presse | INSPIRE
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+ C&#39;est une semaine plutôt calme dans le petit monde du GeoWeb. Néanmoins, nous avons tout de même glané quelques infos intéressantes. Notamment, la traduction en français des fonctionnalités de [MapServer 6](#mapserver), une réf</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-06-03/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine</title>
+      <description># Revue de presse de la semaine 2011
+
+
+:calendar: Date de publication initiale : 10 juin 2011
+
+**Mots-clés :** OpenLayers | GeoServer | Presse
+
+
+![https://fr.wikipedia.org/wiki/Fichier:Dymaxion_2003_animation_small1.gif - GFDL](http://88.191.39.115/fabien/geotribu/logos/proj_fuller_anim.gif &#34;animation_small&#34;)**Openlayers dans une projection &#34;exotique&#34;
+
+ On reproche souvent au web cartographique une certaine aseptisation du mode de projection utilisé. Peu de fantaisies sont autorisées. Ainsi, la </description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-06-10/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine</title>
+      <description># Revue de presse de la semaine 2011
+
+
+:calendar: Date de publication initiale : 17 juin 2011
+
+**Mots-clés :** OGC | Presse | openaerialmap | kothic | FOSS4G
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+Au menu de cette revue de presse de la semaine, [l&#39;arrivée de kothic](#kothic), une nouvelle librairie cartographique, la [publication du programme](#FOSS4G) du prochain FOSS4G, l&#39;annonce de la [fermeture de l&#39;API de Yahoo]</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-06-17/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 24 juin</title>
+      <description># Revue de presse du 24 juin 2011
+
+
+:calendar: Date de publication initiale : 24 juin 2011
+
+**Mots-clés :** GeoServer | MapFish | QGIS | OSGeo | Leaflet | Galileo | Open Data | GeoRDP
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+ Comme chaque fin de semaine, retrouvez l&#39;actualité du monde géospatial. Faites le plein de nouveautés avec les sorties de la semaine avec notamment [GeoServer](#geoserver), [mapfish](#mapfish), [q</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-06-24/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine</title>
+      <description># Revue de presse de la semaine 2011
+
+
+:calendar: Date de publication initiale : 01 juillet 2011
+
+**Mots-clés :** OpenLayers | OGC | Mapnik | Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+ Quelques nouvelles fraîches du GeoWeb. Tout d’abord, les [sorties de la semaine](#nouveaute), mais aussi de [nouvelles fonctionnalités](#ol) pour openLayers ou encore une [réflexion intéressante](#wms) sur les services Web OGC. Bon</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-07-01/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine</title>
+      <description># Revue de presse de la semaine 2011
+
+
+:calendar: Date de publication initiale : 08 juillet 2011
+
+**Mots-clés :** Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+En pleine semaine de l&#39;ICC 2011, nous avons tout de même trouvé le temps de rédiger le billet de la semaine. Merci surtout à Thomas qui à réussi le tour de force d&#39;allier tenue de stand et écriture. Au menu de cette semaine, la mise à jour [d&#39;OSM via votre com</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-07-08/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine</title>
+      <description># Revue de presse de la semaine 2011
+
+
+:calendar: Date de publication initiale : 15 juillet 2011
+
+**Mots-clés :** Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+Même au milieu de l&#39;été, le sigweb ne s&#39;arrête pas vraiment. Cette semaine, du OSM encore et toujours avec [un petit userfight](#osmfight) bien sympathique ;), les [frontières](#sudsoudan) d&#39;un nouvel Etat, OSM comme fond de carte pour un [promoteur](#osmlafor</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-07-15/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 18 juillet 2011</title>
+      <description># Revue de presse de la semaine du 18 juillet 2011
+
+
+:calendar: Date de publication initiale : 22 juillet 2011
+
+**Mots-clés :** Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+Cette semaine a été l&#39;occasion de modifier un peu la forme de la revue de presse avec un essai de &#34;rubriquage&#34; du contenu. Ainsi nous commençons par les logiciels avec les [ETL](#etl) ou bien [GvSIG Portable](#gvsig), [Leaflet](#leaflet), [Jaspa]</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-07-22/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 25 juillet 2011</title>
+      <description># Revue de presse de la semaine du 25 juillet 2011
+
+
+:calendar: Date de publication initiale : 29 juillet 2011
+
+**Mots-clés :** Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+Cette semaine, l&#39;avancement des projets principaux marque le pas avec les contributeurs qui prennent des vacances. On notera néanmoins des avancées sur [OpenLayers connecté à une Kinect](#ol), [MapQuery](#mapquery) ou bien [Proj4js](#proj4js). No</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-07-29/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 1er août</title>
+      <description># Revue de presse de la semaine du 1er août 2011
+
+
+:calendar: Date de publication initiale : 05 août 2011
+
+**Mots-clés :** Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+Pour cette première semaine du mois d&#39;août, quelques découvertes bien sympathiques ! Tout d&#39;abord, vous avez chaud et vous avez besoin d&#39;une bonne bière, alors suivez le [guide](#beer) . Après cette bière, imaginons maintenant que vous souhaitiez orga</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-08-05/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 8 août</title>
+      <description># Revue de presse de la semaine du 8 août 2011
+
+
+:calendar: Date de publication initiale : 12 août 2011
+
+**Mots-clés :** Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+Il y a 20 ans, le [Web naissait](http://www.wired.com/geekdad/2011/08/world-wide-web-20-years/), que de chemin parcouru depuis. Qu&#39;en est-il du GeoWeb ? Celui-ci s&#39;est structuré, des normes sont maintenant établies et de grands acteurs structurent le ma</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-08-12/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 15 août</title>
+      <description># Revue de presse de la semaine du 15 août 2011
+
+
+:calendar: Date de publication initiale : 19 août 2011
+
+**Mots-clés :** GeoServer | JavaScript | OpenSource | API | QGIS | Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+Après les 20 ans du Web, c&#39;est au projet [Debian](http://www.debian.org) de souffler ses 18 bougies. Si vous utilisez cette distribution (où l&#39;un de ses dérivés) vous pouvez laisser un message de remer</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-08-19/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 22 août</title>
+      <description># Revue de presse de la semaine du 22 août 2011
+
+:calendar: Date de publication initiale : 26 août 2011
+
+**Mots-clés :** Presse
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+
+Certaines initiatives peuvent définitivement changer le cours de l&#39;histoire. Il y a deux semaines c&#39;était les 20 ans du Web et aujourd&#39;hui (enfin plutôt hier) c&#39;est au tour de linux. Il y a 20, Linus Torvald lancé ce message, pensait-il que son projet a</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-08-26/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 29 Août</title>
+      <description># Revue de presse de la semaine du 29 Août 2011
+
+
+:calendar: Date de publication initiale : 02 septembre 2011
+
+**Mots-clés :** OpenLayers | OSM | Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+ Et c&#39;est reparti !  
+ Cette semaine quelques [démos Raster](#oldemo) assez bluffantes sur OpenLayers, un [parseur](#badassjs) de Shapefile en Javascript, une nouvelle version de [MapProxy](#mapproxy), ou encore un possible futu</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-09-02/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 5 Septembre</title>
+      <description># Revue de presse de la semaine du 5 Septembre 2011
+
+
+:calendar: Date de publication initiale : 09 septembre 2011
+
+**Mots-clés :** Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+ Avec le prochain [FOSS4G](http://2011.foss4g.org/) ainsi que le [State Of The Map](http://stateofthemap.com/) (SOTM), c&#39;est l&#39;effervescence du coté des news. Préparez-vous à une revue de presse bien chargée. Citons notamment, la sortie du [DV</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-09-09/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 12 septembre 2011</title>
+      <description># Revue de presse de la semaine du 12 septembre 2011
+
+
+:calendar: Date de publication initiale : 16 septembre 2011
+
+**Mots-clés :** Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+ Beaucoup de news cette semaine, l&#39;effet Foss4G doit y être pour pas mal de choses :)
+
+ Donc du côté du congrès : [CartoSet](#cartoset), [MapMint](#mapmint), [Django et Openlayers](#django-ol), [Mapfish](#mapfish), [GeoExt](#geoext) et [Mapni</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-09-16/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 19 septembre 2011</title>
+      <description># Revue de presse de la semaine du 19 septembre 2011
+
+
+:calendar: Date de publication initiale : 23 septembre 2011
+
+**Mots-clés :** Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+ Au menu de cette semaine, plusieurs grands titres. A savoir, la disponibilité d&#39;une [barre de digitalisation](#news21) pour OpenLayers, le plein d&#39;infos sur [PostGis](#news31), le résultat du [benchmark WPS](#news22) ou encore quelques [réfl</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-09-23/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 26 septembre 2011</title>
+      <description># Revue de presse de la semaine du 26 septembre 2011
+
+
+:calendar: Date de publication initiale : 30 septembre 2011
+
+**Mots-clés :** Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+Commençons immédiatement cette revue de presse avec notamment pour les sorties de la semaine la sortie de [GeoGit](#news11) ou encore de la [version 2.0 de Mapnik](#news21), pour l&#39;Open Data l&#39;ouverture prochaine du portail &#39;[Toulouse Data](#</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-09-30/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 03 octobre 2011</title>
+      <description># Revue de presse de la semaine du 03 octobre 2011
+
+
+:calendar: Date de publication initiale : 07 octobre 2011
+
+**Mots-clés :** Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+ Comme chaque semaine, ne ratez rien de l&#39;actualité géomatique avec notre revue de presse. Nous parlerons notamment, des [nouvelles fonctionnalités](#gmaps) de Google Maps, de l&#39;utilisation de l&#39;[HTML5 en cartographie](#news13), de la [sécurisati</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-10-07/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 14 octobre</title>
+      <description># Revue de presse de la semaine du 14 octobre 2011
+
+
+:calendar: Date de publication initiale : 14 octobre 2011
+
+**Mots-clés :** Google Maps | GeoRDP | OpenStreetMap
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+Vous ne le savez peut-être pas, mais le Week-End dernier un événement important a eu lieu : la création de l&#39;association [OpenStreetMap France](#news11). Mais rassurez-vous nous ne parlerons pas que de ça. En effet n</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-10-14/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 17 Octobre</title>
+      <description># Revue de presse de la semaine du 17 Octobre 2011
+
+
+:calendar: Date de publication initiale : 21 octobre 2011
+
+**Mots-clés :** Google | OpenStreetMap | QGIS | Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+Au menu de cette revue de presse de la semaine, [l&#39;implémentation totale](#news12) pour Postgis du modèle modèle Topology-Geometry de la norme ISO SQL/MM, la sortie en version 1.0 d&#39;[OpenGeoDa](#news13), la [public</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-10-21/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 24 Octobre</title>
+      <description># Revue de presse de la semaine du 24 Octobre 2011
+
+:calendar: Date de publication initiale : 28 octobre 2011
+
+**Mots-clés :** Google Maps | QGIS | OSM | Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+Cette semaine, une grosse partie de notre attention a été accaparée par les [différentes annonces](#news12) de chez Google. Mais ce n&#39;est pas une raison pour rater : la sortie de la [version 0.6 de TileMill](#news21), le</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-10-28/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 31 octobre</title>
+      <description># Revue de presse de la semaine du 31 octobre 2011
+
+
+:calendar: Date de publication initiale : 04 novembre 2011
+
+**Mots-clés :** Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+ Fidèles lecteurs et lectrices de notre revue de presse ce fût encore une semaine chargée dans le petit monde du GeoWeb. Ne perdons pas de temps et attaquons immédiatement les annonces. Tout d&#39;abord c&#39;est avec regret que nous vous annonçons la [</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-11-04/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 07 novembre</title>
+      <description># Revue de presse de la semaine du 07 novembre 2011
+
+:calendar: Date de publication initiale : 10 novembre 2011
+
+**Mots-clés :** Presse
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+
+Exceptionnellement, la revue de presse est publiée un jeudi - et oui demain c&#39;est férié. Néanmoins, rassurez-vous celle-ci reste, on l&#39;espère toujours aussi complète. Vous y trouverez d&#39;ailleurs : une superbe [réinterprétation](#news24) de la ca</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-11-10/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 14 Novembre </title>
+      <description># Revue de presse de la semaine du 14 Novembre  2011
+
+
+:calendar: Date de publication initiale : 18 novembre 2011
+
+**Mots-clés :** Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+ Comme à l&#39;accoutumée, retrouvez toute l&#39;actualité géomatique de la semaine. Avec notamment, l&#39;ajout d&#39;une [barre de dessin à google maps](#news11), [OnTheWay](#news12) votre assistant personnel de création de voyages, une [illustration](#news</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-11-18/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 21 Novembre </title>
+      <description># Revue de presse de la semaine du 21 Novembre  2011
+
+:calendar: Date de publication initiale : 25 novembre 2011
+
+**Mots-clés :** Presse
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+
+
+Une semaine plutôt calme dans le petit monde de la géomatique. Mais rassurez-vous nous avons tout de même quelques annonces. Nous parlerons notamment de la prochaine [sortie de GVSig 2.0](#news22), de l&#39;utilisation de [l&#39;OpenSource dans l&#39;ense</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-11-25/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 28 Novembre</title>
+      <description># Revue de presse de la semaine du 28 Novembre 2011
+
+
+:calendar: Date de publication initiale : 02 décembre 2011
+
+**Mots-clés :** Google | OpenStreetMap | Presse
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+ Cette semaine, une grosse partie de notre revue de presse est dédiée à OpenStreetMap. Nous y aborderons notamment les [dernières statistiques](#news11) ou encore l&#39;ajout de [nouvelles couches](#news14). Mais rassurez-v</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-12-02/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 5 Décembre</title>
+      <description># Revue de presse de la semaine du 5 Décembre 2011
+
+
+:calendar: Date de publication initiale : 09 décembre 2011
+
+**Mots-clés :** QGIS | Open Data | GeoRDP | RaphaëlJS | uDig | NoSQL | Python | OpenStreetMap
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+ [Qgis](#news11) [Qgis](#news12) [Qgis](#news13) - on attaque cette revue de presse avec le fameux logiciel SIG Open Source. Mais, rassurez vous nous aborderons également [Py</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-12-09/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 12 Décembre</title>
+      <description># Revue de presse de la semaine du 12 Décembre 2011
+
+
+:calendar: Date de publication initiale : 16 décembre 2011
+
+**Mots-clés :** Open Data | GeoRDP | HTML 5
+
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+ Bientôt les vacances - ça va faire du bien. Mais en attendant retrouvez notamment dans notre revue de presse un dossier spécial [ouverture de données](#news21) mais aussi du [transport](#news22), du HTML5 et bien d&#39;autres.</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-12-16/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 19 Décembre</title>
+      <description># Revue de presse de la semaine du 19 Décembre 2011
+
+
+:calendar: Date de publication initiale : 23 décembre 2011
+
+**Mots-clés :** GeoRDP | GeoExt | GeoServer | OGR | gvSIG | HTML 5 | PgRouting | GDAL | GeoNetwork | Open Data | GeoTools | GéoSource
+
+
+![world_noel.png](http://geotribu.net/sites/default/files/Tuto/img/Blog/world_noel.png) Vous êtes déjà en vacances ou encore au bureau ? Mais est-ce une raison pour manquer la revue de presse de Geotribu. Cette semaine, nous aborderons notamment, la </description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-12-23/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 2 Janvier 2012</title>
+      <description># Revue de presse de la semaine du 2 Janvier 2012
+
+:calendar: Date de publication initiale : 07 janvier 2012
+
+**Mots-clés :** Presse
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+
+Tout d&#39;abord, commençons cette première revue de presse de l&#39;année par vous présenter nos meilleurs vœux.  
+
+![Le Chat - Bonne année](https://cdn.geotribu.fr/img/articles-blog-rdp/divers/lechatnouvelan.jpg &#34;Le Chat - Bonne année&#34;)
+
+Reprise tranquil</description>
+      <link>https://static.geotribu.fr/rdp/2012/rdp_2012-01-07/</link>
+      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
