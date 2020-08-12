@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Tue, 11 Aug 2020 11:31:27 -0000</pubDate>
-    <lastBuildDate>Tue, 11 Aug 2020 11:31:27 -0000</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2020 08:40:36 -0000</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2020 08:40:36 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,21 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Revue de presse du 30 avril 2020</title>
+      <description># Revue de presse du 30 avril 2020
+
+## Intro
+
+2 ans ? 3 ans ? Oui, je crois que cela fait bien 3 ans que je n&#39;ai pas eu à réfléchir... à une introduction pour une [#GeoRDP](https://twitter.com/hashtag/GeoRDP). Nous revoilà après une traversée du désert et un enseignement : il faut **toujours** vérifier les sauvegardes de sa base de données !
+
+Il aura fallu un confinement international, plus d&#39;un mois de travail &#34;perlé&#34; sur l&#39;extraction et la conversion des contenus à partir d&#39;une ancienne sauveg</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-04-30/</link>
+      <pubDate>Wed, 12 Aug 2020 08:32:53 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
     
     <item>
       <title>OGR2GUI passe en version 0.6</title>
@@ -913,27 +928,6 @@ Une semaine plutôt calme dans le petit monde de la géomatique. Mais rassurez-v
 
 ![world_noel.png](http://geotribu.net/sites/default/files/Tuto/img/Blog/world_noel.png) Vous êtes déjà en vacances ou encore au bureau ? Mais est-ce une raison pour manquer la revue de presse de Geotribu. Cette semaine, nous aborderons notamment, la </description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-12-23/</link>
-      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 2 Janvier 2012</title>
-      <description># Revue de presse de la semaine du 2 Janvier 2012
-
-:calendar: Date de publication initiale : 07 janvier 2012
-
-**Mots-clés :** Presse
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
-
-Tout d&#39;abord, commençons cette première revue de presse de l&#39;année par vous présenter nos meilleurs vœux.  
-
-![Le Chat - Bonne année](https://cdn.geotribu.fr/img/articles-blog-rdp/divers/lechatnouvelan.jpg &#34;Le Chat - Bonne année&#34;)
-
-Reprise tranquil</description>
-      <link>https://static.geotribu.fr/rdp/2012/rdp_2012-01-07/</link>
       <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
