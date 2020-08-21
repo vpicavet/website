@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Tue, 18 Aug 2020 15:18:08 -0000</pubDate>
-    <lastBuildDate>Tue, 18 Aug 2020 15:18:08 -0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2020 13:35:12 -0000</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2020 13:35:12 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,15 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Revue de presse du 21 août 2020</title>
+      <description>Revue de presse géomatique du 21 août 2020 (#GeoRDP) : les visualisations de Craig Taylor, l&#39;accès libre (mais caché !) aux orthophographies en haute résolution de l&#39;IGN, le travail en cours sur une balise HTML map (Map4HTML ou MapML), une faute de frappe dans OSM aboutit sur une incongruité (mot compte triple) dans Flight Simulator, une Google Car arrêtée par la gendarmerie française et la finalisation de la constellation de satellites chinois BeiDou.</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-08-21/</link>
+      <pubDate>Fri, 21 Aug 2020 13:30:09 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
     
     <item>
       <title>Intégrer une image</title>
@@ -907,24 +916,6 @@ Une semaine plutôt calme dans le petit monde de la géomatique. Mais rassurez-v
 ![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
  [Qgis](#news11) [Qgis](#news12) [Qgis](#news13) - on attaque cette revue de presse avec le fameux logiciel SIG Open Source. Mais, rassurez vous nous aborderons également [Py</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-12-09/</link>
-      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 12 Décembre</title>
-      <description># Revue de presse de la semaine du 12 Décembre 2011
-
-
-:calendar: Date de publication initiale : 16 décembre 2011
-
-**Mots-clés :** Open Data | GeoRDP | HTML 5
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- Bientôt les vacances - ça va faire du bien. Mais en attendant retrouvez notamment dans notre revue de presse un dossier spécial [ouverture de données](#news21) mais aussi du [transport](#news22), du HTML5 et bien d&#39;autres.</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-12-16/</link>
       <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       

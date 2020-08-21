@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Tue, 18 Aug 2020 15:18:08 -0000</pubDate>
-    <lastBuildDate>Tue, 18 Aug 2020 15:18:08 -0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2020 13:35:12 -0000</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2020 13:35:12 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,15 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Revue de presse du 21 août 2020</title>
+      <description>Revue de presse géomatique du 21 août 2020 (#GeoRDP) : les visualisations de Craig Taylor, l&#39;accès libre (mais caché !) aux orthophographies en haute résolution de l&#39;IGN, le travail en cours sur une balise HTML map (Map4HTML ou MapML), une faute de frappe dans OSM aboutit sur une incongruité (mot compte triple) dans Flight Simulator, une Google Car arrêtée par la gendarmerie française et la finalisation de la constellation de satellites chinois BeiDou.</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-08-21/</link>
+      <pubDate>Mon, 10 Aug 2020 15:22:05 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      
+    </item>
     
     <item>
       <title>Signer ses contributions</title>
@@ -497,15 +506,6 @@ J&amp;#39;ai 37 ans, suis natif du Nord, mais vis entre la Savoie, ma terre d&am
 
 Emmanuel de Maistre : Normalien et HEC Entrepreneurs, Dirigeant et co-f</description>
       <link>https://static.geotribu.fr/articles/2014/art_2014-08-29_itw_drones_crisis/</link>
-      <pubDate>Fri, 05 Jun 2020 10:30:16 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>DicoGIS : le dictionnaire de données SIG</title>
-      <description>DicoGIS, utilitaire pour générer automatiquement un dictionnaire de métadonnées sur une base SIG.</description>
-      <link>https://static.geotribu.fr/articles/2014/art_2014-09-25_dicogis/</link>
       <pubDate>Fri, 05 Jun 2020 10:30:16 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
