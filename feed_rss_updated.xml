@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Fri, 21 Aug 2020 13:35:12 -0000</pubDate>
-    <lastBuildDate>Fri, 21 Aug 2020 13:35:12 -0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2020 14:33:53 -0000</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2020 14:33:53 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,31 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Insérer des diagrammes</title>
+      <description># Insérer des diagrammes
+
+Le site intègre la bibliothèque [MermaidJS](https://mermaid-js.github.io/mermaid/#/) qui permet de générer des diagrammes en utilisant une extension de la syntaxe Markdown.
+
+On utilise [l&#39;extension SuperFences de PyMdown](https://facelessuser.github.io/pymdown-extensions/extensions/superfences/#uml-diagram-example/).
+
+## Syntaxe
+
+Cela consiste en créant une balise de code pointant sur le langage `mermaid`.
+
+### Exemple
+
+```markdown
+
+    ```mermaid
+    graph TD;
+        </description>
+      <link>https://static.geotribu.fr/contribuer/guides/diagrams/</link>
+      <pubDate>Wed, 26 Aug 2020 13:57:10 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
     
     <item>
       <title>Revue de presse du 21 août 2020</title>
@@ -898,24 +923,6 @@ Une semaine plutôt calme dans le petit monde de la géomatique. Mais rassurez-v
 ![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
  Cette semaine, une grosse partie de notre revue de presse est dédiée à OpenStreetMap. Nous y aborderons notamment les [dernières statistiques](#news11) ou encore l&#39;ajout de [nouvelles couches](#news14). Mais rassurez-v</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-12-02/</link>
-      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 5 Décembre</title>
-      <description># Revue de presse de la semaine du 5 Décembre 2011
-
-
-:calendar: Date de publication initiale : 09 décembre 2011
-
-**Mots-clés :** QGIS | Open Data | GeoRDP | RaphaëlJS | uDig | NoSQL | Python | OpenStreetMap
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- [Qgis](#news11) [Qgis](#news12) [Qgis](#news13) - on attaque cette revue de presse avec le fameux logiciel SIG Open Source. Mais, rassurez vous nous aborderons également [Py</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-12-09/</link>
       <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       

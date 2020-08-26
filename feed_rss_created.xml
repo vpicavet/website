@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Fri, 21 Aug 2020 13:35:12 -0000</pubDate>
-    <lastBuildDate>Fri, 21 Aug 2020 13:35:12 -0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2020 14:33:53 -0000</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2020 14:33:53 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,31 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Insérer des diagrammes</title>
+      <description># Insérer des diagrammes
+
+Le site intègre la bibliothèque [MermaidJS](https://mermaid-js.github.io/mermaid/#/) qui permet de générer des diagrammes en utilisant une extension de la syntaxe Markdown.
+
+On utilise [l&#39;extension SuperFences de PyMdown](https://facelessuser.github.io/pymdown-extensions/extensions/superfences/#uml-diagram-example/).
+
+## Syntaxe
+
+Cela consiste en créant une balise de code pointant sur le langage `mermaid`.
+
+### Exemple
+
+```markdown
+
+    ```mermaid
+    graph TD;
+        </description>
+      <link>https://static.geotribu.fr/contribuer/guides/diagrams/</link>
+      <pubDate>Wed, 26 Aug 2020 13:57:10 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      
+    </item>
     
     <item>
       <title>Revue de presse du 21 août 2020</title>
@@ -489,23 +514,6 @@ Le but de ce tutorial est de découvrir via u</description>
 
 J&amp;#39;ai 37 ans, suis natif du Nord, mais vis entre la Savoie, ma terre d&amp;#39;adoption et, Paris, pour les affaires. Etant très branché Montagne, j&amp;#39;ai souhai</description>
       <link>https://static.geotribu.fr/articles/2013/art_2013-06-13_itw_davidjonglez/</link>
-      <pubDate>Fri, 05 Jun 2020 10:30:16 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Interview de Drones Crisis</title>
-      <description># Interview de Drones Crisis
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/H2sxUHeqB8g&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-## Partie 1 - Retour d&amp;#39;experience sur le projet Drone Adventures
-
-### 1. (All) Pourriez-vous svp vous présenter brièvement (âge, études, parcours, projets, produits, compétences) ?
-
-Emmanuel de Maistre : Normalien et HEC Entrepreneurs, Dirigeant et co-f</description>
-      <link>https://static.geotribu.fr/articles/2014/art_2014-08-29_itw_drones_crisis/</link>
       <pubDate>Fri, 05 Jun 2020 10:30:16 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
