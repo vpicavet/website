@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Wed, 26 Aug 2020 14:33:53 -0000</pubDate>
-    <lastBuildDate>Wed, 26 Aug 2020 14:33:53 -0000</lastBuildDate>
+    <pubDate>Fri, 28 Aug 2020 11:33:41 -0000</pubDate>
+    <lastBuildDate>Fri, 28 Aug 2020 11:33:41 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -44,17 +44,13 @@ On utilise [l&#39;extension SuperFences de PyMdown](https://facelessuser.github.
 
 ## Syntaxe
 
-Cela consiste en créant une balise de code pointant sur le langage `mermaid`.
+Cela consiste en créant une balise de code pointant sur le langage `mermaid`, dans laquelle on insère notre syntaxe MermaidJS.
 
 ### Exemple
 
-```markdown
-
-    ```mermaid
-    graph TD;
-        </description>
+`</description>
       <link>https://static.geotribu.fr/contribuer/guides/diagrams/</link>
-      <pubDate>Wed, 26 Aug 2020 13:57:10 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2020 11:32:46 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
