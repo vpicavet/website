@@ -5,7 +5,7 @@
   <channel>
     <!-- Mandatory elements -->
     <title>Geotribu</title>
-    <description>Veille libre sur la géomatique</description>
+    <description>Site indépendant de veille sur la géomatique libre. Retrouvez nos articles, tutoriels et nos revues de presse (#GeoRDP) sur l&#39;information géographique, les SIG, la cartographie, la représentation des données géographiques... Globalement, tout ce qui mêle géographie et informatique.</description>
     <link>https://static.geotribu.fr/</link>
     <atom:link href="https://static.geotribu.fr/feed_rss_created.xml" rel="self" type="application/rss+xml" />
 
@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Fri, 28 Aug 2020 11:33:41 -0000</pubDate>
-    <lastBuildDate>Fri, 28 Aug 2020 11:33:41 -0000</lastBuildDate>
+    <pubDate>Sun, 30 Aug 2020 21:27:54 -0000</pubDate>
+    <lastBuildDate>Sun, 30 Aug 2020 21:27:54 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,15 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Histoire de Geotribu : vie, mort et renaissance.</title>
+      <description>Invité à faire un retour d&#39;expérience sur l&#39;aventure Geotribu, voici une petite histoire du site : naissance, jeunesse, vie, mort... et renaissance en 2020. Souvenirs, souvenirs et avenir !</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-08-31_geotribu_histoire/</link>
+      <pubDate>Sun, 30 Aug 2020 09:14:06 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      
+    </item>
     
     <item>
       <title>Insérer des diagrammes</title>
@@ -209,8 +218,8 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
     </item>
     
     <item>
-      <title>Revue de presse du 36 mai</title>
-      <description>Revue de presse du 36 mai</description>
+      <title>Revue de presse du 5 juin</title>
+      <description>Revue de presse de la semaine du 5 juin 2015</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-06-05/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
@@ -493,23 +502,6 @@ Je recommande vivement l&#39;utilisation de l&#39;excellent editeur de code open
 
 Le but de ce tutorial est de découvrir via u</description>
       <link>https://static.geotribu.fr/articles/2013/art_2013-06-05_mongo_spatial/</link>
-      <pubDate>Fri, 05 Jun 2020 10:30:16 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Interview de David Jonglez</title>
-      <description># Interview de David Jonglez
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/_n-Rkciulfs&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-## Présentation générale
-
-### 1. Peux-tu te présenter brièvement (âge, études, parcours) stp ?
-
-J&amp;#39;ai 37 ans, suis natif du Nord, mais vis entre la Savoie, ma terre d&amp;#39;adoption et, Paris, pour les affaires. Etant très branché Montagne, j&amp;#39;ai souhai</description>
-      <link>https://static.geotribu.fr/articles/2013/art_2013-06-13_itw_davidjonglez/</link>
       <pubDate>Fri, 05 Jun 2020 10:30:16 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       

@@ -5,7 +5,7 @@
   <channel>
     <!-- Mandatory elements -->
     <title>Geotribu</title>
-    <description>Veille libre sur la géomatique</description>
+    <description>Site indépendant de veille sur la géomatique libre. Retrouvez nos articles, tutoriels et nos revues de presse (#GeoRDP) sur l&#39;information géographique, les SIG, la cartographie, la représentation des données géographiques... Globalement, tout ce qui mêle géographie et informatique.</description>
     <link>https://static.geotribu.fr/</link>
     <atom:link href="https://static.geotribu.fr/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
 
@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Fri, 28 Aug 2020 11:33:41 -0000</pubDate>
-    <lastBuildDate>Fri, 28 Aug 2020 11:33:41 -0000</lastBuildDate>
+    <pubDate>Sun, 30 Aug 2020 21:27:54 -0000</pubDate>
+    <lastBuildDate>Sun, 30 Aug 2020 21:27:54 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,24 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Bienvenue</title>
+      <description>Bienvenue sur Geotribu, le site indépendant de veille sur la géomatique libre. Retrouvez nos articles, tutoriels et nos revues de presse (#GeoRDP) sur l&#39;information géographique, les SIG, la cartographie, la représentation des données géographiques... Globalement, tout ce qui mêle géographie et informatique.</description>
+      <link>https://static.geotribu.fr/</link>
+      <pubDate>Sun, 30 Aug 2020 11:31:11 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Histoire de Geotribu : vie, mort et renaissance.</title>
+      <description>Invité à faire un retour d&#39;expérience sur l&#39;aventure Geotribu, voici une petite histoire du site : naissance, jeunesse, vie, mort... et renaissance en 2020. Souvenirs, souvenirs et avenir !</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-08-31_geotribu_histoire/</link>
+      <pubDate>Sun, 30 Aug 2020 09:14:06 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
     
     <item>
       <title>Insérer des diagrammes</title>
@@ -74,6 +92,72 @@ Prenons deux exemples :
 - une image _interne_, hébergée sur le [CDN de Geotribu] : &lt;https://cdn.geotribu.fr/images/internal/contribution/embed_imag</description>
       <link>https://static.geotribu.fr/contribuer/guides/image/</link>
       <pubDate>Mon, 17 Aug 2020 13:52:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Configurer l'environnement pour l'édition locale des contenus de Geotribu</title>
+      <description># Installation pour l&#39;édition locale
+
+!!! tip
+    Remplir d&#39;abord [les prérequis](../../requirements).
+    Les chemins de fichiers et répertoires sont à adapter à votre environnement.
+
+## Git
+
+La mise en ligne du contenu se fait via [Git]. Si vous n&#39;êtes pas à l&#39;aise avec la ligne de commande, il est possible d&#39;utiliser [GitHub Desktop].
+
+Cloner le dépôt, soit avec la commande ci-dessous, soit via [le bouton vert sur le dépôt avec GitHub Desktop](https://github.com/geotribu/website) :
+
+```bash
+c</description>
+      <link>https://static.geotribu.fr/contribuer/local/local_edition_setup/</link>
+      <pubDate>Fri, 14 Aug 2020 20:53:55 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 07 novembre</title>
+      <description># Revue de presse de la semaine du 07 novembre 2011
+
+:calendar: Date de publication initiale : 10 novembre 2011
+
+**Mots-clés :** Presse
+
+![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
+
+Exceptionnellement, la revue de presse est publiée un jeudi - et oui demain c&#39;est férié. Néanmoins, rassurez-vous celle-ci reste, on l&#39;espère toujours aussi complète. Vous y trouverez d&#39;ailleurs : une superbe [réinterprétation](#news24) de la ca</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-11-10/</link>
+      <pubDate>Fri, 14 Aug 2020 20:53:55 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 5 juin</title>
+      <description>Revue de presse de la semaine du 5 juin 2015</description>
+      <link>https://static.geotribu.fr/rdp/2015/rdp_2015-06-05/</link>
+      <pubDate>Fri, 14 Aug 2020 20:53:55 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Python - Configuration sur Windows et outillage</title>
+      <description>Ma configuration et mon outillage pour Python en 2020.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-06-19_setup_python/</link>
+      <pubDate>Thu, 13 Aug 2020 07:56:04 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      
+    </item>
+    
+    <item>
+      <title>Titre principal</title>
+      <description>Description pour le SEO.</description>
+      <link>https://static.geotribu.fr/articles/templates/template_article/</link>
+      <pubDate>Wed, 12 Aug 2020 09:14:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
     </item>
@@ -795,130 +879,6 @@ Commençons immédiatement cette revue de presse avec notamment pour les sorties
 ![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
 Vous ne le savez peut-être pas, mais le Week-End dernier un événement important a eu lieu : la création de l&#39;association [OpenStreetMap France](#news11). Mais rassurez-vous nous ne parlerons pas que de ça. En effet n</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-10-14/</link>
-      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 17 Octobre</title>
-      <description># Revue de presse de la semaine du 17 Octobre 2011
-
-
-:calendar: Date de publication initiale : 21 octobre 2011
-
-**Mots-clés :** Google | OpenStreetMap | QGIS | Presse
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
-Au menu de cette revue de presse de la semaine, [l&#39;implémentation totale](#news12) pour Postgis du modèle modèle Topology-Geometry de la norme ISO SQL/MM, la sortie en version 1.0 d&#39;[OpenGeoDa](#news13), la [public</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-10-21/</link>
-      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 24 Octobre</title>
-      <description># Revue de presse de la semaine du 24 Octobre 2011
-
-:calendar: Date de publication initiale : 28 octobre 2011
-
-**Mots-clés :** Google Maps | QGIS | OSM | Presse
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
-Cette semaine, une grosse partie de notre attention a été accaparée par les [différentes annonces](#news12) de chez Google. Mais ce n&#39;est pas une raison pour rater : la sortie de la [version 0.6 de TileMill](#news21), le</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-10-28/</link>
-      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 31 octobre</title>
-      <description># Revue de presse de la semaine du 31 octobre 2011
-
-
-:calendar: Date de publication initiale : 04 novembre 2011
-
-**Mots-clés :** Presse
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- Fidèles lecteurs et lectrices de notre revue de presse ce fût encore une semaine chargée dans le petit monde du GeoWeb. Ne perdons pas de temps et attaquons immédiatement les annonces. Tout d&#39;abord c&#39;est avec regret que nous vous annonçons la [</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-11-04/</link>
-      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 07 novembre</title>
-      <description># Revue de presse de la semaine du 07 novembre 2011
-
-:calendar: Date de publication initiale : 10 novembre 2011
-
-**Mots-clés :** Presse
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
-
-Exceptionnellement, la revue de presse est publiée un jeudi - et oui demain c&#39;est férié. Néanmoins, rassurez-vous celle-ci reste, on l&#39;espère toujours aussi complète. Vous y trouverez d&#39;ailleurs : une superbe [réinterprétation](#news24) de la ca</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-11-10/</link>
-      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 14 Novembre </title>
-      <description># Revue de presse de la semaine du 14 Novembre  2011
-
-
-:calendar: Date de publication initiale : 18 novembre 2011
-
-**Mots-clés :** Presse
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- Comme à l&#39;accoutumée, retrouvez toute l&#39;actualité géomatique de la semaine. Avec notamment, l&#39;ajout d&#39;une [barre de dessin à google maps](#news11), [OnTheWay](#news12) votre assistant personnel de création de voyages, une [illustration](#news</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-11-18/</link>
-      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 21 Novembre </title>
-      <description># Revue de presse de la semaine du 21 Novembre  2011
-
-:calendar: Date de publication initiale : 25 novembre 2011
-
-**Mots-clés :** Presse
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
-
-
-Une semaine plutôt calme dans le petit monde de la géomatique. Mais rassurez-vous nous avons tout de même quelques annonces. Nous parlerons notamment de la prochaine [sortie de GVSig 2.0](#news22), de l&#39;utilisation de [l&#39;OpenSource dans l&#39;ense</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-11-25/</link>
-      <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 28 Novembre</title>
-      <description># Revue de presse de la semaine du 28 Novembre 2011
-
-
-:calendar: Date de publication initiale : 02 décembre 2011
-
-**Mots-clés :** Google | OpenStreetMap | Presse
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- Cette semaine, une grosse partie de notre revue de presse est dédiée à OpenStreetMap. Nous y aborderons notamment les [dernières statistiques](#news11) ou encore l&#39;ajout de [nouvelles couches](#news14). Mais rassurez-v</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-12-02/</link>
       <pubDate>Tue, 11 Aug 2020 11:22:47 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       
