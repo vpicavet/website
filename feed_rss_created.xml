@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Tue, 01 Sep 2020 08:42:55 -0000</pubDate>
-    <lastBuildDate>Tue, 01 Sep 2020 08:42:55 -0000</lastBuildDate>
+    <pubDate>Wed, 02 Sep 2020 15:16:54 -0000</pubDate>
+    <lastBuildDate>Wed, 02 Sep 2020 15:16:54 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -552,6 +552,53 @@ Je recommande vivement l&#39;utilisation de l&#39;excellent editeur de code open
 Le but de ce tutorial est de découvrir via u</description>
       <link>https://static.geotribu.fr/articles/2013/art_2013-06-05_mongo_spatial/</link>
       <pubDate>Fri, 05 Jun 2020 10:30:16 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>Articles</title>
+      <description># Articles
+
+Les articles sont regroupés par année de publication. On y trouve :
+
+* des billets de blogs
+* des dossiers
+* des tutoriels
+* de simples brèves ou annonces
+</description>
+      <link>https://static.geotribu.fr/articles/</link>
+      <pubDate>Mon, 01 Jun 2020 10:03:24 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>Guide de contribution</title>
+      <description># Guide de contribution
+
+!!! info
+
+    Page en cours de rédaction. Veuillez patienter...
+
+## Processus (_workflow_)
+
+### 1. [Cloner le dépôt central](../local/local_edition_setup/#git) localement
+
+```bash
+git clone https://github.com/geotribu/website.git
+```
+
+### 2. Créer ou utiliser une branche git locale
+
+Pour afficher les différentes branches actives afin de sélectionner celle souhaitée, il suffit de lister les branches distantes pour savoir si une revue de presse a déjà été créée :
+
+```bash
+</description>
+      <link>https://static.geotribu.fr/contribuer/contribution_guide/</link>
+      <pubDate>Thu, 26 Mar 2020 16:16:35 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
       <enclosure url="None" type="None" />
@@ -1413,44 +1460,6 @@ Certaines initiatives peuvent définitivement changer le cours de l&#39;histoire
 ![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
 Commençons immédiatement cette revue de presse avec notamment pour les sorties de la semaine la sortie de [GeoGit](#news11) ou encore de la [version 2.0 de Mapnik](#news21), pour l&#39;Open Data l&#39;ouverture prochaine du portail &#39;[Toulouse Data](#</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-09-30/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 03 octobre 2011</title>
-      <description># Revue de presse de la semaine du 03 octobre 2011
-
-
-:calendar: Date de publication initiale : 07 octobre 2011
-
-**Mots-clés :** Presse
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- Comme chaque semaine, ne ratez rien de l&#39;actualité géomatique avec notre revue de presse. Nous parlerons notamment, des [nouvelles fonctionnalités](#gmaps) de Google Maps, de l&#39;utilisation de l&#39;[HTML5 en cartographie](#news13), de la [sécurisati</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-10-07/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 14 octobre</title>
-      <description># Revue de presse de la semaine du 14 octobre 2011
-
-
-:calendar: Date de publication initiale : 14 octobre 2011
-
-**Mots-clés :** Google Maps | GeoRDP | OpenStreetMap
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
-Vous ne le savez peut-être pas, mais le Week-End dernier un événement important a eu lieu : la création de l&#39;association [OpenStreetMap France](#news11). Mais rassurez-vous nous ne parlerons pas que de ça. En effet n</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-10-14/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
