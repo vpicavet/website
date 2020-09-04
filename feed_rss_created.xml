@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Wed, 02 Sep 2020 15:16:54 -0000</pubDate>
-    <lastBuildDate>Wed, 02 Sep 2020 15:16:54 -0000</lastBuildDate>
+    <pubDate>Fri, 04 Sep 2020 12:51:53 -0000</pubDate>
+    <lastBuildDate>Fri, 04 Sep 2020 12:51:53 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -64,6 +64,16 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
       <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>Revue de presse du 4 septembre 2020</title>
+      <description>GeoRDP du 4 Septembre 2020 : présentation de tegola, un serveur de tuiles vectorielles en Go, Leaflet 1.7, nid d&#39;abeilles avec Plotly, un logo pour GeoPandas, avalanche de ressources sur QGIS, Deck GL en C++, sortie du n°128 de M@ppemonde, outils de dessin dans LizMap, données de la canopée mondiale, cartographie artistique et dynamique de l&#39;évolution du glacier du Rhône, D3 en version 6</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-09-04/</link>
+      <pubDate>Tue, 25 Aug 2020 09:22:43 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/logos-icones/framework_os.jpeg" type="image/jpeg" />
     </item>
     
     <item>
@@ -537,24 +547,13 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
     </item>
     
     <item>
-      <title>Mongo Spatial</title>
-      <description># Mongo Spatial
-
-!!! warning
-    Ce contenu est une archive. Son contenu n&#39;est sûrement plus très frais...
-
-Tuto GeoTribu d&#39;introduction à MongoDB pour l&#39;information spatiale. Nécessite de légère base de [Javascript](http://fr.openclassrooms.com/informatique/cours/dynamisez-vos-sites-web-avec-javascript), rien de sorcier.
-
-Je recommande vivement l&#39;utilisation de l&#39;excellent editeur de code open source [Brackets](http://brackets.io/).
-
-## Introduction
-
-Le but de ce tutorial est de découvrir via u</description>
-      <link>https://static.geotribu.fr/articles/2013/art_2013-06-05_mongo_spatial/</link>
-      <pubDate>Fri, 05 Jun 2020 10:30:16 -0000</pubDate>
+      <title>Revue de presse du 4 septembre 2020</title>
+      <description>GeoRDP du 4 Septembre 2020 : présentation de tegola, un serveur de tuiles vectorielles en Go, Leaflet 1.7, nid d&#39;abeilles avec Plotly, un logo pour GeoPandas, avalanche de ressources sur QGIS, Deck GL en C++, sortie du n°128 de M@ppemonde, outils de dessin dans LizMap, données de la canopée mondiale, cartographie artistique et dynamique de l&#39;évolution du glacier du Rhône, D3 en version 6</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-09-04/</link>
+      <pubDate>Tue, 25 Aug 2020 09:22:43 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
-      <enclosure url="None" type="None" />
+      <enclosure url="https://cdn.geotribu.fr/img/logos-icones/framework_os.jpeg" type="image/jpeg" />
     </item>
     
     <item>
@@ -1441,25 +1440,6 @@ Certaines initiatives peuvent définitivement changer le cours de l&#39;histoire
 ![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
  Au menu de cette semaine, plusieurs grands titres. A savoir, la disponibilité d&#39;une [barre de digitalisation](#news21) pour OpenLayers, le plein d&#39;infos sur [PostGis](#news31), le résultat du [benchmark WPS](#news22) ou encore quelques [réfl</description>
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-09-23/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 26 septembre 2011</title>
-      <description># Revue de presse de la semaine du 26 septembre 2011
-
-
-:calendar: Date de publication initiale : 30 septembre 2011
-
-**Mots-clés :** Presse
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
-Commençons immédiatement cette revue de presse avec notamment pour les sorties de la semaine la sortie de [GeoGit](#news11) ou encore de la [version 2.0 de Mapnik](#news21), pour l&#39;Open Data l&#39;ouverture prochaine du portail &#39;[Toulouse Data](#</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-09-30/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       
