@@ -16,12 +16,12 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Mon, 07 Sep 2020 20:03:30 -0000</pubDate>
-    <lastBuildDate>Mon, 07 Sep 2020 20:03:30 -0000</lastBuildDate>
+    <pubDate>Tue, 08 Sep 2020 13:26:18 -0000</pubDate>
+    <lastBuildDate>Tue, 08 Sep 2020 13:26:18 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
-    <generator>MkDocs RSS plugin - v0.5.0</generator>
+    <generator>MkDocs RSS plugin - v0.6.1</generator>
 
     <!-- Feed illustration -->
     
@@ -35,12 +35,22 @@
     <!-- Entries -->
     
     <item>
+      <title>Le web-scraping avec Scrapy.</title>
+      <description>Utiliser le web-scraping (Scrapy) pour récupérer les anciens contenus de Geotribu depuis l&#39;Internet Archive.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</link>
+      <pubDate>Tue, 08 Sep 2020 13:12:44 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/webscraping/web_scraping.png" type="image/png" />
+    </item>
+    
+    <item>
       <title>Histoire de Geotribu : vie, mort et renaissance.</title>
       <description>Invité à faire un retour d&#39;expérience sur l&#39;aventure Geotribu, voici une petite histoire du site : naissance, jeunesse, vie, mort... et renaissance en 2020. Souvenirs, souvenirs et avenir !</description>
       <link>https://static.geotribu.fr/articles/2020/2020-08-31_geotribu_histoire/</link>
       <pubDate>Sun, 30 Aug 2020 09:14:06 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-08-31_geotribu_histoire/</guid>
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/geotribu/history/geotribu_frise_chrono_2006-2017.png" type="image/png" />
     </item>
     
@@ -62,7 +72,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/contribuer/guides/diagrams/</link>
       <pubDate>Wed, 26 Aug 2020 13:57:10 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/diagrams/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -72,7 +82,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-09-04/</link>
       <pubDate>Tue, 25 Aug 2020 09:22:43 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-09-04/</guid>
       <enclosure url="https://cdn.geotribu.fr/img/logos-icones/framework_os.jpeg" type="image/jpeg" />
     </item>
     
@@ -82,7 +92,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-08-21/</link>
       <pubDate>Mon, 10 Aug 2020 15:22:05 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-08-21/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -92,7 +102,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/contribuer/guides/authoring/</link>
       <pubDate>Tue, 04 Aug 2020 12:16:37 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/authoring/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -102,7 +112,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-08-07/</link>
       <pubDate>Tue, 28 Jul 2020 12:47:26 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-08-07/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -112,7 +122,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-07-24/</link>
       <pubDate>Tue, 21 Jul 2020 05:30:04 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-07-24/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -122,7 +132,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-07-10/</link>
       <pubDate>Fri, 10 Jul 2020 13:33:18 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-07-10/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -132,7 +142,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/articles/2020/2020-07-03_deploy_qgis_windows/</link>
       <pubDate>Wed, 01 Jul 2020 07:06:07 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-07-03_deploy_qgis_windows/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -142,7 +152,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-03-06/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-03-06/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -152,7 +162,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-03-13/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-03-13/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -162,7 +172,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-03-16/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-03-16/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -172,7 +182,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-03-27/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-03-27/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -182,7 +192,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-04-07/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-04-07/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -192,7 +202,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-04-10/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-04-10/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -202,7 +212,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-04-20/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-04-20/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -212,7 +222,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-04-24/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-04-24/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -222,7 +232,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-05-01/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-05-01/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -232,7 +242,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-05-16/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-05-16/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -242,7 +252,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-05-29/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-05-29/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -252,7 +262,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-06-05/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-06-05/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -262,7 +272,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-06-12/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-06-12/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -272,7 +282,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-06-19/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-06-19/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -282,7 +292,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-07-03/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-07-03/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -292,7 +302,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-07-17/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-07-17/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -302,7 +312,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-09-01/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-09-01/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -312,7 +322,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-09-18/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-09-18/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -322,7 +332,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-09-21/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-09-21/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -332,7 +342,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-10-02/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-10-02/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -342,7 +352,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-10-16/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-10-16/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -352,7 +362,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-11-13/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-11-13/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -362,7 +372,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-11-30/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-11-30/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -372,7 +382,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-12-21/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-12-21/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -382,7 +392,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-01-15/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-01-15/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -392,7 +402,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-02-05/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-02-05/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -402,7 +412,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-02-12/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-02-12/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -412,7 +422,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-02-19/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-02-19/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -422,7 +432,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-03-04/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-03-04/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -432,7 +442,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-03-11/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-03-11/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -442,7 +452,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-04-22/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-04-22/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -452,7 +462,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-06-24/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-06-24/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -462,7 +472,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-07-01/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-07-01/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -472,7 +482,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-10-07/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-10-07/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -482,7 +492,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-10-14/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-10-14/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -492,7 +502,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2016/rdp_2016-12-05/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-12-05/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -502,7 +512,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2017/rdp_2017-01-27/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2017/rdp_2017-01-27/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -512,7 +522,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/articles/2020/2020-06-19_setup_python/</link>
       <pubDate>Tue, 16 Jun 2020 13:36:17 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-06-19_setup_python/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -522,7 +532,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/articles/templates/template_article/</link>
       <pubDate>Tue, 16 Jun 2020 09:54:05 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/templates/template_article/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -532,18 +542,28 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-06-26/</link>
       <pubDate>Tue, 16 Jun 2020 08:11:16 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-06-26/</guid>
       <enclosure url="None" type="None" />
     </item>
     
     <item>
-      <title>Revue de presse du 12 juin 2020</title>
-      <description>Revue de presse du 12 juin 2020</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-06-12/</link>
-      <pubDate>Fri, 05 Jun 2020 19:33:22 -0000</pubDate>
+      <title>Histoire de Geotribu : vie, mort et renaissance.</title>
+      <description>Invité à faire un retour d&#39;expérience sur l&#39;aventure Geotribu, voici une petite histoire du site : naissance, jeunesse, vie, mort... et renaissance en 2020. Souvenirs, souvenirs et avenir !</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-08-31_geotribu_histoire/</link>
+      <pubDate>Sun, 30 Aug 2020 09:14:06 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
-      <enclosure url="None" type="None" />
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-08-31_geotribu_histoire/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/geotribu/history/geotribu_frise_chrono_2006-2017.png" type="image/png" />
+    </item>
+    
+    <item>
+      <title>Le web-scraping avec Scrapy.</title>
+      <description>Utiliser le web-scraping (Scrapy) pour récupérer les anciens contenus de Geotribu depuis l&#39;Internet Archive.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</link>
+      <pubDate>Tue, 08 Sep 2020 13:12:44 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/webscraping/web_scraping.png" type="image/png" />
     </item>
     
     <item>
@@ -552,7 +572,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/contribuer/contribution_guide/</link>
       <pubDate>Thu, 26 Mar 2020 16:16:35 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/contribution_guide/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -562,7 +582,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/contribuer/requirements/</link>
       <pubDate>Mon, 20 Apr 2020 08:48:37 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/requirements/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -572,7 +592,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/templates/template_rdp/</link>
       <pubDate>Fri, 15 May 2020 12:58:11 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/templates/template_rdp/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -603,7 +623,7 @@ Vidéo youtube via  iframe (obligatoirement</description>
       <link>https://static.geotribu.fr/rdp/templates/template_rdp_news/</link>
       <pubDate>Mon, 06 Apr 2020 12:46:19 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/templates/template_rdp_news/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -613,7 +633,7 @@ Vidéo youtube via  iframe (obligatoirement</description>
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-09-04/</link>
       <pubDate>Tue, 25 Aug 2020 09:22:43 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-09-04/</guid>
       <enclosure url="https://cdn.geotribu.fr/img/logos-icones/framework_os.jpeg" type="image/jpeg" />
     </item>
     
@@ -631,7 +651,7 @@ Les articles sont regroupés par année de publication. On y trouve :
       <link>https://static.geotribu.fr/articles/</link>
       <pubDate>Mon, 01 Jun 2020 10:03:24 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -641,18 +661,8 @@ Les articles sont regroupés par année de publication. On y trouve :
       <link>https://static.geotribu.fr/</link>
       <pubDate>Fri, 20 Mar 2020 16:25:08 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/</guid>
       <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Histoire de Geotribu : vie, mort et renaissance.</title>
-      <description>Invité à faire un retour d&#39;expérience sur l&#39;aventure Geotribu, voici une petite histoire du site : naissance, jeunesse, vie, mort... et renaissance en 2020. Souvenirs, souvenirs et avenir !</description>
-      <link>https://static.geotribu.fr/articles/2020/2020-08-31_geotribu_histoire/</link>
-      <pubDate>Sun, 30 Aug 2020 09:14:06 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/geotribu/history/geotribu_frise_chrono_2006-2017.png" type="image/png" />
     </item>
     
     <item>
@@ -673,7 +683,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/contribuer/guides/diagrams/</link>
       <pubDate>Wed, 26 Aug 2020 13:57:10 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/diagrams/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -683,7 +693,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-08-21/</link>
       <pubDate>Mon, 10 Aug 2020 15:22:05 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-08-21/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -698,7 +708,7 @@ Prenons deux exemples :
       <link>https://static.geotribu.fr/contribuer/guides/image/</link>
       <pubDate>Fri, 17 Apr 2020 12:25:10 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/image/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -721,7 +731,7 @@ c</description>
       <link>https://static.geotribu.fr/contribuer/local/local_edition_setup/</link>
       <pubDate>Fri, 17 Apr 2020 12:25:25 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/local/local_edition_setup/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -739,7 +749,7 @@ Exceptionnellement, la revue de presse est publiée un jeudi - et oui demain c&#
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-11-10/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-11-10/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -749,7 +759,7 @@ Exceptionnellement, la revue de presse est publiée un jeudi - et oui demain c&#
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-06-05/</link>
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-06-05/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -759,7 +769,7 @@ Exceptionnellement, la revue de presse est publiée un jeudi - et oui demain c&#
       <link>https://static.geotribu.fr/articles/2020/2020-06-19_setup_python/</link>
       <pubDate>Tue, 16 Jun 2020 13:36:17 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-06-19_setup_python/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -769,7 +779,7 @@ Exceptionnellement, la revue de presse est publiée un jeudi - et oui demain c&#
       <link>https://static.geotribu.fr/articles/templates/template_article/</link>
       <pubDate>Tue, 16 Jun 2020 09:54:05 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/templates/template_article/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -785,7 +795,7 @@ Il aura fallu un confinement international, plus d&#39;un mois de travail &#34;p
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-04-30/</link>
       <pubDate>Tue, 12 May 2020 10:01:14 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-04-30/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -803,7 +813,7 @@ Il aura fallu un confinement international, plus d&#39;un mois de travail &#34;p
       <link>https://static.geotribu.fr/articles/2009/art_2009-11-09/</link>
       <pubDate>Sun, 31 May 2020 22:33:13 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-11-09/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -821,7 +831,7 @@ Il aura fallu un confinement international, plus d&#39;un mois de travail &#34;p
       <link>https://static.geotribu.fr/articles/2009/art_2009-11-15/</link>
       <pubDate>Sun, 31 May 2020 22:33:13 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-11-15/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -840,7 +850,7 @@ Au menu de cette revue de presse hebdomadaire, la sortie en version papier du ma
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-01-28/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-01-28/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -859,7 +869,7 @@ Il y a 5 ans naissait l&#39;OSGEO - voir l&#39;[acte de fondation](http://www.os
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-02-04/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-02-04/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -878,7 +888,7 @@ Il y a 5 ans naissait l&#39;OSGEO - voir l&#39;[acte de fondation](http://www.os
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-02-11/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-02-11/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -898,7 +908,7 @@ Il y a 5 ans naissait l&#39;OSGEO - voir l&#39;[acte de fondation](http://www.os
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-02-18/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-02-18/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -917,7 +927,7 @@ Finis les revues de presse avec plus d&#39;une dizaine de nouveautés. Cette sem
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-02-25/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-02-25/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -934,7 +944,7 @@ Cette revue de presse est digne des plus grands studio de cinéma hollywoodien. 
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-03-04/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-03-04/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -953,7 +963,7 @@ Fidèle à notre revue de presse, venez découvrir avec nous les nouvelles qui o
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-03-18/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-03-18/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -972,7 +982,7 @@ Au menu de cette revue de presse de la semaine, un petit tour du côté [d&#39;O
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-03-25/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-03-25/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -991,7 +1001,7 @@ Au menu de cette revue de presse de la semaine, un petit tour du côté [d&#39;O
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-01/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-04-01/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1010,7 +1020,7 @@ Au menu de cette revue de presse de la semaine, un petit tour du côté [d&#39;O
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-08/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-04-08/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1029,7 +1039,7 @@ Au menu de cette revue de presse de la semaine, un petit tour du côté [d&#39;O
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-15/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-04-15/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1049,7 +1059,7 @@ Au menu de cette revue de presse de la semaine, un petit tour du côté [d&#39;O
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-22/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-04-22/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1068,7 +1078,7 @@ Au menu de cette revue de presse de la semaine, un petit tour du côté [d&#39;O
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-29/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-04-29/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1091,7 +1101,7 @@ Au menu de cette revue de presse de la semaine, un petit tour du côté [d&#39;O
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-06/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-05-06/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1110,7 +1120,7 @@ Au menu de cette revue de presse de la semaine, un petit tour du côté [d&#39;O
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-13/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-05-13/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1129,7 +1139,7 @@ Au menu de cette revue de presse de la semaine, un petit tour du côté [d&#39;O
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-21/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-05-21/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1148,7 +1158,7 @@ Au menu de cette revue de presse de la semaine, un petit tour du côté [d&#39;O
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-27/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-05-27/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1167,7 +1177,7 @@ Au menu de cette revue de presse de la semaine, un petit tour du côté [d&#39;O
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-06-03/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-06-03/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1187,7 +1197,7 @@ Au menu de cette revue de presse de la semaine, un petit tour du côté [d&#39;O
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-06-10/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-06-10/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1206,7 +1216,7 @@ Au menu de cette revue de presse de la semaine, [l&#39;arrivée de kothic](#koth
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-06-17/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-06-17/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1225,7 +1235,7 @@ Au menu de cette revue de presse de la semaine, [l&#39;arrivée de kothic](#koth
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-06-24/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-06-24/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1244,7 +1254,7 @@ Au menu de cette revue de presse de la semaine, [l&#39;arrivée de kothic](#koth
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-07-01/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-07-01/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1263,7 +1273,7 @@ En pleine semaine de l&#39;ICC 2011, nous avons tout de même trouvé le temps d
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-07-08/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-07-08/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1282,7 +1292,7 @@ Même au milieu de l&#39;été, le sigweb ne s&#39;arrête pas vraiment. Cette s
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-07-15/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-07-15/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1301,7 +1311,7 @@ Cette semaine a été l&#39;occasion de modifier un peu la forme de la revue de 
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-07-22/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-07-22/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1320,7 +1330,7 @@ Cette semaine, l&#39;avancement des projets principaux marque le pas avec les co
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-07-29/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-07-29/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1339,7 +1349,7 @@ Pour cette première semaine du mois d&#39;août, quelques découvertes bien sym
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-08-05/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-08-05/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1358,7 +1368,7 @@ Il y a 20 ans, le [Web naissait](http://www.wired.com/geekdad/2011/08/world-wide
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-08-12/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-08-12/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1377,7 +1387,7 @@ Après les 20 ans du Web, c&#39;est au projet [Debian](http://www.debian.org) de
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-08-19/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-08-19/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1395,27 +1405,7 @@ Certaines initiatives peuvent définitivement changer le cours de l&#39;histoire
       <link>https://static.geotribu.fr/rdp/2011/rdp_2011-08-26/</link>
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 29 Août</title>
-      <description># Revue de presse de la semaine du 29 Août 2011
-
-
-:calendar: Date de publication initiale : 02 septembre 2011
-
-**Mots-clés :** OpenLayers | OSM | Presse
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- Et c&#39;est reparti !  
- Cette semaine quelques [démos Raster](#oldemo) assez bluffantes sur OpenLayers, un [parseur](#badassjs) de Shapefile en Javascript, une nouvelle version de [MapProxy](#mapproxy), ou encore un possible futu</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-09-02/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-08-26/</guid>
       <enclosure url="None" type="None" />
     </item>
     
