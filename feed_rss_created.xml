@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Tue, 08 Sep 2020 13:26:18 -0000</pubDate>
-    <lastBuildDate>Tue, 08 Sep 2020 13:26:18 -0000</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2020 08:56:34 -0000</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2020 08:56:34 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -35,7 +35,17 @@
     <!-- Entries -->
     
     <item>
-      <title>Le web-scraping avec Scrapy.</title>
+      <title>Rendez-vous aux GéoDataDays</title>
+      <description>On vous donne rendez-vous aux GéoDataDays 2020, les 15 et 16 septembre à Montpellier, l&#39;événement indépendant de la géomatique francophone.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-09-09_geodatadays/</link>
+      <pubDate>Tue, 08 Sep 2020 21:21:24 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-09_geodatadays/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/external/salons_conferences/geodatadays/2020/geodatadays_2020_banniere.jpg" type="image/jpeg" />
+    </item>
+    
+    <item>
+      <title>Le web-scraping avec Scrapy</title>
       <description>Utiliser le web-scraping (Scrapy) pour récupérer les anciens contenus de Geotribu depuis l&#39;Internet Archive.</description>
       <link>https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</link>
       <pubDate>Tue, 08 Sep 2020 13:12:44 -0000</pubDate>
@@ -113,7 +123,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <pubDate>Tue, 28 Jul 2020 12:47:26 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-08-07/</guid>
-      <enclosure url="None" type="None" />
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/map_as_a_fish_mapporn.jfif" type="None" />
     </item>
     
     <item>
@@ -537,13 +547,43 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
     </item>
     
     <item>
-      <title>Revue de presse du 26 Juin 2020</title>
-      <description>Revue de presse géomatique du 26 juin 2020 : QGIS 3.14, Mapillary rachetée par Facebook, webinaires Isogeo, certaes du confinement de Bloomberg</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-06-26/</link>
-      <pubDate>Tue, 16 Jun 2020 08:11:16 -0000</pubDate>
+      <title>Rendez-vous aux GéoDataDays</title>
+      <description>On vous donne rendez-vous aux GéoDataDays 2020, les 15 et 16 septembre à Montpellier, l&#39;événement indépendant de la géomatique francophone.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-09-09_geodatadays/</link>
+      <pubDate>Tue, 08 Sep 2020 21:21:24 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-06-26/</guid>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-09_geodatadays/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/external/salons_conferences/geodatadays/2020/geodatadays_2020_banniere.jpg" type="image/jpeg" />
+    </item>
+    
+    <item>
+      <title>Bienvenue</title>
+      <description>Bienvenue sur Geotribu, le site indépendant de veille sur la géomatique libre. Retrouvez nos articles, tutoriels et nos revues de presse (#GeoRDP) sur l&#39;information géographique, les SIG, la cartographie, la représentation des données géographiques... Globalement, tout ce qui mêle géographie et informatique.</description>
+      <link>https://static.geotribu.fr/</link>
+      <pubDate>Fri, 20 Mar 2020 16:25:08 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/</guid>
       <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>Le web-scraping avec Scrapy</title>
+      <description>Utiliser le web-scraping (Scrapy) pour récupérer les anciens contenus de Geotribu depuis l&#39;Internet Archive.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</link>
+      <pubDate>Tue, 08 Sep 2020 13:12:44 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/webscraping/web_scraping.png" type="image/png" />
+    </item>
+    
+    <item>
+      <title>Revue de presse du 7 août 2020</title>
+      <description>Revue de presse géomatique du 7 août 2020 (#GeoRDP) : OpenLayers 6.4, pgRouting 3.1, nouveau site GRASS, impact des météorites sur Terre, le Dessus des Cartes, OSM a 16 ans, SAGEO 2021</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-08-07/</link>
+      <pubDate>Tue, 28 Jul 2020 12:47:26 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-08-07/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/map_as_a_fish_mapporn.jfif" type="None" />
     </item>
     
     <item>
@@ -554,16 +594,6 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-08-31_geotribu_histoire/</guid>
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/geotribu/history/geotribu_frise_chrono_2006-2017.png" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Le web-scraping avec Scrapy.</title>
-      <description>Utiliser le web-scraping (Scrapy) pour récupérer les anciens contenus de Geotribu depuis l&#39;Internet Archive.</description>
-      <link>https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</link>
-      <pubDate>Tue, 08 Sep 2020 13:12:44 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</guid>
-      <enclosure url="https://cdn.geotribu.fr/img/tuto/webscraping/web_scraping.png" type="image/png" />
     </item>
     
     <item>
@@ -652,16 +682,6 @@ Les articles sont regroupés par année de publication. On y trouve :
       <pubDate>Mon, 01 Jun 2020 10:03:24 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Bienvenue</title>
-      <description>Bienvenue sur Geotribu, le site indépendant de veille sur la géomatique libre. Retrouvez nos articles, tutoriels et nos revues de presse (#GeoRDP) sur l&#39;information géographique, les SIG, la cartographie, la représentation des données géographiques... Globalement, tout ce qui mêle géographie et informatique.</description>
-      <link>https://static.geotribu.fr/</link>
-      <pubDate>Fri, 20 Mar 2020 16:25:08 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1369,43 +1389,6 @@ Il y a 20 ans, le [Web naissait](http://www.wired.com/geekdad/2011/08/world-wide
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-08-12/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 15 août</title>
-      <description># Revue de presse de la semaine du 15 août 2011
-
-
-:calendar: Date de publication initiale : 19 août 2011
-
-**Mots-clés :** GeoServer | JavaScript | OpenSource | API | QGIS | Presse
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
-Après les 20 ans du Web, c&#39;est au projet [Debian](http://www.debian.org) de souffler ses 18 bougies. Si vous utilisez cette distribution (où l&#39;un de ses dérivés) vous pouvez laisser un message de remer</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-08-19/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-08-19/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 22 août</title>
-      <description># Revue de presse de la semaine du 22 août 2011
-
-:calendar: Date de publication initiale : 26 août 2011
-
-**Mots-clés :** Presse
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
-
-Certaines initiatives peuvent définitivement changer le cours de l&#39;histoire. Il y a deux semaines c&#39;était les 20 ans du Web et aujourd&#39;hui (enfin plutôt hier) c&#39;est au tour de linux. Il y a 20, Linus Torvald lancé ce message, pensait-il que son projet a</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-08-26/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-08-26/</guid>
       <enclosure url="None" type="None" />
     </item>
     
