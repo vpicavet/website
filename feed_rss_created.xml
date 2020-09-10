@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Thu, 10 Sep 2020 12:33:20 -0000</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2020 12:33:20 -0000</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2020 12:44:37 -0000</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2020 12:44:37 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -543,6 +543,57 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <pubDate>Tue, 16 Jun 2020 09:54:05 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/templates/template_article/</guid>
+      <enclosure url="https://static.geotribu.fr/Image d'illustration de l'article qui sert ensuite dans la mise en avant : réseaux sociaux, flux RSS..." type="None" />
+    </item>
+    
+    <item>
+      <title>Titre principal</title>
+      <description>Description pour le SEO.</description>
+      <link>https://static.geotribu.fr/articles/templates/template_article/</link>
+      <pubDate>Tue, 16 Jun 2020 09:54:05 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/templates/template_article/</guid>
+      <enclosure url="https://static.geotribu.fr/Image d'illustration de l'article qui sert ensuite dans la mise en avant : réseaux sociaux, flux RSS..." type="None" />
+    </item>
+    
+    <item>
+      <title>Revue de presse du 21 août 2020</title>
+      <description>GeoRDP du 21 août 2020 : </description>
+      <link>https://static.geotribu.fr/rdp/templates/template_rdp/</link>
+      <pubDate>Fri, 15 May 2020 12:58:11 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/templates/template_rdp/</guid>
+      <enclosure url="https://static.geotribu.fr/URL de l'image d'illustration de la RDP" type="None" />
+    </item>
+    
+    <item>
+      <title>Template rdp news</title>
+      <description>### TITRE DE LA NEWS
+
+![](https://cdn.geotribu.fr/images/internal/icons-rdp-news/news.png){: .img-rdp-news-thumb loading=lazy }
+
+**Ou choisir une autre icône depuis le CDN : &lt;https://cdn.geotribu.fr/images/internal/icons-rdp-news/&gt;**
+
+**Texte en gras**
+
+_Text en italique_
+
+Liste à puces :
+
+1. D&#39;abord
+2. Ensuite :
+    - ceci
+    - cela
+
+Image :
+
+![TITRE DE REMPLACEMENT DE L&#39;IMAGE](https://www.trekmag.com/media/news/2018/05/ign-home.jpg &#34;Légende de l&#39;image&#34;){: loading=lazy }
+
+Exemple pour une vidé</description>
+      <link>https://static.geotribu.fr/rdp/templates/template_rdp_news/</link>
+      <pubDate>Mon, 06 Apr 2020 12:46:19 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/templates/template_rdp_news/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -613,47 +664,6 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <pubDate>Mon, 20 Apr 2020 08:48:37 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/contribuer/requirements/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse du 21 août 2020</title>
-      <description>GeoRDP du 21 août 2020 : </description>
-      <link>https://static.geotribu.fr/rdp/templates/template_rdp/</link>
-      <pubDate>Fri, 15 May 2020 12:58:11 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/templates/template_rdp/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Template rdp news</title>
-      <description>### TITRE DE LA NEWS
-
-![](https://cdn.geotribu.fr/images/internal/icons-rdp-news/news.png){: .img-rdp-news-thumb loading=lazy }
-
-**Ou choisir une autre icône depuis le CDN : &lt;https://cdn.geotribu.fr/images/internal/icons-rdp-news/&gt;**
-
-**Texte en gras**
-
-_Text en italique_
-
-Liste à puces :
-
-1. D&#39;abord
-2. Ensuite :
-    - ceci
-    - cela
-
-Image :
-
-![TITRE DE REMPLACEMENT DE L&#39;IMAGE](https://www.trekmag.com/media/news/2018/05/ign-home.jpg){: loading=lazy }
-
-Vidéo youtube via  iframe (obligatoirement</description>
-      <link>https://static.geotribu.fr/rdp/templates/template_rdp_news/</link>
-      <pubDate>Mon, 06 Apr 2020 12:46:19 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/templates/template_rdp_news/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -790,16 +800,6 @@ Exceptionnellement, la revue de presse est publiée un jeudi - et oui demain c&#
       <pubDate>Tue, 16 Jun 2020 13:36:17 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-06-19_setup_python/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Titre principal</title>
-      <description>Description pour le SEO.</description>
-      <link>https://static.geotribu.fr/articles/templates/template_article/</link>
-      <pubDate>Tue, 16 Jun 2020 09:54:05 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/templates/template_article/</guid>
       <enclosure url="None" type="None" />
     </item>
     
