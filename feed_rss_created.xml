@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Thu, 10 Sep 2020 12:44:37 -0000</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2020 12:44:37 -0000</lastBuildDate>
+    <pubDate>Sat, 12 Sep 2020 09:43:20 -0000</pubDate>
+    <lastBuildDate>Sat, 12 Sep 2020 09:43:20 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -128,7 +128,7 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
     
     <item>
       <title>Revue de presse du 24 juillet 2020</title>
-      <description>Revue de presse géomatique du 24 juillet 2020 : API QGIS unifiée, carte de l&#39;univers, néologismes, animation 3D avec R stats, GeoDataDays, Uber et Google Maps, valeur économique de l&#39;information géographique, présentation de Kalisio</description>
+      <description>Revue de presse géomatique (GeoRDP) du 24 juillet 2020 : API QGIS unifiée, carte de l&#39;univers, néologismes, animation 3D avec R stats, GeoDataDays, Uber et Google Maps, valeur économique de l&#39;information géographique, présentation de Kalisio, etc.</description>
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-07-24/</link>
       <pubDate>Tue, 21 Jul 2020 05:30:04 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
@@ -544,6 +544,127 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/templates/template_article/</guid>
       <enclosure url="https://static.geotribu.fr/Image d'illustration de l'article qui sert ensuite dans la mise en avant : réseaux sociaux, flux RSS..." type="None" />
+    </item>
+    
+    <item>
+      <title>Revue de presse du 27 janvier</title>
+      <description>Revue de presse du 27 janvier</description>
+      <link>https://static.geotribu.fr/rdp/2017/rdp_2017-01-27/</link>
+      <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2017/rdp_2017-01-27/</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>GeoExt, le mariage de l'IHM et de la cartographie</title>
+      <description># GeoExt, le mariage de l&#39;IHM et de la cartographie
+
+:calendar: Date de publication initiale : 11 décembre 2008
+
+**Mots-clés :** GeoExtJS
+
+![logo GeoExt](https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/geoext.png &#34;logo GeoExt&#34;){: .img-rdp-news-thumb }
+
+Hier a été lancé un [appel à la participation](http://www.geoext.org/trac/geoext/wiki/CallParticipation) pour le projet [GeoExt](https://www.geoext.org/ &#34;GeoExt&#34;) dont la réflexion a été initiée lors du dernier [FOSS4G](http://confer</description>
+      <link>https://static.geotribu.fr/articles/2008/art_2008-12-11/</link>
+      <pubDate>Sun, 31 May 2020 22:33:13 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-12-11/</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>Le pense bête d'OpenLayers</title>
+      <description># Le pense bête d&#39;OpenLayers
+
+:calendar: Date de publication initiale : 23 mars 2009
+
+**Mots-clés :** OpenLayers
+
+![Logo OpenLayers](https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/openlayers.png)
+
+C&#39;est en parcourant le site [NeoGeo](http://www.neogeo-online.net/) que je suis tombé sur [cette petite merveille](https://selectoid.wordpress.com/2009/03/19/finally-a-cheatsheet-for-openlayers-27/).
+
+Véritable récapitulatif d&#39;OpenLayers, Jansen a réussi l&#39;exploit de condenser sur une si</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-03-23/</link>
+      <pubDate>Sun, 31 May 2020 22:33:13 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-03-23/</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>Un nouveau site pour GeoExt</title>
+      <description># Un nouveau site pour GeoExt
+
+:calendar: Date de publication initiale : 18 juin 2009
+
+**Mots-clés :** GeoExt | JavaScript | Open Source | framework
+
+![logo GeoExt](https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/geoext.png &#34;logo GeoExt&#34;){: .img-rdp-news-thumb } Il est vrai que l&#39;interface un peu austère du Trac méritait bien un petit coup de peinture. Ceci est chose faite avec l&#39;arrivée du [nouveau site de GeoExt](http://geoext.org/). En plus du changement visuel, de nouvelles fon</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-06-18/</link>
+      <pubDate>Sun, 31 May 2020 22:33:13 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-06-18/</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>GeoExt en version 0.5</title>
+      <description># GeoExt en version 0.5
+
+:calendar: Date de publication initiale : 24 juin 2009
+
+**Mots-clés :** GeoExt | JavaScript | Open Source
+
+![logo GeoExt](https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/geoext.png &#34;logo GeoExt&#34;){: .img-rdp-news-thumb }
+
+Décidément, cela bouge dans le petit monde du GeoWeb. Après la sortie d&#39;[OpenLayers en version 2.8](http://geotribu.net/node/129) c&#39;est au tour de [GeoExt](http://www.geoext.org/) de nous offrir une nouvelle release. Quelques bugs ont été c</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-06-24/</link>
+      <pubDate>Sun, 31 May 2020 22:33:13 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-06-24/</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>GeoExt passe en version 0.7</title>
+      <description># GeoExt passe en version 0.7
+
+
+:calendar: Date de publication initiale : 13 mai 2010
+
+**Mots-clés :** GeoExt | JavaScript | Open Source
+
+
+![logo GeoExt](https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/geoext.png &#34;logo GeoExt&#34;){: .img-rdp-news-thumb }La librairie javascript née de la fusion d&#39;Ext JS et d&#39;OpenLayers est maintenant disponible en version 0.7 ([dl](http://trac.geoext.org/attachment/wiki/Download/GeoExt-release-0.7.zip)).  
+Celle-ci inclut de nouveaux composants tels qu</description>
+      <link>https://static.geotribu.fr/articles/2010/art_2010-05-13/</link>
+      <pubDate>Sun, 31 May 2020 22:33:13 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-05-13/</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>Revue de presse du 10 juillet 2020</title>
+      <description>Revue de presse géomatique du 10 juillet 2020 : éditeur OSM en Python, flux RSS Geotribu, Landsat dans le cloud, vision sur le futur du SIG open source, 16è conférence gvSIG</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-07-10/</link>
+      <pubDate>Fri, 10 Jul 2020 13:33:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-07-10/</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>Revue de presse du 24 juillet 2020</title>
+      <description>Revue de presse géomatique (GeoRDP) du 24 juillet 2020 : API QGIS unifiée, carte de l&#39;univers, néologismes, animation 3D avec R stats, GeoDataDays, Uber et Google Maps, valeur économique de l&#39;information géographique, présentation de Kalisio, etc.</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-07-24/</link>
+      <pubDate>Tue, 21 Jul 2020 05:30:04 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-07-24/</guid>
+      <enclosure url="None" type="None" />
     </item>
     
     <item>
@@ -1237,158 +1358,6 @@ Au menu de cette revue de presse de la semaine, [l&#39;arrivée de kothic](#koth
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-06-17/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse du 24 juin</title>
-      <description># Revue de presse du 24 juin 2011
-
-
-:calendar: Date de publication initiale : 24 juin 2011
-
-**Mots-clés :** GeoServer | MapFish | QGIS | OSGeo | Leaflet | Galileo | Open Data | GeoRDP
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- Comme chaque fin de semaine, retrouvez l&#39;actualité du monde géospatial. Faites le plein de nouveautés avec les sorties de la semaine avec notamment [GeoServer](#geoserver), [mapfish](#mapfish), [q</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-06-24/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-06-24/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 01 juillet 2011
-
-**Mots-clés :** OpenLayers | OGC | Mapnik | Presse
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- Quelques nouvelles fraîches du GeoWeb. Tout d’abord, les [sorties de la semaine](#nouveaute), mais aussi de [nouvelles fonctionnalités](#ol) pour openLayers ou encore une [réflexion intéressante](#wms) sur les services Web OGC. Bon</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-07-01/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-07-01/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 08 juillet 2011
-
-**Mots-clés :** Presse
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
-En pleine semaine de l&#39;ICC 2011, nous avons tout de même trouvé le temps de rédiger le billet de la semaine. Merci surtout à Thomas qui à réussi le tour de force d&#39;allier tenue de stand et écriture. Au menu de cette semaine, la mise à jour [d&#39;OSM via votre com</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-07-08/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-07-08/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 15 juillet 2011
-
-**Mots-clés :** Presse
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
-Même au milieu de l&#39;été, le sigweb ne s&#39;arrête pas vraiment. Cette semaine, du OSM encore et toujours avec [un petit userfight](#osmfight) bien sympathique ;), les [frontières](#sudsoudan) d&#39;un nouvel Etat, OSM comme fond de carte pour un [promoteur](#osmlafor</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-07-15/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-07-15/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 18 juillet 2011</title>
-      <description># Revue de presse de la semaine du 18 juillet 2011
-
-
-:calendar: Date de publication initiale : 22 juillet 2011
-
-**Mots-clés :** Presse
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
-Cette semaine a été l&#39;occasion de modifier un peu la forme de la revue de presse avec un essai de &#34;rubriquage&#34; du contenu. Ainsi nous commençons par les logiciels avec les [ETL](#etl) ou bien [GvSIG Portable](#gvsig), [Leaflet](#leaflet), [Jaspa]</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-07-22/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-07-22/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 25 juillet 2011</title>
-      <description># Revue de presse de la semaine du 25 juillet 2011
-
-
-:calendar: Date de publication initiale : 29 juillet 2011
-
-**Mots-clés :** Presse
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
-Cette semaine, l&#39;avancement des projets principaux marque le pas avec les contributeurs qui prennent des vacances. On notera néanmoins des avancées sur [OpenLayers connecté à une Kinect](#ol), [MapQuery](#mapquery) ou bien [Proj4js](#proj4js). No</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-07-29/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-07-29/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 1er août</title>
-      <description># Revue de presse de la semaine du 1er août 2011
-
-
-:calendar: Date de publication initiale : 05 août 2011
-
-**Mots-clés :** Presse
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
-Pour cette première semaine du mois d&#39;août, quelques découvertes bien sympathiques ! Tout d&#39;abord, vous avez chaud et vous avez besoin d&#39;une bonne bière, alors suivez le [guide](#beer) . Après cette bière, imaginons maintenant que vous souhaitiez orga</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-08-05/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-08-05/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 8 août</title>
-      <description># Revue de presse de la semaine du 8 août 2011
-
-
-:calendar: Date de publication initiale : 12 août 2011
-
-**Mots-clés :** Presse
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
-Il y a 20 ans, le [Web naissait](http://www.wired.com/geekdad/2011/08/world-wide-web-20-years/), que de chemin parcouru depuis. Qu&#39;en est-il du GeoWeb ? Celui-ci s&#39;est structuré, des normes sont maintenant établies et de grands acteurs structurent le ma</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-08-12/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-08-12/</guid>
       <enclosure url="None" type="None" />
     </item>
     
