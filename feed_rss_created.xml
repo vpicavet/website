@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Sat, 12 Sep 2020 09:43:20 -0000</pubDate>
-    <lastBuildDate>Sat, 12 Sep 2020 09:43:20 -0000</lastBuildDate>
+    <pubDate>Mon, 14 Sep 2020 13:03:16 -0000</pubDate>
+    <lastBuildDate>Mon, 14 Sep 2020 13:03:16 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,79 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Modifier un contenu depuis le site web</title>
+      <description># Modifier un contenu depuis le site web
+
+Vous voulez ajouter une précision ? Vous avez aperçu une insupportable coquille ? Une image ou un contenu intégré n&#39;apparaît pas correctement ?
+
+Voici comment corriger en quelques étapes simples et **sans rien installer**.
+
+## 1. Cliquer sur l&#39;icône d&#39;édition en haut de la page où il y a besoin d&#39;une correction
+
+![Bouton d&#39;édition d&#39;une page](https://cdn.geotribu.fr/images/internal/contribution/edit_icon_pen.png)
+
+## 2. Cela redirige (dans un ouvel ongle</description>
+      <link>https://static.geotribu.fr/contribuer/edit/fix_content_from_website/</link>
+      <pubDate>Mon, 14 Sep 2020 12:33:55 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/edit/fix_content_from_website/</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>Configurer l'environnement pour l'édition locale des contenus de Geotribu</title>
+      <description># Installation pour l&#39;édition locale
+
+!!! tip
+    Remplir d&#39;abord [les prérequis](../../requirements).
+    Les chemins de fichiers et répertoires sont à adapter à votre environnement.
+
+## Git
+
+La mise en ligne du contenu se fait via [Git]. Si vous n&#39;êtes pas à l&#39;aise avec la ligne de commande, il est possible d&#39;utiliser [GitHub Desktop].
+
+Cloner le dépôt, soit avec la commande ci-dessous, soit via [le bouton vert sur le dépôt avec GitHub Desktop](https://github.com/geotribu/website) :
+
+```bash
+c</description>
+      <link>https://static.geotribu.fr/contribuer/edit/local_edition_setup/</link>
+      <pubDate>Mon, 14 Sep 2020 12:33:55 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/edit/local_edition_setup/</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>Rédiger en Markdown : bases et spécimen</title>
+      <description>Maîtriser les bases de la rédaction en Markdown pour contribuer à Geotribu et exemples de mise en forme.</description>
+      <link>https://static.geotribu.fr/contribuer/guides/markdown_basics/</link>
+      <pubDate>Mon, 14 Sep 2020 12:33:55 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/markdown_basics/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/internal/contribution/markdown_quick_exemple_rendu.png" type="image/png" />
+    </item>
+    
+    <item>
+      <title>Rédiger en Markdown : enjeux de qualité et régles</title>
+      <description>Rédiger en Markdown : règles partagées, erreurs fréquentes et mécanismes de validation.</description>
+      <link>https://static.geotribu.fr/contribuer/guides/markdown_quality/</link>
+      <pubDate>Mon, 14 Sep 2020 12:33:55 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/markdown_quality/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/internal/contribution/markdown_quick_exemple_rendu.png" type="image/png" />
+    </item>
+    
+    <item>
+      <title>Comprendre le rendu Markdown</title>
+      <description>Comprendre le fonctionnement de Python Markdown et ses spécificités pour contribuer en markdown à Geotribu.</description>
+      <link>https://static.geotribu.fr/contribuer/build_site/markdown_engine/</link>
+      <pubDate>Mon, 14 Sep 2020 10:25:58 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/build_site/markdown_engine/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/internal/contribution/markdown_exemple.png" type="image/png" />
+    </item>
     
     <item>
       <title>Rendez-vous aux GéoDataDays</title>
@@ -51,6 +124,16 @@
       <pubDate>Tue, 08 Sep 2020 13:12:44 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/webscraping/web_scraping.png" type="image/png" />
+    </item>
+    
+    <item>
+      <title>Du HTML en Markdown (et vice-versa)</title>
+      <description>Convertir les contenus récupérés de l&#39;ancien site de Geotribu en Markdown (via markdownify) : lingua franca du contenu web 2020.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-09-11_html2markdown/</link>
+      <pubDate>Tue, 08 Sep 2020 08:19:31 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-11_html2markdown/</guid>
       <enclosure url="https://cdn.geotribu.fr/img/tuto/webscraping/web_scraping.png" type="image/png" />
     </item>
     
@@ -487,63 +570,127 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
     </item>
     
     <item>
-      <title>Revue de presse du 7 octobre</title>
-      <description>Revue de presse du 7 octobre</description>
-      <link>https://static.geotribu.fr/rdp/2016/rdp_2016-10-07/</link>
-      <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
+      <title>Du HTML en Markdown (et vice-versa)</title>
+      <description>Convertir les contenus récupérés de l&#39;ancien site de Geotribu en Markdown (via markdownify) : lingua franca du contenu web 2020.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-09-11_html2markdown/</link>
+      <pubDate>Tue, 08 Sep 2020 08:19:31 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-10-07/</guid>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-11_html2markdown/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/webscraping/web_scraping.png" type="image/png" />
+    </item>
+    
+    <item>
+      <title>Guide de contribution</title>
+      <description>Guide de contribution au site collaboratif Geotribu : processus (git flow), modifier un contenu et guides spécifiques (images, vidéos, émojis...)</description>
+      <link>https://static.geotribu.fr/contribuer/contribution_guide/</link>
+      <pubDate>Thu, 26 Mar 2020 16:16:35 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/contribution_guide/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/collaboration_world.png" type="image/png" />
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <description># Introduction
+
+La contribution à Geotribu est réservée aux personnes qui répondent à ces deux préalables :
+
+- être motivé·é
+- avoir envie de donner du temps pour rédiger soi-même un contenu original qui a vocation à être partagé à tous
+
+Bref, c&#39;est ouvert :wink: :smile: ! Pas besoin d&#39;être dans l&#39;équipe _officielle_ pour proposer un contenu : article, tutoriel, news pour une revue de presse, etc.
+
+!!! warning
+
+    Même s&#39;il n&#39;y a pas de charte établie, merci de réserver les communiqués de press</description>
+      <link>https://static.geotribu.fr/contribuer/introduction/</link>
+      <pubDate>Thu, 26 Mar 2020 16:16:35 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/introduction/</guid>
       <enclosure url="None" type="None" />
     </item>
     
     <item>
-      <title>Revue de presse du 28 octobre</title>
-      <description>Revue de presse du 28 octobre</description>
-      <link>https://static.geotribu.fr/rdp/2016/rdp_2016-10-14/</link>
-      <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
+      <title>Prérequis</title>
+      <description>Prérequis minimaux pour contribuer à Geotribu : un compte GitHub et savoir écrire en Markdown.</description>
+      <link>https://static.geotribu.fr/contribuer/requirements/</link>
+      <pubDate>Mon, 20 Apr 2020 08:48:37 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-10-14/</guid>
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/requirements/</guid>
       <enclosure url="None" type="None" />
     </item>
     
     <item>
-      <title>Revue de Presse du 16 Décembre</title>
-      <description>Revue de Presse du 16 Décembre</description>
-      <link>https://static.geotribu.fr/rdp/2016/rdp_2016-12-05/</link>
-      <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
+      <title>Modifier un contenu depuis le site web</title>
+      <description># Modifier un contenu depuis le site web
+
+Vous voulez ajouter une précision ? Vous avez aperçu une insupportable coquille ? Une image ou un contenu intégré n&#39;apparaît pas correctement ?
+
+Voici comment corriger en quelques étapes simples et **sans rien installer**.
+
+## 1. Cliquer sur l&#39;icône d&#39;édition en haut de la page où il y a besoin d&#39;une correction
+
+![Bouton d&#39;édition d&#39;une page](https://cdn.geotribu.fr/images/internal/contribution/edit_icon_pen.png)
+
+## 2. Cela redirige (dans un ouvel ongle</description>
+      <link>https://static.geotribu.fr/contribuer/edit/fix_content_from_website/</link>
+      <pubDate>Mon, 14 Sep 2020 12:33:55 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-12-05/</guid>
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/edit/fix_content_from_website/</guid>
       <enclosure url="None" type="None" />
     </item>
     
     <item>
-      <title>Revue de presse du 27 janvier</title>
-      <description>Revue de presse du 27 janvier</description>
-      <link>https://static.geotribu.fr/rdp/2017/rdp_2017-01-27/</link>
-      <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
+      <title>Configurer l'environnement pour l'édition locale des contenus de Geotribu</title>
+      <description># Installation pour l&#39;édition locale
+
+!!! tip
+    Remplir d&#39;abord [les prérequis](../../requirements).
+    Les chemins de fichiers et répertoires sont à adapter à votre environnement.
+
+## Git
+
+La mise en ligne du contenu se fait via [Git]. Si vous n&#39;êtes pas à l&#39;aise avec la ligne de commande, il est possible d&#39;utiliser [GitHub Desktop].
+
+Cloner le dépôt, soit avec la commande ci-dessous, soit via [le bouton vert sur le dépôt avec GitHub Desktop](https://github.com/geotribu/website) :
+
+```bash
+c</description>
+      <link>https://static.geotribu.fr/contribuer/edit/local_edition_setup/</link>
+      <pubDate>Mon, 14 Sep 2020 12:33:55 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2017/rdp_2017-01-27/</guid>
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/edit/local_edition_setup/</guid>
       <enclosure url="None" type="None" />
     </item>
     
     <item>
-      <title>Python - Configuration sur Windows et outillage</title>
-      <description>Ma configuration et mon outillage pour Python en 2020.</description>
-      <link>https://static.geotribu.fr/articles/2020/2020-06-19_setup_python/</link>
-      <pubDate>Tue, 16 Jun 2020 13:36:17 -0000</pubDate>
+      <title>Rédiger en Markdown : bases et spécimen</title>
+      <description>Maîtriser les bases de la rédaction en Markdown pour contribuer à Geotribu et exemples de mise en forme.</description>
+      <link>https://static.geotribu.fr/contribuer/guides/markdown_basics/</link>
+      <pubDate>Mon, 14 Sep 2020 12:33:55 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-06-19_setup_python/</guid>
-      <enclosure url="None" type="None" />
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/markdown_basics/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/internal/contribution/markdown_quick_exemple_rendu.png" type="image/png" />
     </item>
     
     <item>
-      <title>Titre principal</title>
-      <description>Description pour le SEO.</description>
-      <link>https://static.geotribu.fr/articles/templates/template_article/</link>
-      <pubDate>Tue, 16 Jun 2020 09:54:05 -0000</pubDate>
+      <title>Rédiger en Markdown : enjeux de qualité et régles</title>
+      <description>Rédiger en Markdown : règles partagées, erreurs fréquentes et mécanismes de validation.</description>
+      <link>https://static.geotribu.fr/contribuer/guides/markdown_quality/</link>
+      <pubDate>Mon, 14 Sep 2020 12:33:55 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/templates/template_article/</guid>
-      <enclosure url="https://static.geotribu.fr/Image d'illustration de l'article qui sert ensuite dans la mise en avant : réseaux sociaux, flux RSS..." type="None" />
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/markdown_quality/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/internal/contribution/markdown_quick_exemple_rendu.png" type="image/png" />
+    </item>
+    
+    <item>
+      <title>Comprendre le rendu Markdown</title>
+      <description>Comprendre le fonctionnement de Python Markdown et ses spécificités pour contribuer en markdown à Geotribu.</description>
+      <link>https://static.geotribu.fr/contribuer/build_site/markdown_engine/</link>
+      <pubDate>Mon, 14 Sep 2020 10:25:58 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/build_site/markdown_engine/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/internal/contribution/markdown_exemple.png" type="image/png" />
     </item>
     
     <item>
@@ -668,6 +815,40 @@ Celle-ci inclut de nouveaux composants tels qu</description>
     </item>
     
     <item>
+      <title>Guide de contribution pour les tutoriaux</title>
+      <description># Guide de contribution pour les tutoriaux
+
+!!! warning
+    Ce contenu est une archive. Son contenu n&#39;est sûrement plus très frais...
+
+Suite à la migration de serveurs, les tutoriaux ont pris un sacré coup. Cela a eu un impact certain sur la fréquention du site. L&#39;objectif est de remettre ces tutoriaux sur pieds. La démarche ci-dessous explique procédure à suivre pour créer un tutoriel.
+
+Note : Quand cela est possible, il est bien de créer ses tutoriaux sous la forme d&#39;un livre. Cela permet d&#39;av</description>
+      <link>https://static.geotribu.fr/contribuer/archives/howto_tutorials/</link>
+      <pubDate>Fri, 20 Mar 2020 16:25:08 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/archives/howto_tutorials/</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>Guide de contribution pour la revue de presse</title>
+      <description># Guide de contribution pour la revue de presse
+
+!!! warning
+    Ce contenu est une archive. Son contenu n&#39;est sûrement plus très frais...
+
+## Introduction
+
+La revue de presse (RDP pour les intimes), c&#39;est le truc qu&#39;on essaie de sortir tous les vendredis de l&#39;année. Sans exception, jamais - ok sauf le 15 août de cette année où on a un peu foiré :wink: Même si il fait beau et qu&#39;on a qu&#39;une seule envie : aller à la plage ou à la montagne (au choix, on n&#39;est pas sectaire). Bon bref ... pour la re</description>
+      <link>https://static.geotribu.fr/contribuer/archives/howto_rdp/</link>
+      <pubDate>Fri, 20 Mar 2020 16:25:08 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/archives/howto_rdp/</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
       <title>Titre principal</title>
       <description>Description pour le SEO.</description>
       <link>https://static.geotribu.fr/articles/templates/template_article/</link>
@@ -719,6 +900,16 @@ Exemple pour une vidé</description>
     </item>
     
     <item>
+      <title>Le web-scraping avec Scrapy</title>
+      <description>Utiliser le web-scraping (Scrapy) pour récupérer les anciens contenus de Geotribu depuis l&#39;Internet Archive.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</link>
+      <pubDate>Tue, 08 Sep 2020 13:12:44 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/webscraping/web_scraping.png" type="image/png" />
+    </item>
+    
+    <item>
       <title>Rendez-vous aux GéoDataDays</title>
       <description>On vous donne rendez-vous aux GéoDataDays 2020, les 15 et 16 septembre à Montpellier, l&#39;événement indépendant de la géomatique francophone.</description>
       <link>https://static.geotribu.fr/articles/2020/2020-09-09_geodatadays/</link>
@@ -739,16 +930,6 @@ Exemple pour une vidé</description>
     </item>
     
     <item>
-      <title>Le web-scraping avec Scrapy</title>
-      <description>Utiliser le web-scraping (Scrapy) pour récupérer les anciens contenus de Geotribu depuis l&#39;Internet Archive.</description>
-      <link>https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</link>
-      <pubDate>Tue, 08 Sep 2020 13:12:44 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</guid>
-      <enclosure url="https://cdn.geotribu.fr/img/tuto/webscraping/web_scraping.png" type="image/png" />
-    </item>
-    
-    <item>
       <title>Revue de presse du 7 août 2020</title>
       <description>Revue de presse géomatique du 7 août 2020 (#GeoRDP) : OpenLayers 6.4, pgRouting 3.1, nouveau site GRASS, impact des météorites sur Terre, le Dessus des Cartes, OSM a 16 ans, SAGEO 2021</description>
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-08-07/</link>
@@ -766,26 +947,6 @@ Exemple pour une vidé</description>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-08-31_geotribu_histoire/</guid>
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/geotribu/history/geotribu_frise_chrono_2006-2017.png" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Guide de contribution</title>
-      <description>Guide de contribution au site collaboratif Geotribu : processus (git flow), modifier un contenu et guides spécifiques (images, vidéos, émojis...)</description>
-      <link>https://static.geotribu.fr/contribuer/contribution_guide/</link>
-      <pubDate>Thu, 26 Mar 2020 16:16:35 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/contribution_guide/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Prérequis</title>
-      <description>Prérequis minimaux pour contribuer à Geotribu : un compte GitHub et savoir écrire en Markdown.</description>
-      <link>https://static.geotribu.fr/contribuer/requirements/</link>
-      <pubDate>Mon, 20 Apr 2020 08:48:37 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/requirements/</guid>
-      <enclosure url="None" type="None" />
     </item>
     
     <item>
@@ -860,29 +1021,6 @@ Prenons deux exemples :
       <pubDate>Fri, 17 Apr 2020 12:25:10 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/image/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Configurer l'environnement pour l'édition locale des contenus de Geotribu</title>
-      <description># Installation pour l&#39;édition locale
-
-!!! tip
-    Remplir d&#39;abord [les prérequis](../../requirements).
-    Les chemins de fichiers et répertoires sont à adapter à votre environnement.
-
-## Git
-
-La mise en ligne du contenu se fait via [Git]. Si vous n&#39;êtes pas à l&#39;aise avec la ligne de commande, il est possible d&#39;utiliser [GitHub Desktop].
-
-Cloner le dépôt, soit avec la commande ci-dessous, soit via [le bouton vert sur le dépôt avec GitHub Desktop](https://github.com/geotribu/website) :
-
-```bash
-c</description>
-      <link>https://static.geotribu.fr/contribuer/local/local_edition_setup/</link>
-      <pubDate>Fri, 17 Apr 2020 12:25:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/local/local_edition_setup/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1201,163 +1339,6 @@ Au menu de cette revue de presse de la semaine, un petit tour du côté [d&#39;O
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-04-22/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 29 avril 2011
-
-**Mots-clés :** Presse
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- Les revues de presse de GéoTribu s’allongent. A croire que dans le GeoWeb il n&#39;y a jamais de temps mort. Au menu cette semaine, le lancement du nouveau [blog d&#39;Intelli3](#intelli3), une [version cloud](#opengeo) d&#39;opengeo, les futures nouveautés de [PostGis](#p</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-29/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-04-29/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 06 mai 2011
-
-**Mots-clés :** OpenStreetMap | Presse | INSPIRE
-
-
-![Logo OpenStreetMap](https://cdn.geotribu.fr/images/logos-icones/OpenStreetMap/Openstreetmap.png){: .img-rdp-news-thumb }
-
-### OpenStreetMap
-
- Comme d&#39;habitude l&#39;effervescence autour du projet OpenStreetMap occupe une grande place au sein de ce blog.  
- Commençons tout d&#39;abord par [OSMembrane](http://osmembrane.de/) qui permet la manipulation des fonct</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-06/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-05-06/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 13 mai 2011
-
-**Mots-clés :** Presse
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- On vous disait que les technologies et notamment celles relatives aux SIG et au web ne s&#39;arrêtent jamais. Et bien nous en avons encore la confirmation cette semaine avec au programme l&#39;OSGEO, Mapserver et Geoserver, Shapely, le Geoportail, jQuery, le nouveau blog</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-13/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-05-13/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 21 mai 2011
-
-**Mots-clés :** Google | Presse | Leaflet | JTS
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- Cette semaine au menu, des librairies javascript pour la [visualisation](#visu) et pour le [traitement](#traitement), ou bien encore des [sorties logicielles](#mapguide). Retrouvez aussi des nouvelles de [Google](#google) ou bien encore u</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-21/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-05-21/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 27 mai 2011
-
-**Mots-clés :** OpenLayers | OSM | Presse | GeoAPI
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- Comme tous les vendredis, continuons notre exploration du monde GeoWeb. Cette semaine : une [thèse](#these) à Lausanne, une nouvelle version [RC1](#openlayers) d&#39;OpenLayers , les débuts de [GeoExt](#geoext) dans le mobile, l&#39;[eG8](#eg8</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-27/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-05-27/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 03 juin 2011
-
-**Mots-clés :** OpenLayers | MapServer | Presse | INSPIRE
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- C&#39;est une semaine plutôt calme dans le petit monde du GeoWeb. Néanmoins, nous avons tout de même glané quelques infos intéressantes. Notamment, la traduction en français des fonctionnalités de [MapServer 6](#mapserver), une réf</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-06-03/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-06-03/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 10 juin 2011
-
-**Mots-clés :** OpenLayers | GeoServer | Presse
-
-
-![https://fr.wikipedia.org/wiki/Fichier:Dymaxion_2003_animation_small1.gif - GFDL](http://88.191.39.115/fabien/geotribu/logos/proj_fuller_anim.gif &#34;animation_small&#34;)**Openlayers dans une projection &#34;exotique&#34;
-
- On reproche souvent au web cartographique une certaine aseptisation du mode de projection utilisé. Peu de fantaisies sont autorisées. Ainsi, la </description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-06-10/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-06-10/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 17 juin 2011
-
-**Mots-clés :** OGC | Presse | openaerialmap | kothic | FOSS4G
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
-Au menu de cette revue de presse de la semaine, [l&#39;arrivée de kothic](#kothic), une nouvelle librairie cartographique, la [publication du programme](#FOSS4G) du prochain FOSS4G, l&#39;annonce de la [fermeture de l&#39;API de Yahoo]</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-06-17/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-06-17/</guid>
       <enclosure url="None" type="None" />
     </item>
     
