@@ -16,8 +16,8 @@
     
 
     <!-- Timestamps and frequency -->
-    <pubDate>Mon, 14 Sep 2020 13:29:29 -0000</pubDate>
-    <lastBuildDate>Mon, 14 Sep 2020 13:29:29 -0000</lastBuildDate>
+    <pubDate>Fri, 18 Sep 2020 12:35:25 -0000</pubDate>
+    <lastBuildDate>Fri, 18 Sep 2020 12:35:25 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -135,6 +135,16 @@ c</description>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-11_html2markdown/</guid>
       <enclosure url="https://cdn.geotribu.fr/img/tuto/webscraping/web_scraping.png" type="image/png" />
+    </item>
+    
+    <item>
+      <title>Revue de presse du 18 Septembre 2020</title>
+      <description>GeoRDP du 18 Septembre : mise à jour de l&#39;extension QGIS cadastre, faire le choix des bonnes couleurs, visualisations autour des élections présidentielles américaines, visualisation des feux de forêt, covid19 et sport, conséquences du réchauffement climatique sur l&#39;habitabilité des Etats-Unis, quand l&#39;absence de données sur une carte les rend visibles, podcast sur être indépendant en géomatique, détection des tremblements de terre grâce aux smartphones, atlas de l&#39;Afrique par l&#39;AFD</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-09-18/</link>
+      <pubDate>Tue, 08 Sep 2020 04:32:12 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-09-18/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/carte_covid.jpg" type="image/jpeg" />
     </item>
     
     <item>
@@ -560,13 +570,13 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
     </item>
     
     <item>
-      <title>Revue de presse du 1 juillet</title>
-      <description>Revue de presse du 1 juillet</description>
-      <link>https://static.geotribu.fr/rdp/2016/rdp_2016-07-01/</link>
-      <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
+      <title>Revue de presse du 18 Septembre 2020</title>
+      <description>GeoRDP du 18 Septembre : mise à jour de l&#39;extension QGIS cadastre, faire le choix des bonnes couleurs, visualisations autour des élections présidentielles américaines, visualisation des feux de forêt, covid19 et sport, conséquences du réchauffement climatique sur l&#39;habitabilité des Etats-Unis, quand l&#39;absence de données sur une carte les rend visibles, podcast sur être indépendant en géomatique, détection des tremblements de terre grâce aux smartphones, atlas de l&#39;Afrique par l&#39;AFD</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-09-18/</link>
+      <pubDate>Tue, 08 Sep 2020 04:32:12 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-07-01/</guid>
-      <enclosure url="None" type="None" />
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-09-18/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/carte_covid.jpg" type="image/jpeg" />
     </item>
     
     <item>
@@ -1319,26 +1329,6 @@ Au menu de cette revue de presse de la semaine, un petit tour du côté [d&#39;O
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-04-15/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 22 avril 2011
-
-**Mots-clés :** Presse
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- Aujourd&#39;hui c&#39;est le jour de la Terre, ça n&#39;a rien à voir avec le GeoWeb - quoi que ? Cette semaine, en vrac OpenGeo, GvSIG, Grass, Qgis, OpenLite, Google, Bing, OSM, Opendata, OVI Maps et de jolies cartes.  
- Je ne me suis pas foulé pour cette introduction, ma</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-22/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-04-22/</guid>
       <enclosure url="None" type="None" />
     </item>
     
