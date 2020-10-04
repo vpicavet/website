@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Sun, 04 Oct 2020 07:53:48 -0000</pubDate>
-    <lastBuildDate>Sun, 04 Oct 2020 07:53:48 -0000</lastBuildDate>
+    <pubDate>Sun, 04 Oct 2020 11:25:49 -0000</pubDate>
+    <lastBuildDate>Sun, 04 Oct 2020 11:25:49 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -567,6 +567,16 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-04-22/</guid>
       <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>A la découverte de GIS Cloud</title>
+      <description>Découverte de GIS Cloud, plateforme de création de contenu web-cartographique dont on entend beaucoup parler ces derniers temps. Bien décidé à voir de quoi il en retourne, je me suis inscrit et j&#39;en ai profité pour faire quelques tests. Je vous livre ci-dessous mes impressions.</description>
+      <link>https://static.geotribu.fr/articles/2011/art_2011-11-09/</link>
+      <pubDate>Sun, 31 May 2020 22:33:13 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2011/art_2011-11-09/</guid>
+      <enclosure url="https://static.geotribu.fr/URL de l'image d'illustration de la RDP" type="None" />
     </item>
     
     <item>
@@ -1301,25 +1311,6 @@ Au menu de cette revue de presse de la semaine, un petit tour du côté [d&#39;O
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-04-01/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 08 avril 2011
-
-**Mots-clés :** Presse
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- C&#39;est avec une revue de presse riche en actualité que nous clôturons cette semaine. Beaucoup, beaucoup de nouveautés avec notamment, des rumeurs concernant la [fermeture du site data.gov](#datagov), la [sortie de Mapfish 2.1](#mapfish) ou encore [l&#39;ajout d&#39;un d</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-08/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-04-08/</guid>
       <enclosure url="None" type="None" />
     </item>
     
