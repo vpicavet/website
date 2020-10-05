@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Sun, 04 Oct 2020 12:31:27 -0000</pubDate>
-    <lastBuildDate>Sun, 04 Oct 2020 12:31:27 -0000</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2020 13:01:36 -0000</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2020 13:01:36 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -251,12 +251,12 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
     
     <item>
       <title>Installer QGIS sur Windows avec Powershell</title>
-      <description>Comment déployer QGIS sur Windows avec Powershell, via chocolatey ou un script.</description>
+      <description>Comment déployer automatiquement (téléchargement et installation) QGIS sur Windows avec un script Powershell (ou via chocolatey), en tirant parti des capacités de l&#39;installeur OSGeo4W.</description>
       <link>https://static.geotribu.fr/articles/2020/2020-07-03_deploy_qgis_windows/</link>
       <pubDate>Wed, 01 Jul 2020 07:06:07 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-07-03_deploy_qgis_windows/</guid>
-      <enclosure url="None" type="None" />
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_deploy_windows/qgis_deploy_win_prog_postinstall.png" type="image/png" />
     </item>
     
     <item>
@@ -567,6 +567,26 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-04-22/</guid>
       <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>Python - Configuration sur Windows et outillage</title>
+      <description>Configuration et outillage de base pour développer en Python en 2020, avec un focus sur le travail sous Windows.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-06-19_setup_python/</link>
+      <pubDate>Tue, 16 Jun 2020 13:36:17 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-06-19_setup_python/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/python_windows/python_windows_installer_path_length.jpg" type="image/jpeg" />
+    </item>
+    
+    <item>
+      <title>Installer QGIS sur Windows avec Powershell</title>
+      <description>Comment déployer automatiquement (téléchargement et installation) QGIS sur Windows avec un script Powershell (ou via chocolatey), en tirant parti des capacités de l&#39;installeur OSGeo4W.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-07-03_deploy_qgis_windows/</link>
+      <pubDate>Wed, 01 Jul 2020 07:06:07 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-07-03_deploy_qgis_windows/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_deploy_windows/qgis_deploy_win_prog_postinstall.png" type="image/png" />
     </item>
     
     <item>
@@ -1083,16 +1103,6 @@ Exceptionnellement, la revue de presse est publiée un jeudi - et oui demain c&#
     </item>
     
     <item>
-      <title>Python - Configuration sur Windows et outillage</title>
-      <description>Ma configuration et mon outillage pour Python en 2020.</description>
-      <link>https://static.geotribu.fr/articles/2020/2020-06-19_setup_python/</link>
-      <pubDate>Tue, 16 Jun 2020 13:36:17 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-06-19_setup_python/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
       <title>Revue de presse du 30 avril 2020</title>
       <description># Revue de presse du 30 avril 2020
 
@@ -1292,25 +1302,6 @@ Au menu de cette revue de presse de la semaine, un petit tour du côté [d&#39;O
       <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-03-25/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-
-:calendar: Date de publication initiale : 01 avril 2011
-
-**Mots-clés :** OpenLayers | MapServer | OpenStreetMap | TinyOWS | Presse | smartphone
-
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- Cette semaine des nouvelles de [MapServer](#mapserver) et un rapprochement avec TinyOWS et mod-geocache. Le souhait de la communauté [OSM-fr](#osm) de s&#39;émanciper de l&#39;OSGEO. Le développement d&#39;Ope</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-01/</link>
-      <pubDate>Tue, 14 Apr 2020 15:50:36 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-04-01/</guid>
       <enclosure url="None" type="None" />
     </item>
     
