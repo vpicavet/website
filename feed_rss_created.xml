@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Mon, 05 Oct 2020 13:01:36 -0000</pubDate>
-    <lastBuildDate>Mon, 05 Oct 2020 13:01:36 -0000</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2020 18:37:19 -0000</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2020 18:37:19 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -570,6 +570,16 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
     </item>
     
     <item>
+      <title>A la découverte de GIS Cloud</title>
+      <description>Découverte de GIS Cloud, plateforme de création de contenu web-cartographique dont on entend beaucoup parler ces derniers temps. Bien décidé à voir de quoi il en retourne, je me suis inscrit et j&#39;en ai profité pour faire quelques tests. Je vous livre ci-dessous mes impressions.</description>
+      <link>https://static.geotribu.fr/articles/2011/art_2011-11-09/</link>
+      <pubDate>Sun, 31 May 2020 22:33:13 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2011/art_2011-11-09/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/serveur/giscloud/giscloud_interface.png" type="image/png" />
+    </item>
+    
+    <item>
       <title>Python - Configuration sur Windows et outillage</title>
       <description>Configuration et outillage de base pour développer en Python en 2020, avec un focus sur le travail sous Windows.</description>
       <link>https://static.geotribu.fr/articles/2020/2020-06-19_setup_python/</link>
@@ -587,16 +597,6 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-07-03_deploy_qgis_windows/</guid>
       <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_deploy_windows/qgis_deploy_win_prog_postinstall.png" type="image/png" />
-    </item>
-    
-    <item>
-      <title>A la découverte de GIS Cloud</title>
-      <description>Découverte de GIS Cloud, plateforme de création de contenu web-cartographique dont on entend beaucoup parler ces derniers temps. Bien décidé à voir de quoi il en retourne, je me suis inscrit et j&#39;en ai profité pour faire quelques tests. Je vous livre ci-dessous mes impressions.</description>
-      <link>https://static.geotribu.fr/articles/2011/art_2011-11-09/</link>
-      <pubDate>Sun, 31 May 2020 22:33:13 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2011/art_2011-11-09/</guid>
-      <enclosure url="https://static.geotribu.fr/URL de l'image d'illustration de la RDP" type="None" />
     </item>
     
     <item>
