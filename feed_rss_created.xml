@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Wed, 14 Oct 2020 10:34:28 -0000</pubDate>
-    <lastBuildDate>Wed, 14 Oct 2020 10:34:28 -0000</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2020 12:35:28 -0000</pubDate>
+    <lastBuildDate>Wed, 14 Oct 2020 12:35:28 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -566,6 +566,24 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-03-11/</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>A la découverte de WebGL Earth</title>
+      <description># A la découverte de WebGL Earth
+
+:calendar: Date de publication initiale : 05 avril 2011
+
+**Mots-clés :** JavaScript | Open Source
+
+![icône globe](https://cdn.geotribu.fr/img/internal/icons-rdp-news/world.png){: .img-rdp-news-thumb loading=lazy }
+
+Depuis quelques mois déjà nos billets font de plus en plus référence à l&#39;utilisation de la 3D au sein de l&#39;univers du Web. L&#39;intégration de la librairie [WebGL](https://fr.wikipedia.org/wiki/WebGL), par les navigateurs les plus récents, montre bien qu</description>
+      <link>https://static.geotribu.fr/articles/2011/art_2011-04-05/</link>
+      <pubDate>Sun, 31 May 2020 22:33:13 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2011/art_2011-04-05/</guid>
       <enclosure url="None" type="None" />
     </item>
     
@@ -1370,22 +1388,6 @@ De nombreux articles mettant en avant la puissance jumelée de ces nouvelles v</
       <pubDate>Sun, 31 May 2020 22:33:13 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-10-30/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Le meilleur d'OpenStreetMap sur Best Of OSM</title>
-      <description># Le meilleur d&#39;OpenStreetMap sur Best Of OSM
-
-:calendar: Date de publication initiale : 04 novembre 2009
-
-**Mots-clés :** OpenStreetMap | Open Source
-
-![OSM_logo.png](https://cdn.geotribu.fr/img/logos-icones/OpenStreetMap/Openstreetmap.png)Développé par GeoFabrik, [Best Of OSM](http://bestofosm.org/) est, en quelque sorte, une vitrine des plus belles zones d&#39;OpenStreetMap. Mais sont également présentés les lieux importants dans l&#39;histoire d&#39;OSM, les données importées (ex : Corine Land Cover) ai</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-11-04/</link>
-      <pubDate>Sun, 31 May 2020 22:33:13 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-11-04/</guid>
       <enclosure url="None" type="None" />
     </item>
     
