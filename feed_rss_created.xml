@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Tue, 13 Oct 2020 12:58:54 -0000</pubDate>
-    <lastBuildDate>Tue, 13 Oct 2020 12:58:54 -0000</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2020 10:34:28 -0000</pubDate>
+    <lastBuildDate>Wed, 14 Oct 2020 10:34:28 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -42,6 +42,16 @@
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-10-02/</guid>
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/datawrapper_update.png" type="image/png" />
+    </item>
+    
+    <item>
+      <title>Tutoriel de prise en main du logiciel de rendu 3D Aerialod</title>
+      <description>Concepts de base et exemples de paramétrage et de rendu sur aerialod</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-09-20_tutorial_aerialod/</link>
+      <pubDate>Wed, 23 Sep 2020 08:21:05 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-20_tutorial_aerialod/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/aerialod/oceania_aerialod.jpg" type="image/jpeg" />
     </item>
     
     <item>
@@ -560,13 +570,13 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
     </item>
     
     <item>
-      <title>Revue de presse du 15 Avril</title>
-      <description>Revue de presse du 15 Avril</description>
-      <link>https://static.geotribu.fr/rdp/2016/rdp_2016-04-22/</link>
-      <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
+      <title>Tutoriel de prise en main du logiciel de rendu 3D Aerialod</title>
+      <description>Concepts de base et exemples de paramétrage et de rendu sur aerialod</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-09-20_tutorial_aerialod/</link>
+      <pubDate>Wed, 23 Sep 2020 08:21:05 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-04-22/</guid>
-      <enclosure url="None" type="None" />
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-20_tutorial_aerialod/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/aerialod/oceania_aerialod.jpg" type="image/jpeg" />
     </item>
     
     <item>
@@ -1376,22 +1386,6 @@ De nombreux articles mettant en avant la puissance jumelée de ces nouvelles v</
       <pubDate>Sun, 31 May 2020 22:33:13 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-11-04/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>OGR2GUI passe en version 0.6</title>
-      <description># OGR2GUI passe en version 0.6
-
-:calendar: Date de publication initiale : 09 novembre 2009
-
-**Mots-clés :** Open Source
-
-![logo OpenSource](https://cdn.geotribu.fr/img/logos-icones/opensource.png &#34;Logo Open Source Foundation&#34;){: .img-rdp-news-thumb } [GDAL-OGR](http://www.gdal.org/index.html) est l&#39;une voir **LA** bibliothèque de conversion de formats géographiques. Malheureusement, du fait de son utilisation en ligne de commande, celle-ci peut décourager certains géomaticiens un peu allergiques</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-11-09/</link>
-      <pubDate>Sun, 31 May 2020 22:33:13 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-11-09/</guid>
       <enclosure url="None" type="None" />
     </item>
     
