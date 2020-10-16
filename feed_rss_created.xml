@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Wed, 14 Oct 2020 12:35:28 -0000</pubDate>
-    <lastBuildDate>Wed, 14 Oct 2020 12:35:28 -0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2020 14:22:20 -0000</pubDate>
+    <lastBuildDate>Fri, 16 Oct 2020 14:22:20 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,16 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Revue de presse du 16 octobre 2020</title>
+      <description>GeoRDP du 16 octobre 2020 : MadMaps, un serious game pour l&#39;initiation à la cartographie</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-10-16/</link>
+      <pubDate>Mon, 05 Oct 2020 13:17:50 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-10-16/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/charles_booth_legend.png" type="image/png" />
+    </item>
     
     <item>
       <title>Revue de presse du 2 octobre 2020</title>
@@ -560,13 +570,13 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
     </item>
     
     <item>
-      <title>Revue de presse du 11 Mars</title>
-      <description>Revue de presse du 11 Mars</description>
-      <link>https://static.geotribu.fr/rdp/2016/rdp_2016-03-11/</link>
-      <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
+      <title>Revue de presse du 16 octobre 2020</title>
+      <description>GeoRDP du 16 octobre 2020 : MadMaps, un serious game pour l&#39;initiation à la cartographie</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-10-16/</link>
+      <pubDate>Mon, 05 Oct 2020 13:17:50 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-03-11/</guid>
-      <enclosure url="None" type="None" />
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-10-16/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/charles_booth_legend.png" type="image/png" />
     </item>
     
     <item>
@@ -1372,22 +1382,6 @@ De nombreux articles mettant en avant la puissance jumelée de ces nouvelles v</
       <pubDate>Sun, 31 May 2020 22:33:13 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-10-29/</guid>
-      <enclosure url="None" type="None" />
-    </item>
-    
-    <item>
-      <title>Geomap ou comment mettre en œuvre rapidement sur le web des cartes choroplètes ou en symboles (presque) proportionnels</title>
-      <description># Geomap ou comment mettre en œuvre rapidement sur le web des cartes choroplètes ou en symboles (presque) proportionnels
-
-:calendar: Date de publication initiale : 30 octobre 2009
-
-**Mots-clés :** Google | geomap | symbole proportionnel | carte thématique | choroplèthe
-
-![geomap](http://88.191.39.115/fabien/geotribu/logos/visualization_geomap.png)Si comme nous vous utilisez régulièrement Google Analytics, la carte qui est présentée ci-dessous, ne vous est pas inconnue. Mais saviez-vous qu&#39;il est</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-10-30/</link>
-      <pubDate>Sun, 31 May 2020 22:33:13 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-10-30/</guid>
       <enclosure url="None" type="None" />
     </item>
     
