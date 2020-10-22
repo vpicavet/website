@@ -1,5 +1,12 @@
-<redirect>
-    <newLocation>
-        https://static.geotribu.fr/feed_rss_created.xml
-    </newLocation>
-</redirect>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Redirecting...</title>
+    <link rel="canonical" href="https://static.geotribu.fr/feed_rss_created.xml">
+    <meta name="robots" content="noindex">
+    <meta http-equiv="refresh" content="0; url=https://static.geotribu.fr/feed_rss_created.xml">
+</head>
+<body>
+Redirecting...
+</body>
+</html>
