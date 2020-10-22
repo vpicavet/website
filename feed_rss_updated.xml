@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Thu, 22 Oct 2020 09:23:30 -0000</pubDate>
-    <lastBuildDate>Thu, 22 Oct 2020 09:23:30 -0000</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2020 09:57:46 -0000</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2020 09:57:46 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -36,9 +36,9 @@
     
     <item>
       <title>Privé de désert : le géogame inédit</title>
-      <description>En restaurant les géogames de Geotribu, j&#39;ai trouvé un jeu qui n&#39;avait été publié qui consiste à associer les déserts à leurs continents. Saurez-vous ne pas finir privé/e de désert ?</description>
+      <description>En restaurant les géogames de Geotribu, des mini-jeux sur la culture générale en cartographie et géomatique, j&#39;ai trouvé un jeu qui n&#39;avait jamais été publié qui consiste à associer les déserts à leurs continents. Saurez-vous ne pas finir privé/e de désert ?</description>
       <link>https://static.geotribu.fr/articles/2020/2020-10-19_geogame_desert/</link>
-      <pubDate>Thu, 22 Oct 2020 09:18:38 -0000</pubDate>
+      <pubDate>Thu, 22 Oct 2020 09:53:08 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-10-19_geogame_desert/</guid>
       <enclosure url="https://cdn.geotribu.fr/img/geogames/globe_jeu_video_manette.png" type="image/png" />
