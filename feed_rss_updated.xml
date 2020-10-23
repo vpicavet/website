@@ -16,12 +16,12 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Fri, 23 Oct 2020 07:52:14 -0000</pubDate>
-    <lastBuildDate>Fri, 23 Oct 2020 07:52:14 -0000</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2020 08:15:14 -0000</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2020 08:15:14 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
-    <generator>MkDocs RSS plugin - v0.7.2</generator>
+    <generator>MkDocs RSS plugin - v0.8.0</generator>
 
     <!-- Feed illustration -->
     
@@ -41,7 +41,9 @@
       <pubDate>Thu, 22 Oct 2020 09:53:08 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-10-19_geogame_desert/</guid>
-      <enclosure url="https://cdn.geotribu.fr/img/geogames/globe_jeu_video_manette.png" type="image/png" />
+      
+      <enclosure url="https://cdn.geotribu.fr/img/geogames/globe_jeu_video_manette.png" type="image/png" length="292219" />
+      
     </item>
     
     <item>
@@ -51,7 +53,9 @@
       <pubDate>Wed, 21 Oct 2020 22:15:10 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-20_tutorial_aerialod/</guid>
-      <enclosure url="https://cdn.geotribu.fr/img/tuto/aerialod/oceania_aerialod.jpg" type="image/jpeg" />
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/aerialod/oceania_aerialod.jpg" type="image/jpeg" length="161218" />
+      
     </item>
     
     <item>
@@ -61,7 +65,9 @@
       <pubDate>Fri, 16 Oct 2020 14:18:10 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-10-16/</guid>
-      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/charles_booth_legend.png" type="image/png" />
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/charles_booth_legend.png" type="image/png" length="949223" />
+      
     </item>
     
     <item>
@@ -79,7 +85,7 @@ Depuis quelques mois déjà nos billets font de plus en plus référence à l&#3
       <pubDate>Wed, 14 Oct 2020 12:54:40 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2011/art_2011-04-05/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -89,7 +95,9 @@ Depuis quelques mois déjà nos billets font de plus en plus référence à l&#3
       <pubDate>Wed, 14 Oct 2020 12:13:14 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2014/art_2014-01-22_geogame_qcm_cassini_bertin/</guid>
-      <enclosure url="https://cdn.geotribu.fr/img/geogames/geogame1_capture.png" type="image/png" />
+      
+      <enclosure url="https://cdn.geotribu.fr/img/geogames/geogame1_capture.png" type="image/png" length="55770" />
+      
     </item>
     
     <item>
@@ -99,7 +107,9 @@ Depuis quelques mois déjà nos billets font de plus en plus référence à l&#3
       <pubDate>Wed, 14 Oct 2020 12:13:14 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2014/art_2014-03-19_geogame_pendu_geomatique/</guid>
-      <enclosure url="https://cdn.geotribu.fr/img/geogames/geogame2_capture.png" type="image/png" />
+      
+      <enclosure url="https://cdn.geotribu.fr/img/geogames/geogame2_capture.png" type="image/png" length="22995" />
+      
     </item>
     
     <item>
@@ -109,7 +119,9 @@ Depuis quelques mois déjà nos billets font de plus en plus référence à l&#3
       <pubDate>Wed, 14 Oct 2020 12:02:31 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2014/art_2014-01-08_geogame_qcm_histoire_cartographie/</guid>
-      <enclosure url="https://cdn.geotribu.fr/img/geogames/geogame1_capture.png" type="image/png" />
+      
+      <enclosure url="https://cdn.geotribu.fr/img/geogames/geogame1_capture.png" type="image/png" length="55770" />
+      
     </item>
     
     <item>
@@ -119,7 +131,9 @@ Depuis quelques mois déjà nos billets font de plus en plus référence à l&#3
       <pubDate>Wed, 14 Oct 2020 10:21:56 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2013/art_2013-11-20_geogame_mots_croises_webmapping/</guid>
-      <enclosure url="https://cdn.geotribu.fr/img/geogames/geogame1_capture.png" type="image/png" />
+      
+      <enclosure url="https://cdn.geotribu.fr/img/geogames/geogame1_capture.png" type="image/png" length="55770" />
+      
     </item>
     
     <item>
@@ -129,7 +143,9 @@ Depuis quelques mois déjà nos billets font de plus en plus référence à l&#3
       <pubDate>Wed, 14 Oct 2020 10:21:08 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2013/art_2013-10-30_geogame_mots_croises_outils_sig/</guid>
-      <enclosure url="https://cdn.geotribu.fr/img/geogames/geogame1_capture.png" type="image/png" />
+      
+      <enclosure url="https://cdn.geotribu.fr/img/geogames/geogame1_capture.png" type="image/png" length="55770" />
+      
     </item>
     
     <item>
@@ -145,7 +161,7 @@ Depuis quelques mois déjà nos billets font de plus en plus référence à l&#3
       <pubDate>Tue, 13 Oct 2020 12:52:47 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-05-05/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -163,7 +179,7 @@ Les initiatives et les travaux de synthèse liés à la géomatique fleurissent 
       <pubDate>Tue, 13 Oct 2020 12:52:47 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-05-15/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -179,7 +195,7 @@ Les initiatives et les travaux de synthèse liés à la géomatique fleurissent 
       <pubDate>Tue, 13 Oct 2020 12:52:47 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-07-12/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -197,7 +213,7 @@ Le [Google Summer of Code](https://fr.wikipedia.org/wiki/Google_Summer_of_Code) 
       <pubDate>Tue, 13 Oct 2020 12:52:47 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-07-21/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -213,7 +229,7 @@ Le [Google Summer of Code](https://fr.wikipedia.org/wiki/Google_Summer_of_Code) 
       <pubDate>Tue, 13 Oct 2020 12:52:47 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-05-04/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -229,7 +245,7 @@ Le [Google Summer of Code](https://fr.wikipedia.org/wiki/Google_Summer_of_Code) 
       <pubDate>Tue, 13 Oct 2020 12:52:47 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-05-11/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -247,7 +263,7 @@ Cela fait plusieurs mois que j&#39;avais envie de jouer un peu avec [spatialite]
       <pubDate>Tue, 13 Oct 2020 12:52:47 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2011/art_2011-03-23/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -263,7 +279,7 @@ Déjà un bout de temps sur GéoTribu et presqu&#39;autant d&#39;idées de tutor
       <pubDate>Tue, 13 Oct 2020 12:52:47 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2013/art_2013-09-26/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -279,7 +295,7 @@ Après une quatorzaine de rétention réglementaire, les news sont lâchées. De
       <pubDate>Tue, 13 Oct 2020 11:47:51 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-05-29/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -297,7 +313,7 @@ Quelques nouvelles fraîches du GeoWeb. Tout d’abord, les [sorties de la semai
       <pubDate>Tue, 13 Oct 2020 08:48:07 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-07-01/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -307,7 +323,7 @@ Quelques nouvelles fraîches du GeoWeb. Tout d’abord, les [sorties de la semai
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-11-03/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -317,7 +333,7 @@ Quelques nouvelles fraîches du GeoWeb. Tout d’abord, les [sorties de la semai
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-12-07/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -335,7 +351,7 @@ Petit clin d&#39;œil pour une fois avec ce billet plein d&#39;humour inspiré d
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-02-01/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -355,7 +371,7 @@ L&#39;histoire de ce logiciel débute en 2002, QGIS avait alors comme objectif d
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-02-09/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -373,7 +389,7 @@ Vér</description>
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-03-18/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -389,7 +405,7 @@ Vér</description>
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-04-26/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -405,7 +421,7 @@ Vér</description>
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-05-19/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -423,7 +439,7 @@ D&#39;habitude j&#39;utilise principalement QGis, sa souplesse d&#39;utilisation
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-05-24/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -439,7 +455,7 @@ D&#39;habitude j&#39;utilise principalement QGis, sa souplesse d&#39;utilisation
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-05-25/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -455,7 +471,7 @@ D&#39;habitude j&#39;utilise principalement QGis, sa souplesse d&#39;utilisation
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-05-31/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -473,7 +489,7 @@ Ne serait-il pas alors agréable de disposer d&#39;une librairie regroupant la m
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-06-02/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -489,7 +505,7 @@ Ne serait-il pas alors agréable de disposer d&#39;une librairie regroupant la m
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-06-04/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -508,7 +524,7 @@ Entre le Where 2.0 et le Google IO, que de nouvelles choses à apprendre.
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-06-05/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -524,7 +540,7 @@ Entre le Where 2.0 et le Google IO, que de nouvelles choses à apprendre.
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-06-07/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -540,7 +556,7 @@ Entre le Where 2.0 et le Google IO, que de nouvelles choses à apprendre.
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-06-23/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -556,7 +572,7 @@ Entre le Where 2.0 et le Google IO, que de nouvelles choses à apprendre.
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-07-01/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -573,7 +589,7 @@ Combien ont déjà passé toute une journée à coder en utilisant Firefox pour 
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-07-15/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -589,7 +605,7 @@ Combien ont déjà passé toute une journée à coder en utilisant Firefox pour 
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-07-17/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -605,7 +621,7 @@ Combien ont déjà passé toute une journée à coder en utilisant Firefox pour 
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-07-19/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -621,7 +637,7 @@ Combien ont déjà passé toute une journée à coder en utilisant Firefox pour 
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-07-26/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -639,7 +655,7 @@ La prem</description>
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-08-03/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -657,7 +673,7 @@ Je l&#39;a</description>
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-08-06/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -673,7 +689,7 @@ Je l&#39;a</description>
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-08-10/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -689,7 +705,7 @@ Je l&#39;a</description>
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-08-17/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -705,7 +721,7 @@ Je l&#39;a</description>
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-08-20/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -721,7 +737,7 @@ Je l&#39;a</description>
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-09-02/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -741,7 +757,7 @@ Nous sommes très heureux de pouvoir vous annoncer la sortie d</description>
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-09-04/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -761,7 +777,7 @@ La nouvelle version de QGis e</description>
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-09-09/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -777,7 +793,7 @@ La nouvelle version de QGis e</description>
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-09-11/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -795,7 +811,7 @@ De nombreux articles mettant en avant la puissance jumelée de ces nouvelles v</
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-09-15/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
     <item>
@@ -811,7 +827,7 @@ De nombreux articles mettant en avant la puissance jumelée de ces nouvelles v</
       <pubDate>Tue, 13 Oct 2020 08:23:27 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-09-25/</guid>
-      <enclosure url="None" type="None" />
+      
     </item>
     
   </channel>
