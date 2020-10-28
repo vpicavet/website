@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Mon, 26 Oct 2020 12:30:24 -0000</pubDate>
-    <lastBuildDate>Mon, 26 Oct 2020 12:30:24 -0000</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2020 08:33:00 -0000</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2020 08:33:00 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,18 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Utiliser GDAL sous Windows avec WSL (Windows Subsystem for Linux)</title>
+      <description>WSL ? Le Windows Subsystem for Linux permet depuis quelques années déjà de faire tourner un terminal bash sous Windows et ainsi bénéficier de l&#39;usage des programmes populaires de l&#39;écosystème Linux. Dans ce tutoriel, nous verrons comment installer et configurer WSL sur Windows 10, puis nous verrons les possibilités que cela ouvre en installant et utilisant GDAL dans le sous-système Linux.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-10-28_gdal_windows_subsystem_linux_wsl/</link>
+      <pubDate>Tue, 27 Oct 2020 08:12:20 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-10-28_gdal_windows_subsystem_linux_wsl/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/gdal_wsl/ubuntu_wsl_landing_page.png" type="image/png" length="81924" />
+      
+    </item>
     
     <item>
       <title>Privé de désert : le géogame inédit</title>
@@ -163,7 +175,7 @@ Voici comment corriger en quelques étapes simples et **sans rien installer**.
     </item>
     
     <item>
-      <title>Configurer l'environnement pour l'édition locale des contenus de Geotribu</title>
+      <title>Configurer l'environnement pour l'édition en local</title>
       <description># Installation pour l&#39;édition locale
 
 !!! tip
@@ -596,16 +608,6 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-11-13/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 11 décembre</title>
-      <description>Revue de presse du 11 décembre</description>
-      <link>https://static.geotribu.fr/rdp/2015/rdp_2015-11-30/</link>
-      <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-11-30/</guid>
       
     </item>
     

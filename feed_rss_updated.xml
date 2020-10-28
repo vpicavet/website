@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Mon, 26 Oct 2020 12:30:24 -0000</pubDate>
-    <lastBuildDate>Mon, 26 Oct 2020 12:30:24 -0000</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2020 08:33:00 -0000</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2020 08:33:00 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,41 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Utiliser GDAL sous Windows avec WSL (Windows Subsystem for Linux)</title>
+      <description>WSL ? Le Windows Subsystem for Linux permet depuis quelques années déjà de faire tourner un terminal bash sous Windows et ainsi bénéficier de l&#39;usage des programmes populaires de l&#39;écosystème Linux. Dans ce tutoriel, nous verrons comment installer et configurer WSL sur Windows 10, puis nous verrons les possibilités que cela ouvre en installant et utilisant GDAL dans le sous-système Linux.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-10-28_gdal_windows_subsystem_linux_wsl/</link>
+      <pubDate>Wed, 28 Oct 2020 08:20:29 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-10-28_gdal_windows_subsystem_linux_wsl/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/gdal_wsl/ubuntu_wsl_landing_page.png" type="image/png" length="81924" />
+      
+    </item>
+    
+    <item>
+      <title>Configurer l'environnement pour l'édition en local</title>
+      <description># Installation pour l&#39;édition locale
+
+!!! tip
+    Remplir d&#39;abord [les prérequis](../../requirements).
+    Les chemins de fichiers et répertoires sont à adapter à votre environnement.
+
+## Git
+
+La mise en ligne du contenu se fait via [Git]. Si vous n&#39;êtes pas à l&#39;aise avec la ligne de commande, il est possible d&#39;utiliser [GitHub Desktop].
+
+Cloner le dépôt, soit avec la commande ci-dessous, soit via [le bouton vert sur le dépôt avec GitHub Desktop](https://github.com/geotribu/website) :
+
+```bash
+c</description>
+      <link>https://static.geotribu.fr/contribuer/edit/local_edition_setup/</link>
+      <pubDate>Tue, 27 Oct 2020 20:36:40 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/edit/local_edition_setup/</guid>
+      
+    </item>
     
     <item>
       <title>Revue de presse du 12 décembre 2014</title>
@@ -852,40 +887,6 @@ Combien ont déjà passé toute une journée à coder en utilisant Firefox pour 
       <pubDate>Mon, 26 Oct 2020 12:19:17 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-07-19/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Bientôt une nouvelle fonctionnalité pour OpenStreetMap, la création de cartes statiques</title>
-      <description># Bientôt une nouvelle fonctionnalité pour OpenStreetMap, la création de cartes statiques
-
-:calendar: Date de publication initiale : 21 juillet 2009
-
-**Mots-clés :** OpenStreetMap | Open Source
-
-![OSM_logo.png](https://cdn.geotribu.fr/img/logos-icones/OpenStreetMap/Openstreetmap.png){: .img-rdp-news-thumb }
-
-Le [Google Summer of Code](https://fr.wikipedia.org/wiki/Google_Summer_of_Code) (GSoC) est un programme annuel, fondé sur une logique de mécénat, visant à promouvoir le développement du logi</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-07-21/</link>
-      <pubDate>Mon, 26 Oct 2020 12:19:17 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-07-21/</guid>
-      
-    </item>
-    
-    <item>
-      <title>State Of The Map 2009, les vidéos sont en ligne</title>
-      <description># State Of The Map 2009, les vidéos sont en ligne
-
-:calendar: Date de publication initiale : 26 juillet 2009
-
-**Mots-clés :** OpenStreetMap | Open Source
-
-![sotm_logo_sm.JPG](http://geotribu.net/sites/default/files/Tuto/img/Blog/divers/sotm_logo_sm.JPG)Après les vidéos de l&#39;[OSGis](http://geotribu.net/node/136), c&#39;est au tour de celles du [State Of The Map 2009](http://www.stateofthemap.org/) d&#39;être en ligne (a consulter sur [viadeo](http://www.vimeo.com/sotm09)). Cette conférence qui s&#39;est tenu</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-07-26/</link>
-      <pubDate>Mon, 26 Oct 2020 12:19:17 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-07-26/</guid>
       
     </item>
     
