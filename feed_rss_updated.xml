@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Fri, 30 Oct 2020 13:10:05 -0000</pubDate>
-    <lastBuildDate>Fri, 30 Oct 2020 13:10:05 -0000</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2020 13:28:50 -0000</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2020 13:28:50 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -38,7 +38,7 @@
       <title>Revue de presse du 30 octobre 2020</title>
       <description>GeoRDP du 30 octobre 2020 : La recette de Geotribu pour un début de confinement réussi : un peu de QGIS 3.16, une pointe de GDAL 3.1.4, une cuillère à soupe de GeoNetwork 4.0.0, une louche d&#39;OpenData et une pincée d&#39;OpenStreetMap. Bref, on melange tout ça et on arrivera assurément à des cartes d&#39;exception.</description>
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-10-30/</link>
-      <pubDate>Fri, 30 Oct 2020 12:57:55 -0000</pubDate>
+      <pubDate>Fri, 30 Oct 2020 13:22:39 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-10-30/</guid>
       
