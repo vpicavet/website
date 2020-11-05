@@ -5,7 +5,7 @@
   <channel>
     <!-- Mandatory elements -->
     <title>Geotribu</title>
-    <description>Site indépendant de veille sur la géomatique libre. Retrouvez nos articles, tutoriels et nos revues de presse (#GeoRDP) sur l&#39;information géographique, les SIG, la cartographie, la représentation des données géographiques... Globalement, tout ce qui mêle géographie et informatique.</description>
+    <description>Site indépendant de veille sur la géomatique libre et open source. Articles, tutoriels et revues de presse (#GeoRDP) sur l&#39;information géographique, les SIG, la cartographie, la représentation des données...</description>
     <link>https://static.geotribu.fr/</link>
     <atom:link href="https://static.geotribu.fr/feed_rss_created.xml" rel="self" type="application/rss+xml" />
 
@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Tue, 03 Nov 2020 18:08:18 -0000</pubDate>
-    <lastBuildDate>Tue, 03 Nov 2020 18:08:18 -0000</lastBuildDate>
+    <pubDate>Thu, 05 Nov 2020 21:23:20 -0000</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2020 21:23:20 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
