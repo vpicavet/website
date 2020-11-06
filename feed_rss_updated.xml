@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Thu, 05 Nov 2020 22:58:52 -0000</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2020 22:58:52 -0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2020 08:30:35 -0000</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2020 08:30:35 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,18 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Revue de presse du 12 avril 2013</title>
+      <description># Revue de presse du 12 avril 2013
+
+C&#39;est une belle revue de presse que nous vous offrons cette semaine. D&#39;ailleurs, je tiens à remercier les différents contributeurs1 sans qui vous n&#39;auriez pas votre bol de news hebdomadaire. Bon revenons à notre sujet principal. Au menu, vous aurez droit à la sortie de la V2 de Monteverdi et de la nouvelle version de LizMap. Basculons ensuite sur OpenStreetMap avec cette superbe réalisation 3D ou encore la version française de Learn OSM. Profitons en également</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-04-12/</link>
+      <pubDate>Fri, 06 Nov 2020 08:24:59 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-04-12/</guid>
+      
+    </item>
     
     <item>
       <title>Leaflet, une nouvelle librairie cartographique en Javascript</title>
@@ -761,24 +773,6 @@ C&#39;est donc avec plaisir que nous vous annonçons la sortie de la version 0.2
       <pubDate>Mon, 26 Oct 2020 12:19:17 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-01-13/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Android et OpenStreetMap</title>
-      <description># Android et OpenStreetMap
-
-:calendar: Date de publication initiale : 14 janvier 2009
-
-**Mots-clés :** Android | OpenStreetMap
-
-![logo Android](https://cdn.geotribu.fr/img/logos-icones/android.jpg){: .img-rdp-news-thumb }
-
-[**Android**](http://code.google.com/android/) la nouvelle plateforme de Google pour téléphone portable propose depuis peu un nouveau service de navigation s&#39;appuyant sur les données d&#39;**OpenStreetMap**. Ce service baptisé [AndNav2](http://www.andnav.org/) est disponible actue</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-01-14/</link>
-      <pubDate>Mon, 26 Oct 2020 12:19:17 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-01-14/</guid>
       
     </item>
     
