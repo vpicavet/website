@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Fri, 06 Nov 2020 08:30:35 -0000</pubDate>
-    <lastBuildDate>Fri, 06 Nov 2020 08:30:35 -0000</lastBuildDate>
+    <pubDate>Sat, 07 Nov 2020 10:35:11 -0000</pubDate>
+    <lastBuildDate>Sat, 07 Nov 2020 10:35:11 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,18 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Revue de presse du 15 mai 2020</title>
+      <description>#GeoRDP du 15 mai 2020 : projection, GRASS, pyrosm, gdal, FME 2020, geopackage, qgis, geoserver, geomapfish</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-05-15/</link>
+      <pubDate>Sat, 07 Nov 2020 10:29:24 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-05-15/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/mercator_scandale_bd.jpg" type="image/jpeg" length="118603" />
+      
+    </item>
     
     <item>
       <title>Revue de presse du 12 avril 2013</title>
@@ -507,20 +519,6 @@ Cette semaine, la prochaine conférence SAGEO, de biens jolies cartes avec Istva
       <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-10-02/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 15 mai 2020</title>
-      <description># Revue de presse du 15 mai 2020
-
-## Intro
-
-Alors que tous les éditeurs logiciels vérifient qu&#39;ils ont bien intégré un outil permettant de représenter la zone de déplacement autorisé en cette période de déconfinement, que certains épilogues sur les étranges corrélations entre locutions régionales (`chocolatine`) et niveaux de contagion, que certaines désespèrent de voir leur double journée un jour devenir synonyme de triste souvenir, à Geotribu on a profité de cette première quinzaine de mai pou</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-05-15/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-05-15/</guid>
       
     </item>
     
