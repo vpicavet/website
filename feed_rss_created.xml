@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Thu, 12 Nov 2020 10:03:26 -0000</pubDate>
-    <lastBuildDate>Thu, 12 Nov 2020 10:03:26 -0000</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2020 12:26:48 -0000</pubDate>
+    <lastBuildDate>Fri, 13 Nov 2020 12:26:48 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,18 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Revue de presse du 13 novembre 2020</title>
+      <description>GeoRDP du 13 novembre 2020, retrouvez le condensé de la géomatique : #30DayMapChallenge, InfluxDB, mobilité, livres, atlas, rdv techniques et thématiques, etc.</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-11-13/</link>
+      <pubDate>Mon, 09 Nov 2020 08:57:23 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-11-13/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/mayors_dialogue_visual_motif.png" type="image/png" length="467357" />
+      
+    </item>
     
     <item>
       <title>Utiliser GDAL sous Windows avec WSL (Windows Subsystem for Linux)</title>
@@ -600,16 +612,6 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-10-02/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 16 Octobre</title>
-      <description>Revue de presse du 16 Octobre</description>
-      <link>https://static.geotribu.fr/rdp/2015/rdp_2015-10-16/</link>
-      <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-10-16/</guid>
       
     </item>
     
