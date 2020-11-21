@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Sat, 14 Nov 2020 11:20:42 -0000</pubDate>
-    <lastBuildDate>Sat, 14 Nov 2020 11:20:42 -0000</lastBuildDate>
+    <pubDate>Sat, 21 Nov 2020 18:19:11 -0000</pubDate>
+    <lastBuildDate>Sat, 21 Nov 2020 18:19:11 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,34 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Contribution facile et ludique à OSM avec Street Complete</title>
+      <description>Présentation de Street Complete, l&#39;application Android qui permet de contribuer facilement et de façon ludique à OpenStreetMap.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-11-21_openstreetmap_street_complete/</link>
+      <pubDate>Sat, 21 Nov 2020 18:10:43 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-11-21_openstreetmap_street_complete/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/openstreetmap/street_complete/streetcomplete_banner.png" type="image/png" length="597773" />
+      
+    </item>
+    
+    <item>
+      <title>Julien Moura</title>
+      <description># Julien Moura
+
+![Portrait Julien Moura](https://cdn.geotribu.fr/img/internal/contributeurs/jmou.jfif &#34;Portrait Julien Moura&#34;){: .img-rdp-news-thumb }
+
+Géographe &#34;sigiste&#34; de formation, j&#39;ai d&#39;abord travaillé sur différentes thématiques et types de structures : la gestion des déchets en milieu urbain à Madagascar, le foncier d&#39;intérêt général auprès de [l&#39;EPF de La Réunion](http://www.epf-reunion.com/), l&#39;organisation et la résilience urbaine face aux risques naturels à Lima pour l&#39;IRD.
+
+C&#39;est e</description>
+      <link>https://static.geotribu.fr/team/jmou/</link>
+      <pubDate>Sat, 21 Nov 2020 18:01:24 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/team/jmou/</guid>
+      
+    </item>
     
     <item>
       <title>Le web-scraping avec Scrapy</title>
@@ -713,40 +741,6 @@ A quoi sert le meilleur des outils si l&#39;on ne sait pas s&#39;en servir? Cett
       <pubDate>Mon, 26 Oct 2020 12:19:17 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-11-05/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Sortie de la version 3.0.0 de PyWPS</title>
-      <description># Sortie de la version 3.0.0 de PyWPS
-
-:calendar: Date de publication initiale : 07 novembre 2008
-
-**Mots-clés :** PyWPS
-
-Grâce au fabuleux travail de Jachym Cepicky et de toute son équipe la release 3.0.0 de PyWPS est enfin [téléchargeable](http://wald.intevation.org/frs/download.php/525/pywps-3.0.0.tar.gz) .
-
-Juste pour rappel, PyWPS est une implémentation du protocole [Web Processing Service](http://www.opengeospatial.org/standards/requests/28) permettant à votre serveur, à partir d&#39;une simpl</description>
-      <link>https://static.geotribu.fr/articles/2008/art_2008-11-07/</link>
-      <pubDate>Mon, 26 Oct 2020 12:19:17 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-11-07/</guid>
-      
-    </item>
-    
-    <item>
-      <title>WorkShop Quantum GIS</title>
-      <description># WorkShop Quantum GIS
-
-:calendar: Date de publication initiale : 17 novembre 2008
-
-**Mots-clés :** QGIS
-
-![logo QGIS](https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/qgis.png){: .img-rdp-news-thumb }[QGis](https://www.qgis.org/) est un des logiciels phare du SIG OpenSource. Un des aspects qui a fait sa popularité est la possibilité d&#39;ajouter ses plugins personnels ou ceux développés par la communauté. Mais ces plugins écrits en python peuvent, pour les néophytes, paraîtrent dérout</description>
-      <link>https://static.geotribu.fr/articles/2008/art_2008-11-17/</link>
-      <pubDate>Mon, 26 Oct 2020 12:19:17 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-11-17/</guid>
       
     </item>
     

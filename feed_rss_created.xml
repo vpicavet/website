@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Sat, 14 Nov 2020 11:20:42 -0000</pubDate>
-    <lastBuildDate>Sat, 14 Nov 2020 11:20:42 -0000</lastBuildDate>
+    <pubDate>Sat, 21 Nov 2020 18:19:11 -0000</pubDate>
+    <lastBuildDate>Sat, 21 Nov 2020 18:19:11 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,18 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Contribution facile et ludique à OSM avec Street Complete</title>
+      <description>Présentation de Street Complete, l&#39;application Android qui permet de contribuer facilement et de façon ludique à OpenStreetMap.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-11-21_openstreetmap_street_complete/</link>
+      <pubDate>Sat, 21 Nov 2020 18:01:38 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-11-21_openstreetmap_street_complete/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/openstreetmap/street_complete/streetcomplete_banner.png" type="image/png" length="597773" />
+      
+    </item>
     
     <item>
       <title>Revue de presse du 13 novembre 2020</title>
@@ -602,16 +614,6 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-09-21/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 2 Octobre</title>
-      <description>Revue de presse du 2 Octobre</description>
-      <link>https://static.geotribu.fr/rdp/2015/rdp_2015-10-02/</link>
-      <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-10-02/</guid>
       
     </item>
     
