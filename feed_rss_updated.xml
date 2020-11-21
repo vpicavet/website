@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Sat, 21 Nov 2020 18:19:11 -0000</pubDate>
-    <lastBuildDate>Sat, 21 Nov 2020 18:19:11 -0000</lastBuildDate>
+    <pubDate>Sat, 21 Nov 2020 18:49:31 -0000</pubDate>
+    <lastBuildDate>Sat, 21 Nov 2020 18:49:31 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -38,7 +38,7 @@
       <title>Contribution facile et ludique à OSM avec Street Complete</title>
       <description>Présentation de Street Complete, l&#39;application Android qui permet de contribuer facilement et de façon ludique à OpenStreetMap.</description>
       <link>https://static.geotribu.fr/articles/2020/2020-11-21_openstreetmap_street_complete/</link>
-      <pubDate>Sat, 21 Nov 2020 18:10:43 -0000</pubDate>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-11-21_openstreetmap_street_complete/</guid>
       
@@ -47,322 +47,276 @@
     </item>
     
     <item>
-      <title>Julien Moura</title>
-      <description># Julien Moura
+      <title>Revue de presse du 1er Octobre 2010</title>
+      <description># Revue de presse du 1er Octobre 2010
 
-![Portrait Julien Moura](https://cdn.geotribu.fr/img/internal/contributeurs/jmou.jfif &#34;Portrait Julien Moura&#34;){: .img-rdp-news-thumb }
+Les nouveautés s&#39;enchaînent plus rapidement que notre capacité à traiter les différents sujets. C&#39;est pourquoi nous vous proposerons chaque vendredi une vision géomatique des événements de la semaine. Bien que moins complète que certains de nos billets, nous souhaitions tout de même vous faire partager ces informations. Attaquons immédiatement notre revue de presse.
 
-Géographe &#34;sigiste&#34; de formation, j&#39;ai d&#39;abord travaillé sur différentes thématiques et types de structures : la gestion des déchets en milieu urbain à Madagascar, le foncier d&#39;intérêt général auprès de [l&#39;EPF de La Réunion](http://www.epf-reunion.com/), l&#39;organisation et la résilience urbaine face aux risques naturels à Lima pour l&#39;IRD.
+----
 
-C&#39;est e</description>
-      <link>https://static.geotribu.fr/team/jmou/</link>
-      <pubDate>Sat, 21 Nov 2020 18:01:24 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/team/jmou/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Le web-scraping avec Scrapy</title>
-      <description>Utiliser le web-scraping (Scrapy) pour récupérer les anciens contenus de Geotribu depuis l&#39;Internet Archive.</description>
-      <link>https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</link>
-      <pubDate>Sat, 14 Nov 2020 11:15:46 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/tuto/webscraping/web_scraping.png" type="image/png" length="48052" />
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 13 novembre 2020</title>
-      <description>GeoRDP du 13 novembre 2020, retrouvez le condensé de la géomatique : #30DayMapChallenge, InfluxDB, mobilité, livres, atlas, rdv techniques et thématiques, etc.</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-11-13/</link>
-      <pubDate>Fri, 13 Nov 2020 12:22:19 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-11-13/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/mayors_dialogue_visual_motif.png" type="image/png" length="467357" />
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 4 septembre 2020</title>
-      <description>GeoRDP du 4 Septembre 2020 : présentation de tegola, un serveur de tuiles vectorielles en Go, Leaflet 1.7, nid d&#39;abeilles avec Plotly, un logo pour GeoPandas, avalanche de ressources sur QGIS, Deck GL en C++, sortie du n°128 de M@ppemonde, outils de dessin dans LizMap, données de la canopée mondiale, cartographie artistique et dynamique de l&#39;évolution du glacier du Rhône, D3 en version 6</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-09-04/</link>
-      <pubDate>Fri, 13 Nov 2020 08:43:10 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-09-04/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/logos-icones/framework_os.jpeg" type="image/jpeg" length="49908" />
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 2 octobre 2020</title>
-      <description>GeoRDP du 2 octobre 2020 : sortie de PostgreSQL 13, GeoServer 2.18, Datawrapper ; des cartographies sur la biodiversité, la COVID et Halloween ; des cours sur QSpatiaLite, les journées QGIS FR 2020 approchent, les données IGN se baladent sur des FTP ouverts aux 4 vents et plein d&#39;autres choses encore à découvrir dans cette revue de presse géomatique !</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-10-02/</link>
-      <pubDate>Fri, 13 Nov 2020 08:22:19 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-10-02/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/datawrapper_update.png" type="image/png" length="243236" />
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 18 Septembre 2020</title>
-      <description>GeoRDP du 18 Septembre : mise à jour de l&#39;extension QGIS cadastre, faire le choix des bonnes couleurs, visualisations autour des élections présidentielles américaines, visualisation des feux de forêt, covid19 et sport, conséquences du réchauffement climatique sur l&#39;habitabilité des Etats-Unis, quand l&#39;absence de données sur une carte les rend visibles, podcast sur être indépendant en géomatique, détection des tremblements de terre grâce aux smartphones, atlas de l&#39;Afrique par l&#39;AFD</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-09-18/</link>
-      <pubDate>Wed, 11 Nov 2020 14:12:11 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-09-18/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/carte_covid.jpg" type="image/jpeg" length="75592" />
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 15 mai 2020</title>
-      <description>#GeoRDP du 15 mai 2020 : projection, GRASS, pyrosm, gdal, FME 2020, geopackage, qgis, geoserver, geomapfish</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-05-15/</link>
-      <pubDate>Sat, 07 Nov 2020 10:29:24 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-05-15/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/mercator_scandale_bd.jpg" type="image/jpeg" length="118603" />
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 12 avril 2013</title>
-      <description># Revue de presse du 12 avril 2013
+## Client
 
-C&#39;est une belle revue de presse que nous vous offrons cette semaine. D&#39;ailleurs, je tiens à remercier les différents contributeurs1 sans qui vous n&#39;auriez pas votre bol de news hebdomadaire. Bon revenons à notre sujet principal. Au menu, vous aurez droit à la sortie de la V2 de Monteverdi et de la nouvelle version de LizMap. Basculons ensuite sur OpenStreetMap avec cette superbe réalisation 3D ou encore la version française de Learn OSM. Profitons en également</description>
-      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-04-12/</link>
-      <pubDate>Fri, 06 Nov 2020 08:24:59 -0000</pubDate>
+### OpenLayers, GvSIG et GRASS
+
+![icône news générique](https://cdn.geotri</description>
+      <link>https://static.geotribu.fr/rdp/2010/rdp_2010-10-01/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-04-12/</guid>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2010/rdp_2010-10-01/</guid>
       
     </item>
     
     <item>
-      <title>Leaflet, une nouvelle librairie cartographique en Javascript</title>
-      <description>A la découverte de Leaflet, une nouvelle librairie cartographique en Javascript.</description>
-      <link>https://static.geotribu.fr/articles/2011/art_2011-06-15/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
+      <title>Revue de presse du 5 Novembre 2010</title>
+      <description># Revue de presse du 5 Novembre 2010
+
+OpenStreetMap fait encore la une de notre revue de presse cette semaine. Il faut dire que l&#39;activité de cette communauté est remarquable. En parlant de remarquable, nous pouvons également cité la vidéo réalisée par l&#39;université de Pennsylvanie. Si vous avez cinq minutes devant vous n&#39;hésitez pas à la consulter. Enfin quelques nouvelles également de notre institut géographique national dont les résultats du concours du GéoPortail ont été dévoilés.
+
+----
+
+## O</description>
+      <link>https://static.geotribu.fr/rdp/2010/rdp_2010-10-05/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2011/art_2011-06-15/</guid>
-      
-      <enclosure url="https://leafletjs.com/docs/images/logo.png" type="image/png" length="35924" />
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2010/rdp_2010-10-05/</guid>
       
     </item>
     
     <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
+      <title>Revue de presse du 8 Octobre 2010</title>
+      <description># Revue de presse du 8 Octobre 2010
 
-:calendar: Date de publication initiale : 08 avril 2011
+Encore une semaine chargée en nouvelles. Dans l&#39;ordre : OpenTripPlanner, Neo4j Spatial, Postgis, Spot et OSM, IGN, TagInfo OSM, GDAL, GeoNetwork, geOrchestra, Google Earth et un ballon sonde :slightly_smiling_face:
 
-**Mots-clés :** Presse
+----
+
+## Client
+
+### Liquid Galaxy : solution de navigation basée sur Google Earth
+
+![](https://cdn.geotribu.fr/img/logos-icones/entreprises_association/google/googleearth.png){: .img-rdp-news-thumb }
+
+J&#39;étais tombé sur une vidéo similaire il y a </description>
+      <link>https://static.geotribu.fr/rdp/2010/rdp_2010-10-08/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2010/rdp_2010-10-08/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 14 Octobre 2010</title>
+      <description># Revue de presse du 14 Octobre 2010
+
+Cette semaine est sous le signe des interfaces cartographiques web. Au menu, le framework CartoView, l&#39;arrivée de la version 1.0 de GeoExt et le changement de nom de GeoJquery sans oublier également le lancement d&#39;une nouvelle base de données raster, MBTiles.
+
+----
+
+## Client
+
+### Cartoview
+
+![icône news générique](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;News Geotribu&#34;){: .img-rdp-news-thumb }
+
+Aux frameworks cartographiques déjà exista</description>
+      <link>https://static.geotribu.fr/rdp/2010/rdp_2010-10-14/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2010/rdp_2010-10-14/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 22 Octobre 2010</title>
+      <description># Revue de presse du 22 Octobre 2010
+
+Fidèle au rendez-vous, voici la revue de presse de la semaine avec au menu : la sortie de nouveau moteur de génération de HeatMap, du nouveau également dans les serveurs de cache de données ou encore le rapprochement entre Wikipedia et OpenStreetMap en Allemagne.
+
+----
+
+## Client
+
+### Acid Maps
+
+![](https://cdn.geotribu.fr/img/1voronoi.png){: .img-rdp-news-thumb }
+
+Nous avions déjà eu l&#39;occasion [précédemment](http://geotribu.net/node/192) d&#39;aborder la repré</description>
+      <link>https://static.geotribu.fr/rdp/2010/rdp_2010-10-22/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2010/rdp_2010-10-22/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 29 Octobre 2010</title>
+      <description># Revue de presse du 29 Octobre 2010
+
+Commençons cette revue de presse avec OpenStreetMap. Ce projet de cartographie collaborative qui fait de plus en plus parler de lui a été à l&#39;honneur lors des 12èmes Journées du Logiciel Libre (JDLL 2010). A cette occasion, Nicolas Moyroud a présenté &#34;comment réaliser une carte pour le Web avec OpenLayers et OpenStreetMap&#34; et &#34;Apprendre à contribuer au projet OpenStreetMap avec JOSM&#34;. Ses supports sont librement téléchargeables sur son [site internet](http:/</description>
+      <link>https://static.geotribu.fr/rdp/2010/rdp_2010-10-29/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2010/rdp_2010-10-29/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 12 Novembre 2010</title>
+      <description># Revue de presse du 12 Novembre 2010
+
+Pour une fois, ce n&#39;est pas OpenStreetMap qui aura la vedette de cette revue de presse mais son homologue Google Maps. Nous parlerons également de la parution du journal officiel de l&#39;OSGEO, de la sortie de la nouvelle version de GVSig et enfin de la réalisation d&#39;un globe 3D en canvas.
+
+----
+
+## Client
+
+### Google Maps
+
+![icône news générique](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;News Geotribu&#34;){: .img-rdp-news-thumb }Depuis la ver</description>
+      <link>https://static.geotribu.fr/rdp/2010/rdp_2010-11-12/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2010/rdp_2010-11-12/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 19 Novembre 2010</title>
+      <description># Revue de presse du 19 Novembre 2010
+
+## Programmation
+
+### Shapely
+
+![](https://cdn.geotribu.fr/img/logos-icones/programmation/python.png){: .img-rdp-news-thumb }Je ne crois pas vous avoir déjà parlé de [Shapely](http://pypi.python.org/pypi/Shapely), le pendant chez Python de la bibliothèque [GEOS](http://trac.osgeo.org/geos/) C++ elle-même dérivant de la [Java Topology Suite](http://sourceforge.net/projects/jts-topo-suite/) ... ouf :slightly_smiling_face: En résumé, il s&#39;agit d&#39;une bibliothèq</description>
+      <link>https://static.geotribu.fr/rdp/2010/rdp_2010-11-19/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2010/rdp_2010-11-19/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 26 Novembre 2010</title>
+      <description># Revue de presse du 26 Novembre 2010
+
+## Logiciel
+
+### OpenGeo Suite
+
+![opengeosuite-sm.png](https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/opengeosuite.png){: .img-rdp-news-thumb }OpenGeo Suite est une interface d&#39;administration vous permettant de gérer et publier facilement et rapidement des applications cartographiques. Celle-ci se base sur [PostGis](http://postgis.refractions.net/), [GeoServer](http://geoserver.org/display/GEOS/Welcome), [GeoExt](http://www.geoext.org/) ([Ope</description>
+      <link>https://static.geotribu.fr/rdp/2010/rdp_2010-11-26/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2010/rdp_2010-11-26/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 3 Décembre 2010</title>
+      <description># Revue de presse du 3 Décembre 2010
+
+## Divers
+
+### News
+
+![icône news générique](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;News Geotribu&#34;){: .img-rdp-news-thumb }Débutons cette revue de la semaine avec une excellente nouvelle, celle de la sortie de QGIS 1.6 répondant au doux nom presque imprononçable : **Copiapó** (ie. c&#39;est une [ville](http://geotribu.net/applications/baselayers/index.php?zoom=12&amp;lon=-7828668.2588643&amp;lat=-3169701.0380392) au Chili). Les améliorations porte</description>
+      <link>https://static.geotribu.fr/rdp/2010/rdp_2010-12-03/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2010/rdp_2010-12-03/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 12 Décembre 2010</title>
+      <description># Revue de presse du 12 Décembre 2010
+
+## ETL
+
+### Talend Open Studio
+
+![icône news générique](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;News Geotribu&#34;){: .img-rdp-news-thumb }Grosse nouvelle pour l&#39;univers des ETL spatiaux, celle de l&#39;intégration des algorithmes géographiques de &lt;sextante&gt; dans [Talend Open Studio](http://www.talend.com/products-data-integration/talend-open-studio.php) (TOS). Ce tour de force réalisé par François-Xavier Prunayre de [NeoGeo](http://www.neogeo</description>
+      <link>https://static.geotribu.fr/rdp/2010/rdp_2010-12-10/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2010/rdp_2010-12-10/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 17 décembre 2010</title>
+      <description># Revue de presse du 17 décembre 2010
+
+## JavaScript
+
+### Maxogden
+
+![icône news générique](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;News Geotribu&#34;){: .img-rdp-news-thumb }Il peut être parfois intéressant d’effectuer certaines opérations spatiales côté client. Si vous en avez le besoin et que vous travaillez avec le format GeoJson, alors la librairie [Maxogden](https://github.com/maxogden/geojson-js-utils) pourrait vous être bien utile. Son utilisation est relativement intui</description>
+      <link>https://static.geotribu.fr/rdp/2010/rdp_2010-12-17/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2010/rdp_2010-12-17/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse de la semaine du 20 Février</title>
+      <description># Revue de presse de la semaine du 20 Février 2012
+
+:calendar: Date de publication initiale : 20 février 2012
+
+**Mots-clés :** OpenLayers | QGIS | Presse | Spatialite
 
 ![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- C&#39;est avec une revue de presse riche en actualité que nous clôturons cette semaine. Beaucoup, beaucoup de nouveautés avec notamment, des rumeurs concernant la [fermeture du site data.gov](#datagov), la [sortie de Mapfish 2.1](#mapfish) ou encore [l&#39;ajout d&#39;un dri</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-08/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
+
+C&#39;est une revue de presse bien chargée que nous vous proposons cette semaine. Nous y aborderons comme à l&#39;accoutumée, les sorties de la semaine, mais aussi la possibilité de créer vos applications OpenLayers avec O</description>
+      <link>https://static.geotribu.fr/rdp/2012/rdp_2012-02-20/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-04-08/</guid>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2012/rdp_2012-02-20/</guid>
       
     </item>
     
     <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
+      <title>Revue de presse du 8 février 2013</title>
+      <description># Revue de presse du 8 février 2013
 
-:calendar: Date de publication initiale : 29 avril 2011
+Cela fait quelque temps que nous avions un peu de mal à tenir nos dead line, mais cette semaine nous sommes à l&#39;heure ! D&#39;autant plus que cette revue de presse est particulièrement riche.
 
-**Mots-clés :** Presse
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- Les revues de presse de GéoTribu s’allongent. A croire que dans le GeoWeb il n&#39;y a jamais de temps mort. Au menu cette semaine, le lancement du nouveau [blog d&#39;Intelli3](#intelli3), une [version cloud](#opengeo) d&#39;opengeo, les futures nouveautés de [PostGis](#pos</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-29/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
+Vous en avez l&#39;habitude, nous commençons tout d&#39;abord par les sorties de la semaine avec une entrée remarquée des ETL. Continuons ensuite avec cette formidable bibliothèque qu&#39;est Orfeo Toolbox sans oublier, quelques news de MySQL qui intègre enfin les spécifications de l&#39;O</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-02-08/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-04-29/</guid>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-02-08/</guid>
       
     </item>
     
     <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
+      <title>Revue de presse du 15 février 2013</title>
+      <description># Revue de presse du 15 février 2013
 
-:calendar: Date de publication initiale : 27 mai 2011
+On ne change pas une équipe qui gagne, cette semaine encore du Leaflet et un plugin pour Django et D3.js. Ensuite nous verrons une interface graphique pour les analyses spatiales avec R et une nouvelle librairie cartographique dénommée Squares développée sous Typescript. Dans notre boulot, on a toujours besoin d&#39;icônes et pour rêver un peu il nous faut des affiches au mur, ce que propose OpenStreetPosters.
 
-**Mots-clés :** OpenLayers | OSM | Presse | GeoAPI
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- Comme tous les vendredis, continuons notre exploration du monde GeoWeb. Cette semaine : une [thèse](#these) à Lausanne, une nouvelle version [RC1](#openlayers) d&#39;OpenLayers , les débuts de [GeoExt](#geoext) dans le mobile, l&#39;[eG8](#eg8),</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-27/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
+Pour finir on vous invite à revoir le décollage de </description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-02-15/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-05-27/</guid>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-02-15/</guid>
       
     </item>
     
     <item>
-      <title>Revue de presse de la semaine du 6 juin 2011</title>
-      <description># Revue de presse de la semaine du 6 juin 2011
+      <title>Revue de presse du 22 février 2013</title>
+      <description># Revue de presse du 22 février 2013
 
-:calendar: Date de publication initiale : 10 juin 2011
+Cette semaine sur GeoTribu, quelques inévitables sorties avec une nouvelle version d&#39;ImageI/O-Ext, une nouvelle version de l&#39;OpenGeo Suite et une mise à jour du plugin de dessin de Leaflet. Une revue de presse sans OpenStreetMap ne serait complète, cette semaine c&#39;est au tour de 3liz qui propose un nouvel outil qui couple les photos Flickr avec OSM : OsmFlickr.
 
-**Mots-clés :** OpenLayers | GeoServer | Presse
-
-## Openlayers dans une projection &#34;exotique&#34;
-
-![projection](https://cdn.geotribu.fr/img/logos-icones/divers/projection.png &#34;icône projection&#34;){: .img-rdp-news-thumb }
-
-On reproche souvent au web cartographique une certaine aseptisation du mode de projection utilisé. Peu de fantaisies sont autorisées. Ainsi, la plupart du temps, celle que vous re</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-06-10/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
+Nous continuons ensuite avec la guerre que se livrent les gouvernements avec les systèmes de posi</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-02-22/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-06-10/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 15 août</title>
-      <description># Revue de presse de la semaine du 15 août 2011
-
-:calendar: Date de publication initiale : 19 août 2011
-
-**Mots-clés :** GeoServer | JavaScript | OpenSource | API | QGIS | Presse
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
-
-Après les 20 ans du Web, c&#39;est au projet [Debian](http://www.debian.org) de souffler ses 18 bougies. Si vous utilisez cette distribution (où l&#39;un de ses dérivés) vous pouvez laisser un message de remerc</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-08-19/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-08-19/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 24 Octobre</title>
-      <description># Revue de presse de la semaine du 24 Octobre 2011
-
-:calendar: Date de publication initiale : 28 octobre 2011
-
-**Mots-clés :** Google Maps | QGIS | OSM | Presse
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
-Cette semaine, une grosse partie de notre attention a été accaparée par les [différentes annonces](#news12) de chez Google. Mais ce n&#39;est pas une raison pour rater : la sortie de la [version 0.6 de TileMill](#news21), les</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-10-28/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-10-28/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 12 Décembre</title>
-      <description># Revue de presse de la semaine du 12 Décembre 2011
-
-:calendar: Date de publication initiale : 16 décembre 2011
-
-**Mots-clés :** Open Data | GeoRDP | HTML 5
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- Bientôt les vacances - ça va faire du bien. Mais en attendant retrouvez notamment dans notre revue de presse un dossier spécial [ouverture de données](#news21) mais aussi du [transport](#news22), du HTML5 et bien d&#39;autres. S</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-12-16/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-12-16/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de Presse de la semaine du 4 Juin</title>
-      <description># Revue de Presse de la semaine du 4 Juin 2012
-
-:calendar: Date de publication initiale : 08 juin 2012
-
-**Mots-clés :** GeoServer | Google | OpenStreetMap | QGIS | OpenGeo Suite | GeoRDP
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- Ah ! Enfin, nous retrouvons un rythme de croisière normal ! Il faut dire qu&#39;après ce sevrage de nouvelles fraîches, nous étions un peu comme un adepte de WeightWatchers devant un bon hamburger. </description>
-      <link>https://static.geotribu.fr/rdp/2012/rdp_2012-06-08/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2012/rdp_2012-06-08/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 22 Juin</title>
-      <description># Revue de presse du 22 Juin 2012
-
-:calendar: Date de publication initiale : 22 juin 2012
-
-**Mots-clés :** GeoRDP | OpenLayers | QGIS | Spatialite | Leaflet | OWSLib | GeoPublisher | AtlasStyler SLD | LibreAtlas | D3js | GPS
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- Cette semaine énormément de nouveautés. Il faut croire que les développeurs s&#39;en sont donnés à cœur joie avec notamment la sortie de la [version 1.8 de QGIS</description>
-      <link>https://static.geotribu.fr/rdp/2012/rdp_2012-06-22/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2012/rdp_2012-06-22/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 6 août 2012</title>
-      <description># Revue de presse du 6 août 2012
-
-:calendar: Date de publication initiale : 09 août 2012
-
-**Mots-clés :** GeoRDP
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- Je ne sais pas pour vous, mais ici il fait chaud - presque [37 degrés](#news22) hier - c&#39;est trop pour travailler. Et dire que ça va être pire cet après-midi ... Si comme ici vous rêvez de piquer une tête, pourquoi ne pas essayer [GraphHopper](#news12) pour vous rendr</description>
-      <link>https://static.geotribu.fr/rdp/2012/rdp_2012-08-09/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2012/rdp_2012-08-09/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 3 septembre</title>
-      <description># Revue de presse du 3 septembre 2012
-
-:calendar: Date de publication initiale : 06 septembre 2012
-
-**Mots-clés :** OpenLayers | OpenStreetMap | uDig | Python | Spatialite | Leaflet | GeoAlchemy | GeoRDP | GeoServer | topologie
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- C&#39;est la rentrée chez Geotribu cette semaine. Le nombre de news recommence à devenir important dans notre veille. Retenez qu&#39;il vous faut suivre les reto</description>
-      <link>https://static.geotribu.fr/rdp/2012/rdp_2012-09-06/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2012/rdp_2012-09-06/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 24 Septembre 2012</title>
-      <description># Revue de presse du 24 Septembre 2012
-
-:calendar: Date de publication initiale : 28 septembre 2012
-
-**Mots-clés :** GeoRDP | GeoServer | Google Maps | Apple | Open Data | GeoTools | Facebook | CKAN | cascadenik | Geopaparazzi | OpenStreetMap
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
- Le vendredi, c&#39;est revue de presse et cette semaine ne manquera pas à l&#39;appel ! Les traditionnelles sorties de la semaine ouvrent le bal h</description>
-      <link>https://static.geotribu.fr/rdp/2012/rdp_2012-09-28/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2012/rdp_2012-09-28/</guid>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-02-22/</guid>
       
     </item>
     
@@ -374,9 +328,36 @@ GeoTribu vous propose cette semaine quelques inévitables sorties avec une nouve
 
 Enfin, nous saluons l&#39;initiative OpenFoodFacts qui to</description>
       <link>https://static.geotribu.fr/rdp/2013/rdp_2013-03-01/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-03-01/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 8 mars 2013</title>
+      <description># Revue de presse du 8 mars 2013
+
+L’arrivée du printemps n&#39;est pas pour autant synonyme de news. C&#39;est une revue de presse un peu timide que nous vous offrons cette semaine. Mais rassurez vous, vous aurez tout de même de quoi occuper votre vendredi. Commençons par nous intéresser aux nouveautés côté client avec la sortie de SRTM Tile Grabber puis faisons un détour chez nos amis les chats avec Cat Map et enfin profitons en pour visualiser cette superbe carte du métro.
+
+Place maintenant à OpenStre</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-03-08/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-03-08/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 15 mars 2013</title>
+      <description># Revue de presse du 15 mars 2013
+
+Après la revue de presse (relativement) frugale de la semaine passée, celle-ci fait plutôt courir le risque de l&#39;indigestion ! On n&#39;a même pas réussi à tout compiler ! Les nouvelles versions stables de EasySDI et GeoNetwork ouvrent le bal en faisant le plein de nouveautés, suivis de près par la v1 du SDK de MapBox pour iOS, l&#39;arrivée d&#39;une cartouche spatiale pour un outil de traitement des gros lots de données, SpatialHadoop et la mise jour des plugins LizMap.
+</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-03-15/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-03-15/</guid>
       
     </item>
     
@@ -386,9 +367,73 @@ Enfin, nous saluons l&#39;initiative OpenFoodFacts qui to</description>
 
 Premiers jours du printemps... Cela se ressent dans notre univers de la géomatique qui bourgeonne de nouvelles. Commençons bien évidemment par nos habituelles sorties de la semaine. Nous parlerons notamment de la version 2.3.0 de Geoserver, du moteur d’itinéraires Open Source OSRM ou encore de la future version de QGIS. Ensuite, la majeure partie de cette revue de presse est consacrée à OpenStreetMap avec cette carte Michelin utilisant les données OSM ou encore</description>
       <link>https://static.geotribu.fr/rdp/2013/rdp_2013-03-22/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-03-22/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 29 mars 2013</title>
+      <description># Revue de presse du 29 mars 2013
+
+Cette semaine en plus du chocolat, vous risquez de faire une indigestion de news. Le recrutement de contributeurs cela a du bon. Au passage merci à toute l&#39;équipe de rédaction. Alors au menu nous avons : OpenStreetMap avec le bulletin n°15 des activités, un site pour les fondeurs, une cartopartie ce samedi à Bordeaux et une superbe animation; du Google avec deux tutoriaux sur les styles personnalisés, un service de géolocalisation des photos Instagram, Street V</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-03-29/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-03-29/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 5 avril 2013</title>
+      <description># Revue de presse du 5 avril 2013
+
+Nous étions tellement occupés à manger du chocolat que la revue de presse arrive légèrement en retard cette semaine. Il paraîtrait que le chocolat augmente les capacités de mémorisation. Espérons que vous arriviez à retenir cette revue de presse assez conséquente. Du côté des technos web, OpenLayers se voit doté d&#39;[outils de mesure plus performants](#news21). Mais avis aux gourmands, inutile d&#39;essayer de mesurer votre poids après ces fêtes de Pâques. Un outil a</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-04-05/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-04-05/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 12 avril 2013</title>
+      <description># Revue de presse du 12 avril 2013
+
+C&#39;est une belle revue de presse que nous vous offrons cette semaine. D&#39;ailleurs, je tiens à remercier les différents contributeurs1 sans qui vous n&#39;auriez pas votre bol de news hebdomadaire. Bon revenons à notre sujet principal. Au menu, vous aurez droit à la sortie de la V2 de Monteverdi et de la nouvelle version de LizMap. Basculons ensuite sur OpenStreetMap avec cette superbe réalisation 3D ou encore la version française de Learn OSM. Profitons en également</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-04-12/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-04-12/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 19 avril 2013</title>
+      <description># Revue de presse du 19 avril 2013
+
+Bonjour et bienvenue à bord de notre vol géomatique hebdomadaire. Les sorties de secours sont indiquées avec d&#39;OpenLayers 3 alpha côté nouveauté client, avec gvSIG 2.0 côté desktop et avec une pirouette de MapBox.js en Leaflet majeur.
+
+Pour des raisons de sécurité, notre système de navigation est basé sur des cartes Michelin réalisées avec les données Open Street Map en attendant le système de cartographie 3D iranien, actuellement en développement. Gardez votr</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-04-19/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-04-19/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 26 avril 2013</title>
+      <description># Revue de presse du 26 avril 2013
+
+Cette semaine, nous aurions aimé vous parler de la sortie du nouveau Mapserver ou bien encore de la Cartopartie organisée par la ville de Montpellier... et de toutes ces geonew&#39;s qui nous passionnent. Cependant, l&#39;équipe de GeoTribu s&#39;est concentrée sur un tout autre objectif, le lancement d&#39;une nouvelle version de Geotribu dédiée comme toujours à l&#39;actualité de la cartographie ainsi qu&#39;à la diffusion de ressources numériques.
+
+Créé en 2008, le site internet d</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-04-26/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-04-26/</guid>
       
     </item>
     
@@ -398,290 +443,160 @@ Premiers jours du printemps... Cela se ressent dans notre univers de la géomati
 
 Cela faisait quelques semaines que nous n&#39;avions pas eu l&#39;occasion de vous offrir de véritables revues de presse. La cause ? La migration ainsi que le design du nouveau GeoTribu. J’espère en tout cas que vous aimez autant que nous cette nouvelle version ! Encore une fois, nous remercions sincèrement l’équipe de [aestetype](http://www.aestetype.com/) d&#39;avoir eu la gentillesse d&#39;apporter leur connaissance et leur savoir faire lors de la conception du site. Ils ont</description>
       <link>https://static.geotribu.fr/rdp/2013/rdp_2013-05-03/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-05-03/</guid>
       
     </item>
     
     <item>
-      <title>Revue de presse du 24 mai 2013</title>
-      <description># Revue de presse du 24 mai 2013
+      <title>Revue de presse du 10 Mai 2013</title>
+      <description># Revue de presse du 10 Mai 2013
 
-Une revue de presse encore bien chargée cette semaine. La sortie remarquable de Follium, interface pour Leaflet en Python accompagne une mise à jour de GeoServer. La version 2 de QuantumGIS continue d&#39;alimenter nos colonnes (enfin notre colonne) avec la présentation de son nouveau logo et la mise à jour de Time Manager, l&#39;un de ses plugins les plus emblématiques.
-
-Côté client, on vous fait un petit point sur Kartograph et on vous invite à découvrir l&#39;Arctique et</description>
-      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-05-24/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
+Cette semaine, OpenStreetMap fait la une avec la sortie de ID son nouvel éditeur Web! Mais ce n&#39;est pas tout. En effet, notons également la disponibilité d&#39;une nouvelle application nommée &#34;Show me the Way&#34; ainsi que deux articles dediés au fameux projet de cartographie communautaire. Néanmoins, ce n&#39;est pas une raison pour éclipser les autres actualités de la semaine. Notons la sortie de GDAL/OGR en version 1.10.0 ainsi que MapStore en version 1.2.0. Enfin termi</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-05-10/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-05-24/</guid>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-05-10/</guid>
       
     </item>
     
     <item>
-      <title>Revue de presse du 23 août 2013</title>
-      <description># Revue de presse du 23 août 2013
+      <title>Revue de presse du 17 Mai 2013</title>
+      <description># Revue de presse du 17 Mai 2013
 
-J&#39;espère que notre coupure de repos vous a mis en appétit, car nous allons faire le plein de news ! Pas mal de nouveautés cette semaine avec notamment un velouté [de Mapserver](#Version-beta-de-Mapserver-6-4-0), accompagné d&#39;un soupçon de [GéoServer et GéoTools](#Nouvelle-version-de-Geotools-et-de-GeoServer) sur son lit [de Postgis](#Nouvelle-version-de-Geotools-et-de-GeoServer). Cela se déguste bien évidemment accompagné d&#39;un [château Qgis](#Appel-de-la-commun</description>
-      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-08-23/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
+Revue de presse jolie, jolie ! Bien chargée en fibres géomatiques, on vous a découpé en petites tranches l&#39;actualité de **MapBox** et d&#39;**OpenLayers 3**. En cas de pépin, essayez de deviner où vous êtes avec **GeoGuessr** et vous arriverez certainement à bon **port**.  
+**OpenStreetMap** est bien entendu le noyau dur de toute *#GeoRDP* avec l&#39;ouverture de sa campagne de soutien, une Map Party québecoise en vue de la PyCon et un workshop intéressant.  
+La nouvell</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-05-17/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-08-23/</guid>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-05-17/</guid>
       
     </item>
     
     <item>
-      <title>Revue de presse du 20 septembre 2013</title>
-      <description># Revue de presse du 20 septembre 2013
+      <title>Revue de presse du 31 Mai 2013</title>
+      <description># Revue de presse du 31 Mai 2013
 
-Vous l&#39;avez peut-être noté, mais notre billet est paru avec un peu de retard. La raison, au choix selon les rédacteurs : [grippe](http://www.blogdelasante.com/wp-content/uploads/2009/07/grippe-A-humour.jpg), [FOSS4G 2013](http://2013.foss4g.org/) ou encore [surmenage professionnel](http://img.xooimage.com/files64/9/5/9/virer-les-depressifs-2471cf5.jpg). Bon, en plus on attendait également patiemment la sortie de QGIS 2.0 ! Nous n&#39;allions tout de même pas c</description>
-      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-09-20/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
+Malgré notre [première GeoInterview](http://geotribu.net/node/621), nous avons tout de même trouve l’énergie pour vous pondre une revue de presse pleine de news. Au menu de celle-ci, la sortie de MapMeter, le nouveau joujou des geeks cartographes venus tout droit de chez OpenGeo. Mais aussi une carte bien déjantée des futures représentations du groupe MGMT ainsi qu&#39;une rétrospective et quelques annonces pour la bibliothèque cartographique Leaflet. Au niveau logi</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-05-31/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-09-20/</guid>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-05-31/</guid>
       
     </item>
     
     <item>
-      <title>Revue de presse du 25 Octobre 2013</title>
-      <description># Revue de presse du 25 Octobre 2013
+      <title>Revue de presse du 7 juin 2013</title>
+      <description># Revue de presse du 7 juin 2013
 
-La semaine de GéoTribu a été marquée par l&#39;introspection collective...pardon ? introspection collective ? oui, c&#39;est la fonction aléatoire d&#39;[Antidote](http://www.druide.com/antidote.html)qui m&#39;a sorti ça et je trouve que ça fait assez clâsse, non ? Donc je disais, que nous avons eu de grandes discussions en interne autour de la dynamique des contributions. Entre autres problèmes existentiels comme la prépondérance du sucré dans les recettes de la semaine, s</description>
-      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-10-25/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
+Oté la GéoRDP léla ! Si zot konpran pa sak moin la pou kozé, ben lé bann zoreils é i fodra lir tout ! Alon batt&#39;karé ek**MapNik 2.2.0** (ki gingn 25% en vitèss ek PostGIS), l&#39;API **REST pou MapServer** i in pti&#39;nouvo **Whitebox GAT 3.0**. KLM propoz out bougs ki saute la mer dorganizé son voyaz ek **Must See Map**. OpenStreetMap lé touzour dan l&#39;actualité mé le **State Of The Map** nou di ousa nou sava é **Eric Fisher** nou di ousakilé la contribution la plu ou </description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-06-07/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-10-25/</guid>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-06-07/</guid>
       
     </item>
     
     <item>
-      <title>Revue de presse du 22 novembre 2013</title>
-      <description># Revue de presse du 22 novembre 2013
+      <title>Revue de presse du 14 juin 2013</title>
+      <description># Revue de presse du 14 juin 2013
 
-Bon appétit à tous.  
-Comme tous les vendredis elle est prête!  
-Tu l&#39;as pas encore vue, mais tu sais qu&#39;elle est alléchante!  
-Et puis quand tu la vois, elle t&#39;enchante.  
-Tavernier, à boire, mets-nous le Beaujolais Nouveau pour accompagner tout ça !  
-Mais accompagner quoi ? la pizza ? Mais non ! Notre revue de presse cartographique.  
-Ahhh, tu es énervant à la fin, tu nous gâches toujours le plaisir avec tes pizzas, si tu continues on te vire de la tribu</description>
-      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-11-22/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
+Cette semaine, l’Administration Américaine surveille tous vos échanges sur la toile… et comme chaque vendredi elle rédige son rapport aux plus hautes instances du pouvoir.  De notre côté,comme chaque semaine, nous surveillons tous mouvements suspicieux de géoinformations ! La semaine fut chargée mais grâce à notre dernière recrue (l’agent [@AdrienVH](https://twitter.com/AdrienVH)), nous nous en sommes bien sorti. Les géoattaques du **FROG** furent nombreuses ma</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-06-14/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-11-22/</guid>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-06-14/</guid>
       
     </item>
     
     <item>
-      <title>Revue de presse du 20 décembre 2013</title>
-      <description># Revue de presse du 20 décembre 2013
+      <title>Revue de presse du 21 juin 2013</title>
+      <description># Revue de presse du 21 juin 2013
 
-Bon bien évidemment qui dit période de noël, dit que nous allons avoir droit à toutes les rediffusions habituelles de films. Mais si, vous savez ces films que nous avons déjà vu 50 000 fois ! Au hasard, &#34;Maman j&#39;ai raté l&#39;avion&#34;. Avec un peu de chance, vous allez même peut-être avoir la trilogie. Pour ma part, voici ma sélection pour le 25 décembre:
-
-Bon plus sérieusement, chez GéoTribu nous se sommes pas vraiment des enfants de choeur mais Noël oblige, cet</description>
-      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-12-20/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
+21 juin : solstice d&#39;été ... fête de la musique ... il pleut ... y&#39;aurait pas comme un petit chouia de changement climatique? En tout cas, on peut rester chez soi à lire cette revue de presse bien fournie. En vrac, l&#39;inévitable **OpenStreetMap** et la 3D à l&#39;honneur, et comment fabriquer une petite carte vite fait sans rien comprendre à l&#39;informatique :slightly_smiling_face: puis de la **Dataviz** de compêt&#39; : pour changer, du **Métro** parisien et londonien :w</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-06-21/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-12-20/</guid>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-06-21/</guid>
       
     </item>
     
     <item>
-      <title>Revue de presse du 31 Janvier 2014</title>
-      <description># Revue de presse du 31 Janvier 2014
+      <title>Revue de presse du 28 juin 2013</title>
+      <description># Revue de presse du 28 juin 2013
 
-Webmapping, cartographie, Open Data, Geoserver, Openlayer, Leaflet, OSM, et bien sûr toute la panoplie des termes en &#34;*GIS*&#34;, QGIS, Postgis... Tout un chapelet de termes cartographiques que vous retrouvez dans notre revues de presse. L&#39;actualité de cette semaine est dense, alors nous vous invitons à faire le vide autour de vous... inspirez bien fort, expirez... C&#39;est parti pour votre voyage cartographique hebdomadaire ! Enjoy !
+Cette semaine, tous les regards sont tournés vers le Grand Nelson Mandela. Le programme Prism et son système de surveillance ont aussi fait l&#39;actualité. Quand on parle de surveillance, on pense souvent &#34;satellite&#34;. Contrairement à nous, les satellites sont des yeux tournés inconditionnellement vers la Terre. On vous parlera cette semaine du satellite **landsat** et de l&#39;exploitation de ses images mais aussi d&#39;une bibliothèque **RTKLib** pour récupérer les donné</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-06-28/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-06-28/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 5 juillet 2013</title>
+      <description># Revue de presse du 5 juillet 2013
+
+C&#39;est les vacances pour certains, pour d&#39;autres c&#39;est encore le travail pour quelques semaines ! On a bien pensé à faire une version papier de la revue de presse afin que vous puissiez lire tranquillement les dernières geonews sur la plage avec une pina colada, mais notre budget ne nous permet pas encore la diffusion papier. Du coup, à vos tablettes !  
+ Cette semaine, OSM est encore une fois la star des geonews, on retiendra notamment le support des multipol</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-07-02/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-07-02/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 12 juillet 2013</title>
+      <description># Revue de presse du 12 juillet 2013
+
+Faisant fi des embûches techniques et du parfum envoûtant des vacances, l&#39;équipe est quand même parvenue à publier cette revue de presse. Vous comprendrez donc cette intro courte et efficace pour le coup : Bonne lecture, lisez bien tout en vue de l&#39;interrogation écrite de la fin d&#39;année !
 
 ----
 
-## Sorties de la semain</description>
-      <link>https://static.geotribu.fr/rdp/2014/rdp_2014-01-31/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
+## Sorties de la semaine
+
+### SFCGAL 1.0
+
+![icône news générique](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;News Geotribu&#34;){: .img-rdp-news-thumb</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-07-13/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2014/rdp_2014-01-31/</guid>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-07-13/</guid>
       
     </item>
     
     <item>
-      <title>Revue de presse du 1er Avril 2014</title>
-      <description># Revue de presse du 1er Avril 2014
+      <title>Revue de presse du 19 juillet 2013</title>
+      <description># Revue de presse du 19 juillet 2013
 
-Ouf ! Il y a des semaines comme ça où on n&#39;arrive vraiment pas à sortir la tête de l&#39;eau ! N&#39;allez pas croire que l&#39;on essaye de vous mener en bateau et qu&#39;encore une fois on est juste à la bourre ! Non, non promis cette fois-ci on a un sacré paquet de bonnes excuses : déménagement, enchaînements de déplacements, dates limites pour un article, changement d&#39;heure, etc. Alors oui, les plus râleurs d&#39;entre vous diront que l&#39;on se noie dans verre d&#39;eau, mais ces </description>
-      <link>https://static.geotribu.fr/rdp/2014/rdp_2014-04-01/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
+Chez GéoTribu, tout roule et cette semaine on vous fait encore faire la grande boucle de l&#39;actualité géomatique. Une revue de presse dopée aux vacances ! En espérant que vous n&#39;ayez pas un coup de pompe avant la fin de votre lecture et à la semaine prochaine !
+
+Quand on veillait de bon matin  
+Quand on veillait sur les réseaux  
+Ah, la revue de presse  
+Nous étions quelques bons copains  
+Y avait Arnaud y avait Fabien  
+Y avait Thomas et Jérémie  
+Et puis Pi</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-07-19/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2014/rdp_2014-04-01/</guid>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-07-19/</guid>
       
     </item>
     
     <item>
-      <title>Revue de presse du 16 mai 2014</title>
-      <description># Revue de presse du 16 mai 2014
+      <title>Revue de presse du 26 Juillet 2013</title>
+      <description># Revue de presse du 26 Juillet 2013
 
-Ça fait bien longtemps que nous n&#39;avons pas eu une intro culinaire ... chose réparée par ce vendredi enfin ensoleillé.
-
-Au menu aujourd&#39;hui : en entrée pour mettre en appétit des oiseaux découpés dans des cartes, des zones d&#39;influence des équipes de basket étatsuniennes. GeoServer-Manager, l&#39;API Rest de GeoServer, une nouvelle version de GraphHopper et une nouvelle version de son concurrent OSRM : tout ça pour le plat de résistance. En dessert, un petit reportag</description>
-      <link>https://static.geotribu.fr/rdp/2014/rdp_2014-05-16/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
+Paré à l&#39;abordage et partons à la découverte de nouvelles terres ! Pour cela je vous invite à prendre les commandes de notre [navire Google Maps](#Applications-Google-Maps-2), mais peut-être préférez-vous vous la jouer à la Kim Jong-un et [manipuler votre propre bombe nucléaire](#Applications-Google-Maps-1). Par contre, pour atteindre votre cible, vous aurez besoin de bibliothèques permettant le [traitement d&#39;images satellites](#Orfeo-ToolBox-OTB-passe-en-ve</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-07-26/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2014/rdp_2014-05-16/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 10 octobre 2014</title>
-      <description># Revue de presse du 10 octobre 2014
-
-C&#39;est une revue de presse un peu atypique que nous publions cette semaine. En effet, très peu de technique mais à la place beaucoup de contenu que l&#39;on pourrait qualifier de... Bon en vrai je ne trouve pas le mot qui serait le plus adapté. Je vous laisse donc le soin de vous faire votre propre avis avec notamment une visite guidée du festival Gamerz, une petite astuce pour les geo-james bond ou encore une belle promotion de notre métier par l&#39;Université du K</description>
-      <link>https://static.geotribu.fr/rdp/2014/rdp_2014-10-10/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2014/rdp_2014-10-10/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 31 octobre 2014</title>
-      <description># Revue de presse du 31 octobre 2014
-
-Par tous les saints de la géomatique, voilà une revue de presse de la mort qui tue ! Vos fossoyeurs d&#39;actualités géospatiales ont encore déterré quelques cercueil des news. Préparez les linceuls, ça va réveiller les morts du vendredi !
-
-On démarre à tombeaux ouverts sur la nouvelle version de **GeoServer** dont les tombes des anciennes versions fleurissent les unes après les autres et surtout avec la question existentielle qui se pose à **OSM** : être ou ne </description>
-      <link>https://static.geotribu.fr/rdp/2014/rdp_2014-10-31/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2014/rdp_2014-10-31/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 23 janvier 2015</title>
-      <description># Revue de presse du 23 janvier 2015
-
-Nous sommes en plein hiver et pas encore la trace du moindre flocon sur la ville rose. C&#39;est bien dommage, je trouve ça poétique un flocon qui tombe. Même pour les chanceux qui partent tâter de la fraîche dans les montagnes, c&#39;est pas la super fête à la neige. Donc en bon cartographe, une semaine avant de partir, on scrute les prévisions météorologiques, les différents modèles (GFS, CEP, UKMO, etc) et parfois on se met à rêver à assister à la chute du siècle</description>
-      <link>https://static.geotribu.fr/rdp/2015/rdp_2015-01-23/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-01-23/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 20 Février 2015</title>
-      <description># Revue de presse du 20 Février 2015
-
-Le serveur GeoTribu fait des siennes en ce moment ! Mais ce n&#39;est pas une raison pour oublier une revue de presse.
-
-Cette semaine, la prochaine conférence SAGEO, de biens jolies cartes avec Istvan, une école thématique du CNRS, les itinéraires directement sur le site d&#39;OpenStreetMap, des mises à jour avec GDAL/OGR et GeoServer, les heatmaps qu&#39;il va falloir renommer en isoplèthes, nos voisins de l&#39;autre côté des océans, un quizz sur les aéroports américains,</description>
-      <link>https://static.geotribu.fr/rdp/2015/rdp_2015-02-20/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-02-20/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 27 mars</title>
-      <description>Revue de presse du 27 mars</description>
-      <link>https://static.geotribu.fr/rdp/2015/rdp_2015-03-27/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-03-27/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 24 avril</title>
-      <description>Revue de presse du 24 avril</description>
-      <link>https://static.geotribu.fr/rdp/2015/rdp_2015-04-24/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-04-24/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 2 Octobre</title>
-      <description>Revue de presse du 2 Octobre</description>
-      <link>https://static.geotribu.fr/rdp/2015/rdp_2015-10-02/</link>
-      <pubDate>Tue, 03 Nov 2020 18:03:08 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-10-02/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 30 octobre 2020</title>
-      <description>GeoRDP du 30 octobre 2020 : La recette de Geotribu pour un début de confinement réussi : un peu de QGIS 3.16, une pointe de GDAL 3.1.4, une cuillère à soupe de GeoNetwork 4.0.0, une louche d&#39;OpenData et une pincée d&#39;OpenStreetMap. Bref, on melange tout ça et on arrivera assurément à des cartes d&#39;exception.</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-10-30/</link>
-      <pubDate>Fri, 30 Oct 2020 13:22:39 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-10-30/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/ogc_SymCoreApproved_1024x512.jpg" type="image/jpeg" length="156634" />
-      
-    </item>
-    
-    <item>
-      <title>Utiliser GDAL sous Windows avec WSL (Windows Subsystem for Linux)</title>
-      <description>WSL ? Le Windows Subsystem for Linux permet depuis quelques années déjà de faire tourner un terminal bash sous Windows et ainsi bénéficier de l&#39;usage des programmes populaires de l&#39;écosystème Linux. Dans ce tutoriel, nous verrons comment installer et configurer WSL sur Windows 10, puis nous verrons les possibilités que cela ouvre en installant et utilisant GDAL dans le sous-système Linux.</description>
-      <link>https://static.geotribu.fr/articles/2020/2020-10-28_gdal_windows_subsystem_linux_wsl/</link>
-      <pubDate>Fri, 30 Oct 2020 10:59:45 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-10-28_gdal_windows_subsystem_linux_wsl/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/tuto/gdal_wsl/ubuntu_wsl_landing_page.png" type="image/png" length="81924" />
-      
-    </item>
-    
-    <item>
-      <title>Configurer l&#39;environnement pour l&#39;édition en local</title>
-      <description># Installation pour l&#39;édition locale
-
-!!! tip
-    Remplir d&#39;abord [les prérequis](../../requirements).
-    Les chemins de fichiers et répertoires sont à adapter à votre environnement.
-
-## Git
-
-La mise en ligne du contenu se fait via [Git]. Si vous n&#39;êtes pas à l&#39;aise avec la ligne de commande, il est possible d&#39;utiliser [GitHub Desktop].
-
-Cloner le dépôt, soit avec la commande ci-dessous, soit via [le bouton vert sur le dépôt avec GitHub Desktop](https://github.com/geotribu/website) :
-
-```bash
-c</description>
-      <link>https://static.geotribu.fr/contribuer/edit/local_edition_setup/</link>
-      <pubDate>Tue, 27 Oct 2020 20:36:40 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/edit/local_edition_setup/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 12 décembre 2014</title>
-      <description># Revue de presse du 12 décembre 2014
-
-Cette semaine, une revue de presse couvrant des sujets vraiment très variés. On commence par une utilisation du WebGL pour visualiser les pistes de ski pour passer à Openlayers 3 qui a maintenant le support du WebGL pour le rendu des ponctuels. On couvre une fois de plus QGIS tant pour un Séminaire utilisateurs à Montpellier qu&#39;avec l&#39;intégration continue du code qui va permettre d&#39;identifier des régressions potentielles. Ensuite on passe de l&#39;apologie de G</description>
-      <link>https://static.geotribu.fr/rdp/2014/rdp_2014-12-12/</link>
-      <pubDate>Mon, 26 Oct 2020 12:25:50 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2014/rdp_2014-12-12/</guid>
-      
-    </item>
-    
-    <item>
-      <title>A la découverte d&#39;Udig</title>
-      <description># A la découverte d&#39;Udig
-
-:calendar: Date de publication initiale : 07 juin 2009
-
-**Mots-clés :** Open Source | SIG
-
-![udig_logo.png](/sites/default/files/Tuto/img/Blog/udig/udig_logo.png)Nous continuons notre tour d&#39;horizon des logiciels SIG OpenSource en abordant cette fois-ci UDIG. Développé par [Refraction research](http://www.refractions.net/), il est basé sur l&#39;IDE [Eclipse](http://www.eclipse.org/). Ce dernier, bien que principalement utilisé dans le monde de la programmation a été habile</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-06-07/</link>
-      <pubDate>Mon, 26 Oct 2020 12:23:09 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-06-07/</guid>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-07-26/</guid>
       
     </item>
     
@@ -693,54 +608,164 @@ Aoûtiens ou juilletistes ? Et paf un marronnier facile par ces grandes chaleurs
 
 Une revue de presse sans sortie de la semaine c&#39;est comme ... [c&#39;est comme si Roméo n&#39;aimait plus ... Virginie, comme si l&#39;équipe de l&#39;OM n&#39;av</description>
       <link>https://static.geotribu.fr/rdp/2013/rdp_2013-08-02/</link>
-      <pubDate>Mon, 26 Oct 2020 12:23:09 -0000</pubDate>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-08-02/</guid>
       
     </item>
     
     <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
+      <title>Revue de presse du 9 août 2013</title>
+      <description># Revue de presse du 9 août 2013
 
-:calendar: Date de publication initiale : 15 juillet 2011
-
-**Mots-clés :** Presse
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
-Même au milieu de l&#39;été, le sigweb ne s&#39;arrête pas vraiment. Cette semaine, du OSM encore et toujours avec [un petit userfight](#osmfight) bien sympathique ;), les [frontières](#sudsoudan) d&#39;un nouvel Etat, OSM comme fond de carte pour un [promoteur](#osmlaforet</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-07-15/</link>
-      <pubDate>Mon, 26 Oct 2020 12:21:57 -0000</pubDate>
+Même en plein été on ne chôme pas chez GeoTribu, cette semaine pas mal de trucs avec notamment une nouvelle version de Monteverdi, une carte glissante de Buenos Aires plutôt réussie, une étude sur l&#39;utilisation des différents fonds cartographiques. Chez OSM une actualisation plus rapide des traits de côte et le passage à CartoCSS pour le style en lieu et place du XML utilisé jusqu&#39;alors. Pas mal de représentations cartographiques avec des plans de ville qui aura</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-08-09/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-07-15/</guid>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-08-09/</guid>
       
     </item>
     
     <item>
-      <title>Premiers pas dans la cour des grands</title>
-      <description>Lancement du blog de Geotribu</description>
-      <link>https://static.geotribu.fr/articles/2008/art_2008-11-03/</link>
-      <pubDate>Mon, 26 Oct 2020 12:19:17 -0000</pubDate>
+      <title>Revue de presse du 23 août 2013</title>
+      <description># Revue de presse du 23 août 2013
+
+J&#39;espère que notre coupure de repos vous a mis en appétit, car nous allons faire le plein de news ! Pas mal de nouveautés cette semaine avec notamment un velouté [de Mapserver](#Version-beta-de-Mapserver-6-4-0), accompagné d&#39;un soupçon de [GéoServer et GéoTools](#Nouvelle-version-de-Geotools-et-de-GeoServer) sur son lit [de Postgis](#Nouvelle-version-de-Geotools-et-de-GeoServer). Cela se déguste bien évidemment accompagné d&#39;un [château Qgis](#Appel-de-la-commun</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-08-23/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-11-03/</guid>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-08-23/</guid>
       
     </item>
     
     <item>
-      <title>WorkShop OpenLayers</title>
-      <description># WorkShop OpenLayers
+      <title>Revue de presse du 30 août 2013</title>
+      <description># Revue de presse du 30 août 2013
 
-:calendar: Date de publication initiale : 05 novembre 2008
+Cette semaine, le plein de news depuis l&#39;ICC 2013 à Dresden :slightly_smiling_face: On avait un espion dans l&#39;équipe :slightly_smiling_face: Une petite phrase prononcée par Georg Gartner lors de la cérémonie d&#39;ouverture, &#34;It&#39;s okay to be cartographer !, histoire de motiver les troupes pour la rentrée.
 
-**Mots-clés :** OpenLayers
+&#34;It is okay to be a cartographer!&#34; - then a round of applause. [#iccdd2013](https://twitter.com/search?q=%23iccdd2013&amp;src=hash)
 
-![Logo OpenLayers](https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/openlayers.png){: .img-rdp-news-thumb }
-
-A quoi sert le meilleur des outils si l&#39;on ne sait pas s&#39;en servir? Cette remarque a longtemps été un des reproches principal à l&#39;encontre de l&#39;OpenSource. Mais depuis les choses ont changé et les projets intéressants sont très souvent accompagnés d&#39;une communauté fo</description>
-      <link>https://static.geotribu.fr/articles/2008/art_2008-11-05/</link>
-      <pubDate>Mon, 26 Oct 2020 12:19:17 -0000</pubDate>
+Donc pour cette semaine juste av</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-08-30/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-11-05/</guid>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-08-30/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 6 septembre 2013</title>
+      <description># Revue de presse du 6 septembre 2013
+
+C&#39;est la rentrée chez GéoTribu et ailleurs, il est donc temps de checker (survoler) le cartable de l&#39;actualité géomatique :
+
+----
+
+## Sorties de la semaine
+
+### Imposm 3
+
+![](https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/Omniscale.png){: .img-rdp-news-thumb }
+
+L’outil d’importation des données OpenStreetMap dans une base PostGIS est sorti en version 3. Si les performances ont été largement améliorées, c’est surtout le support des fichiers di</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-09-06/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-09-06/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 13 septembre 2013</title>
+      <description># Revue de presse du 13 septembre 2013
+
+Décidemment c&#39;est la rentrée, l&#39;été est fini et il pleut ... mais c&#39;est une pluie de news cette semaine. Côté client comment faire des choses bien sympathiques avec TileMill, géoréférencer une carte via le web, une liste de bibliothèques carto - costaud la liste :slightly_smiling_face: - et un webservice de paléolocation ! Côté logiciel une nouvelle version de MapBender3, des news du côté de PostGIS et des outils pour avoir des chouettes fonds d&#39;écran :sli</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-09-13/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-09-13/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 20 septembre 2013</title>
+      <description># Revue de presse du 20 septembre 2013
+
+Vous l&#39;avez peut-être noté, mais notre billet est paru avec un peu de retard. La raison, au choix selon les rédacteurs : [grippe](http://www.blogdelasante.com/wp-content/uploads/2009/07/grippe-A-humour.jpg), [FOSS4G 2013](http://2013.foss4g.org/) ou encore [surmenage professionnel](http://img.xooimage.com/files64/9/5/9/virer-les-depressifs-2471cf5.jpg). Bon, en plus on attendait également patiemment la sortie de QGIS 2.0 ! Nous n&#39;allions tout de même pas c</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-09-20/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-09-20/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 27 Septembre 2013</title>
+      <description># Revue de presse du 27 Septembre 2013
+
+Bon cette semaine c&#39;est un vis ma vie à Terre Neuve. Pour l&#39;anecdote, j&#39;avais prévu hier d&#39;organiser une mapping party. Mais, tout comme l&#39;année dernière, ma tentative d&#39;enseigner un peu de VGI aux étudiants a été avortée grâce au temps de m$*&amp;... C&#39;est décidé, l&#39;année prochaine je cherche un poste au soleil ! Heureusement que mes collègues de GéoTribu m&#39;envoient de temps à autre de bonnes recettes pour me faire patienter. Aujourd&#39;hui, on reste dans un thè</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-09-27/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-09-27/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de la presse du 4 octobre 2013</title>
+      <description># Revue de la presse du 4 octobre 2013
+
+Selon Wikipedia, une introduction est &#34;*un discours préliminaire placé en tête d’un ouvrage.*  
+*L’introduction diffère de la préface, de l’avant-propos et du préambule, en ce qu’elle est susceptible de prendre de grands développements, et de renfermer des considérations générales qui dominent le livre entier, en éclairent les principes ou en étendent les conclusions. Certaines introductions, considérées isolément, forment un ouvrage entier.*&#34;
+
+Ce ne sera </description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-10-04/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-10-04/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 11 octobre 2013</title>
+      <description># Revue de presse du 11 octobre 2013
+
+C&#39;est l&#39;automne mais voici venir votre dose hebdomadaire de rayons de soleil géomatique !
+
+Les articles de Markus Neteler sur GRASS 7 et les tutoriels sur gvSIG tombent aussi régulièrement que les feuilles ! Il fait toujours beau du côté d&#39;OSM qui continue de catalyser l&#39;ouverture des données publiques et devient incontournable jusque dans les milieux propriétaires, comme ESRI ou Garmin.
+
+Les jours raccourcissent et il fait donc noir plus longtemps dans nos </description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-10-11/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-10-11/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 18 Octobre 2013</title>
+      <description># Revue de presse du 18 Octobre 2013
+
+Nouvelle révélation d&#39;Edward Snowden : la revue de presse de la semaine n&#39;est rien d&#39;autre que le résultat d&#39;un script automatisé qui parcourt le web et qui compile le tout. Je vous livre le code :
+
+En revanche, pour les représentations cartographiques et les divers, on s&#39;est quand même donné la peine d&#39;en rédiger un sacré paquet : des règles cartos de l&#39;Ordnance survey, à une représentation des civilisations à travers les temps, des métros en forme d&#39;animau</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-10-18/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-10-18/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 25 Octobre 2013</title>
+      <description># Revue de presse du 25 Octobre 2013
+
+La semaine de GéoTribu a été marquée par l&#39;introspection collective...pardon ? introspection collective ? oui, c&#39;est la fonction aléatoire d&#39;[Antidote](http://www.druide.com/antidote.html)qui m&#39;a sorti ça et je trouve que ça fait assez clâsse, non ? Donc je disais, que nous avons eu de grandes discussions en interne autour de la dynamique des contributions. Entre autres problèmes existentiels comme la prépondérance du sucré dans les recettes de la semaine, s</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-10-25/</link>
+      <pubDate>Sat, 21 Nov 2020 18:35:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-10-25/</guid>
       
     </item>
     
