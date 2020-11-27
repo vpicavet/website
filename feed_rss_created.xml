@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Sun, 22 Nov 2020 10:29:37 -0000</pubDate>
-    <lastBuildDate>Sun, 22 Nov 2020 10:29:37 -0000</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2020 14:54:58 -0000</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2020 14:54:58 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -43,6 +43,18 @@
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-11-21_openstreetmap_street_complete/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/openstreetmap/street_complete/streetcomplete_banner.png" type="image/png" length="597773" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 27 novembre 2020</title>
+      <description>GeoRDP du 27 novembre 2020, la revue de presse géomatique de Geotribu : PostGIS 3.1, journées QGIS francophones, les supports de différents événements, un t-shirt GDAL, l&#39;accès aux images satellites de Theia, et d&#39;autres choses encore ! </description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-11-27/</link>
+      <pubDate>Wed, 18 Nov 2020 09:10:19 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-11-27/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/tree_canopy.png" type="image/png" length="215190" />
       
     </item>
     
@@ -604,16 +616,6 @@ Cela consiste en créant une balise de code pointant sur le langage `mermaid`, d
       <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-09-18/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 25 Septembre</title>
-      <description>Revue de presse du 25 Septembre</description>
-      <link>https://static.geotribu.fr/rdp/2015/rdp_2015-09-21/</link>
-      <pubDate>Mon, 29 Jun 2020 14:17:33 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-09-21/</guid>
       
     </item>
     

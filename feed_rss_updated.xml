@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Sun, 22 Nov 2020 10:29:37 -0000</pubDate>
-    <lastBuildDate>Sun, 22 Nov 2020 10:29:37 -0000</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2020 14:54:58 -0000</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2020 14:54:58 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,18 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Revue de presse du 27 novembre 2020</title>
+      <description>GeoRDP du 27 novembre 2020, la revue de presse géomatique de Geotribu : PostGIS 3.1, journées QGIS francophones, les supports de différents événements, un t-shirt GDAL, l&#39;accès aux images satellites de Theia, et d&#39;autres choses encore ! </description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-11-27/</link>
+      <pubDate>Fri, 27 Nov 2020 14:12:20 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-11-27/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/tree_canopy.png" type="image/png" length="215190" />
+      
+    </item>
     
     <item>
       <title>MSCompanion, l&#39;éditeur WYSIWYG de MapFile </title>
@@ -833,23 +845,6 @@ Dans le cadre de mon activité professionnelle, j&#39;avais besoin de modéliser
       <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-01-21/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-:calendar: Date de publication initiale : 04 février 2011
-
-**Mots-clés :** Presse
-
-![News](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png &#34;Icône news générique&#34;){: .img-rdp-news-thumb }
-Il y a 5 ans naissait l&#39;OSGEO - voir l&#39;[acte de fondation](http://www.osgeo.org/content/news/news_archive/open_source_geospatial_foundation_initial_press_release.html.html). Que de chemin parcouru depuis ! La [liste](http://osgeo.org) des projets soutenus est as</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-02-04/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-02-04/</guid>
       
     </item>
     
