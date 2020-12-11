@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Tue, 01 Dec 2020 08:19:40 -0000</pubDate>
-    <lastBuildDate>Tue, 01 Dec 2020 08:19:40 -0000</lastBuildDate>
+    <pubDate>Fri, 11 Dec 2020 13:26:52 -0000</pubDate>
+    <lastBuildDate>Fri, 11 Dec 2020 13:26:52 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,18 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Revue de presse du 11 décembre 2020</title>
+      <description>GeoRDP du 11 décembre 2020, la revue de presse géomatique de Geotribu : De nombreuses mises à jour au programme ainsi qu&#39;une bonne nouvelle du côté de l&#39;ouverture des données.</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-12-11/</link>
+      <pubDate>Fri, 11 Dec 2020 13:14:46 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-12-11/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/globe_sauter.jpeg" type="image/jpeg" length="318364" />
+      
+    </item>
     
     <item>
       <title>Revue de presse du 27 novembre 2020</title>
@@ -829,22 +841,6 @@ Dans le cadre de mon activité professionnelle, j&#39;avais besoin de modéliser
       <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2012/art_2012-04-17/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine</title>
-      <description># Revue de presse de la semaine 2011
-
-:calendar: Date de publication initiale : 21 janvier 2011
-
-**Mots-clés :** GeoRDP
-
-![News.png](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png) Cette semaine au programme : un [code Sprint](#openlayers-mobile) à Lausanne pour OpenLayers ; un [générateur aléatoire](#geoipsum) de GeoJSON ; plein de [tutoriaux](#opengeo) chez OpenGeo ; une [jolie application](#osminterest) sur les points d&#39;intérêts OSM ; une introduction au [WebGL](#webgl) ; une [a</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-01-21/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-01-21/</guid>
       
     </item>
     
