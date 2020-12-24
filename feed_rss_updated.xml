@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Fri, 11 Dec 2020 13:51:15 -0000</pubDate>
-    <lastBuildDate>Fri, 11 Dec 2020 13:51:15 -0000</lastBuildDate>
+    <pubDate>Thu, 24 Dec 2020 15:30:58 -0000</pubDate>
+    <lastBuildDate>Thu, 24 Dec 2020 15:30:58 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,18 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Revue de presse du 25 décembre 2020</title>
+      <description>GeoRDP du 25 décembre 2020 : la revue de presse géomatique de Geotribu pour souhaiter Joyeux Noël et bonnes fêtes !</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-12-25/</link>
+      <pubDate>Thu, 24 Dec 2020 12:00:19 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-12-25/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/merry_christmas_blender.webp" type="None" length="164408" />
+      
+    </item>
     
     <item>
       <title>Revue de presse du 11 décembre 2020</title>
@@ -825,22 +837,6 @@ Dans le cadre de mon activité professionnelle, j&#39;avais besoin de modéliser
       <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-12-20/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Calcul de buffer sous MySQL - 2ème partie - la pratique</title>
-      <description># Calcul de buffer sous MySQL - 2ème partie - la pratique
-
-:calendar: Date de publication initiale : 17 avril 2012
-
-**Mots-clés :** mysql | buffer | rayon | Terre | latitude | longitude
-
-![mysql.png](http://geotribu.net/sites/default/files/Tuto/img/Blog/mysql.png) Pour mettre en application le [premier article](http://www.geotribu.net/node/504) sur le calcul de buffer dans MySQL, nous allons développer une petite démo. Tout d&#39;abord il nous faudra initialiser une base de données qui contiendra pa</description>
-      <link>https://static.geotribu.fr/articles/2012/art_2012-04-17/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2012/art_2012-04-17/</guid>
       
     </item>
     
