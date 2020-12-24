@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Thu, 24 Dec 2020 15:30:58 -0000</pubDate>
-    <lastBuildDate>Thu, 24 Dec 2020 15:30:58 -0000</lastBuildDate>
+    <pubDate>Thu, 24 Dec 2020 15:57:31 -0000</pubDate>
+    <lastBuildDate>Thu, 24 Dec 2020 15:57:31 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -33,6 +33,24 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Google, Evil or not ?</title>
+      <description># Google, Evil or not ?
+
+:calendar: Date de publication initiale : 19 janvier 2012
+
+**Mots-clés :** Google | OpenStreetMap
+
+![google_maps_logo.png](https://cdn.geotribu.fr/img/logos-icones/entreprises_association/google/google_maps.png){: .img-rdp-news-thumb }
+
+Nous avons longtemps hésité avant de relayer les accusations émises à l&#39;encontre de Google tant celles-ci nous semblent démesurées et hors de propos. Mais, des sites à grande audience ([clubic](https://www.clubic.com/application-web/actua</description>
+      <link>https://static.geotribu.fr/articles/2012/art_2012-01-19/</link>
+      <pubDate>Thu, 24 Dec 2020 15:44:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2012/art_2012-01-19/</guid>
+      
+    </item>
     
     <item>
       <title>Revue de presse du 25 décembre 2020</title>
@@ -821,22 +839,6 @@ Dans le cadre de mon activité professionnelle, j&#39;avais besoin de modéliser
       <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-12-13/</guid>
-      
-    </item>
-    
-    <item>
-      <title>iOS 4.2 - carte et accéléromètre</title>
-      <description># iOS 4.2 - carte et accéléromètre
-
-:calendar: Date de publication initiale : 20 décembre 2010
-
-**Mots-clés :** Google Maps | iOS | sencha
-
-![iphone_logo.png](http://geotribu.net/sites/default/files/Tuto/img/Blog/iphone_logo.png)Le développement sur smartphone devient incontournable. [CampToCamp](http://www.camptocamp.com/fr/blog/2010/12/mobile-web-gis/) accélère le développement d&#39;une version compatible smartphone ou tablette d&#39;OpenLayers, en gérant les interactions avec l&#39;écran tactile. Le W3C</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-12-20/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-12-20/</guid>
       
     </item>
     
